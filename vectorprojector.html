@@ -1,0 +1,47 @@
+<DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="leaflet/leaflet.css" />
+    <script src="leaflet/leaflet.js"></script>
+       <style>
+      #map_canvas {
+        width: 500px;
+        height: 800px;
+      }
+    </style>
+<!--Make map-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script src="panga_snarf_comb_hvel.js">
+    </script>
+    <script>
+	$(function(){
+	  var map = L.map('map_canvas').setView([46, -122], 5);
+	  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+	    	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
+	    	maxZoom: 18
+	}).addTo(map);
+        var  mystyle = {
+	   //"fillColor": 'red',
+	   //"weight": 2,
+	  // "opacity": 1,
+	   "color": "#FF00FF"
+	  // "radius": 8,
+	  // "fillOpacity": 0.7,
+         };
+      
+	L.geoJson(myData, {style: {"fillcolor":"red"}} ).addTo(map);
+	});
+    </script>  
+  </head> 
+	  
+  <body>
+	<font face="Impact" size="15" id="heading"> Welcome to the Vector Projector
+   	</font>
+
+	<select id="xml_select" onchange="javascript:load_elements(this.value)">
+	    <option selected value="panga_snarf_comb_hvel.xml"> PANGA Combo  Horizontal
+	</select> 
+    	<div id="map_canvas"></div>
+  </body>
+</html>
