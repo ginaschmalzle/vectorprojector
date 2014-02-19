@@ -5,10 +5,12 @@ dir='/Library/WebServer/Documents'
 projname='vectorprojector'
 if [ $deploy = 'yes' ] 
 then 
+#  sudo apachectl start
   mkdir ${dir}/${projname} 
   cp -r  * ${dir}/${projname}/
   chmod -R +x ${dir}/${projname}/leaflet
 else
+  sudo apachectl end
   rm -r  ${dir}/${projname}
 fi
 

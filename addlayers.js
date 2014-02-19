@@ -1,16 +1,19 @@
-;var a = 10;
-var mapme = function(){
+var addLayers = function (){
+	var myFilteredData = $(myData).filter(function() {
 
-// Remove existing data
-	var myFilteredData = null;
-	myFilteredData = $(myData).filter(function() {
-
-		//console.log(document.getElementById('sigmax').value);
+		if( document.getElementById("sigmax").value === null)
+		{
+		return this.properties.svx <= 10000 && this.properties.svy <= 10000;
+		}
+		else
+		{
+		console.log(document.getElementById('sigmax').value);
 		return this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value;
+		}
 	});
 	myFilteredData = [].slice.call(myFilteredData);
         // Include data points
-        L.geoJson(myFilteredData, {
+           L.geoJson(myFilteredData, {
 		pointToLayer: function (feature, latlng) {
 			//console.log(feature, latlng);
 			return L.circleMarker(latlng, {
@@ -50,14 +53,14 @@ var mapme = function(){
 				{
 				var lines = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2-y,vectorYend2-x],[vectorXend2, vectorYend2],[vectorXend2-y2, vectorYend2-x2]], {
                                         color: 'red',
-                                        weight: 3,
+                                        weight: 4,
                                 });
 				}
 				else if ((feature.properties.vx <=0 ) && (feature.properties.vy>=0))
 				{
 				var lines = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2+y,vectorYend2+x],[vectorXend2, vectorYend2],[vectorXend2+y2, vectorYend2+x2]], {
                                         color: 'red',
-                                        weight: 3,
+                                        weight: 4,
                                 });
 				}
 				else 
@@ -65,12 +68,12 @@ var mapme = function(){
                                 var lines = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2-y,vectorYend2-x],[vectorXend2,
  vectorYend2],[vectorXend2-y2, vectorYend2-x2]], {
                                         color: 'red',
-                                        weight: 3,
+                                        weight: 4,
                                 });
                                 }	
 				return lines 
         }}).addTo(map);
-
+	
  	 var mapclick = { 
 		startLatlng: null,
 		endLatlng: null,
@@ -114,6 +117,7 @@ var mapme = function(){
 				weight: 5
 			}).addTo(map);		
 		}
-
+		
 	});
 };
+
