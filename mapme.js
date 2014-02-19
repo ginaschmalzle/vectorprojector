@@ -1,8 +1,16 @@
-;var a = 10;
-var mapme = function(){
+var dots = null,
+	arrows = null;
+$("#submit").on("click", mapme);
 
-// Remove existing data
+function mapme(){
 	var myFilteredData = null;
+
+	if (map.hasLayer(dots) && map.hasLayer(arrows)) {
+		map.removeLayer(dots);
+		map.removeLayer(arrows);
+	}
+
+//	window.overlayMaps.clearLayers();
 	myFilteredData = $(myData).filter(function() {
 
 		//console.log(document.getElementById('sigmax').value);
@@ -10,7 +18,8 @@ var mapme = function(){
 	});
 	myFilteredData = [].slice.call(myFilteredData);
         // Include data points
-        L.geoJson(myFilteredData, {
+	var overlayMaps = function (){
+	dots = L.geoJson(myFilteredData, {
 		pointToLayer: function (feature, latlng) {
 			//console.log(feature, latlng);
 			return L.circleMarker(latlng, {
@@ -23,7 +32,7 @@ var mapme = function(){
 				});
 		}
         }).addTo(map);
-	L.geoJson(myFilteredData, {
+	arrows = L.geoJson(myFilteredData, {
                 pointToLayer: function (feature, latlng) {
 				var vectorXstart = latlng.lat,  
 					vectorYstart = latlng.lng,
@@ -116,4 +125,6 @@ var mapme = function(){
 		}
 
 	});
+};
+overlayMaps();
 };
