@@ -1,0 +1,16 @@
+#!/bin/bash
+
+deploy=yes  # Either yes or no, No removes directory contents
+dir='/Library/WebServer/Documents'
+projname='vectorprojector'
+if [ $deploy = 'yes' ] 
+then 
+  mkdir ${dir}/${projname} 
+  cp -r  * ${dir}/${projname}/
+  chmod -R +x ${dir}/${projname}/leaflet
+else
+  rm -r  ${dir}/${projname}
+fi
+
+
+

@@ -20,7 +20,7 @@ do
  more $in | egrep $site | awk '{print $8}' | cut -c8-12 | awk '{print ("        \"svx\": ", $1",")}' >> $out
  more $in | egrep $site | awk '{print $9}' | cut -c4-8 | awk '{print ("        \"vy\": ", $1",")}' >> $out
  more $in | egrep $site | awk '{print $10}' | cut -c8-12 | awk '{print ("        \"svy\": ", $1",")}' >> $out
- echo '        "marker-color": "#00ff00"' >> $out
+# echo '        "marker-color": "#00ff00"' >> $out
  echo '    },' >> $out
  echo '    "geometry": {' >> $out
  echo '         "type": "Point",' >> $out
@@ -35,4 +35,4 @@ source ll.dat
 head -$ll $out > temp.dat
 mv temp.dat $out
 
- echo '}];' >> $out
+echo '}];' >> $out

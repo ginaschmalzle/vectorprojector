@@ -1,0 +1,40 @@
+$(function(){
+          var map = L.map('map_canvas').setView([44, -122], 5);
+        
+          L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+                attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
+                maxZoom: 18
+          }).addTo(map);
+        // Include data points
+           L.geoJson(myData, {
+		pointToLayer: function (feature, latlng) {
+			//console.log(feature, latlng);
+			return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#ff7800",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8
+				});
+		}
+        }).addTo(map);
+	L.geoJson(myData, {
+                pointToLayer: function (feature, latlng) {
+                       		console.log(latlng, feature);	 
+				var vectorXstart = latlng.lat,
+					vectorYstart = latlng.lng,
+					size = .1,
+					vectorXend = vectorXstart + feature.properties.vx * size,
+					vectorYend = vectorYstart + feature.properties.vy * size;
+			
+				return L.polyline([[vectorXstart, vectorYstart],[vectorXend, vectorYend]], {
+                                        color: 'red',
+                                        weight: 2,
+                                });
+                }
+        }).addTo(map);
+
+	L.rectangle([[46, -126],[40, -120]], {color: "#ff7800", weight: 1, fillColor: 'green'}).addTo(map);	
+});
+

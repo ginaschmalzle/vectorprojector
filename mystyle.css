@@ -1,0 +1,11 @@
+h1
+           {
+           font-size:250%;
+           font-family:"Arial Black", Gadget, sans-serif;
+           font-style:italic;
+           }
+#map_canvas
+          {
+           width: 500px;
+           height: 800px;
+          }
