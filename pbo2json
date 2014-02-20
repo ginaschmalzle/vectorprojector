@@ -1,0 +1,38 @@
+#!/bin/bash
+
+#in=panga_snarf_comb_hvel.xml
+out=pbo_velocity_snarf.js
+
+more  pbo_velo_norepeats.dat   > temp.dat 
+in=temp.dat 
+awk '{print($8)}' $in | awk 'NF' > sites.dat 
+
+echo "var myData = [{" > $out
+
+
+while read site
+do 
+ echo '    "type": "Feature",' >> $out
+ echo '    "properties": {' >> $out
+
+ echo $site | awk '{print ("        \"name\": \""$1"\",")}' >> $out
+ more $in | egrep $site | awk '{print $3}' | awk '{print ("        \"vx\": ", $1",")}' >> $out
+ more $in | egrep $site | awk '{print $5}' | awk '{print ("        \"svx\": ", $1",")}' >> $out
+ more $in | egrep $site | awk '{print $4}' | awk '{print ("        \"vy\": ", $1",")}' >> $out
+ more $in | egrep $site | awk '{print $6}' | awk '{print ("        \"svy\": ", $1",")}' >> $out
+# echo '        "marker-color": "#00ff00"' >> $out
+ echo '    },' >> $out
+ echo '    "geometry": {' >> $out
+ echo '         "type": "Point",' >> $out
+ more $in | egrep $site | awk '{print $1,$2}' | awk '{print "         \"coordinates\": ["$1","$2"]" }' >> $out
+ echo '    }' >> $out 
+ echo '},{' >> $out 
+done < sites.dat
+
+wc -l  $out |awk '{print ("ll="$1-1)}' > ll.dat
+source ll.dat 
+
+head -$ll $out > temp.dat
+mv temp.dat $out
+
+echo '}];' >> $out
