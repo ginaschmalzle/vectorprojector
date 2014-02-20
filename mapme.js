@@ -34,8 +34,8 @@ function mapme(){
                 pointToLayer: function (feature, latlng) {
 				var vectorXstart = latlng.lat,  
 					vectorYstart = latlng.lng,
-					size = .04,
-					size2 = .03,
+					size = .02,
+					size2 = .015,
 					arrowAngle = 30 
 					theta = (Math.atan(feature.properties.vy/feature.properties.vx))*(180/3.14159),
 					phi = 90 - arrowAngle - theta;
@@ -57,14 +57,14 @@ function mapme(){
 				{
 				var lines = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2-y,vectorYend2-x],[vectorXend2, vectorYend2],[vectorXend2-y2, vectorYend2-x2]], {
                                         color: 'red',
-                                        weight: 3,
+                                        weight: 2,
                                 });
 				}
 				else if ((feature.properties.vx <=0 ) && (feature.properties.vy>=0))
 				{
 				var lines = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2+y,vectorYend2+x],[vectorXend2, vectorYend2],[vectorXend2+y2, vectorYend2+x2]], {
                                         color: 'red',
-                                        weight: 3,
+                                        weight: 2,
                                 });
 				}
 				else 
@@ -72,7 +72,7 @@ function mapme(){
                                 var lines = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2-y,vectorYend2-x],[vectorXend2,
  vectorYend2],[vectorXend2-y2, vectorYend2-x2]], {
                                         color: 'red',
-                                        weight: 3,
+                                        weight: 2,
                                 });
                                 }	
 				return lines 
