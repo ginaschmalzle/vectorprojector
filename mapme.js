@@ -10,10 +10,8 @@ function mapme(){
 		map.removeLayer(arrows);
 	}
 
-//	window.overlayMaps.clearLayers();
 	myFilteredData = $(myData).filter(function() {
 
-		//console.log(document.getElementById('sigmax').value);
 		return this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value;
 	});
 	myFilteredData = [].slice.call(myFilteredData);
@@ -36,8 +34,8 @@ function mapme(){
                 pointToLayer: function (feature, latlng) {
 				var vectorXstart = latlng.lat,  
 					vectorYstart = latlng.lng,
-					size = .1,
-					size2 = .09,
+					size = .04,
+					size2 = .03,
 					arrowAngle = 30 
 					theta = (Math.atan(feature.properties.vy/feature.properties.vx))*(180/3.14159),
 					phi = 90 - arrowAngle - theta;
@@ -80,51 +78,7 @@ function mapme(){
 				return lines 
         }}).addTo(map);
 
- 	 var mapclick = { 
-		startLatlng: null,
-		endLatlng: null,
-		currentLine: null	
-	 };       
- 
-	map.on('click', function(e) {
-		if (mapclick.currentLine) {
-			map.removeLayer(mapclick.currentLine);
-			map.removeLayer(mapclick.startLatlng1);
-			map.removeLayer(mapclick.startLatlng2);
-			mapclick.startLatlng = null;
-			mapclick.endLatlng = null;
-			mapclick.currentLine = null;
-			mapclick.startLatlng1 = null;
-			mapclick.startLatlng2 = null;
-		}
-		if (mapclick.startLatlng === null) {
-			mapclick.startLatlng= e.latlng;
-		        mapclick.startLatlng1=L.circleMarker(e.latlng, {
-                         radius: 3,
-                         fillColor: "black",
-                         color: "#000",
-                         weight: 1,
-                         opacity: 1,
-                         fillOpacity: 0.8
-                        }).addTo(map);
-		}
-		else if (mapclick.startLatlng && mapclick.endLatlng === null) {
-			mapclick.endLatlng = e.latlng;
-			mapclick.startLatlng2=L.circleMarker(e.latlng, {
-                         radius: 3,
-                         fillColor: "black",
-                         color: "#000",
-                         weight: 1,
-                         opacity: 1,
-                         fillOpacity: 0.8
-                        }).addTo(map);
-			mapclick.currentLine = L.polyline([[mapclick.startLatlng.lat, mapclick.startLatlng.lng],[mapclick.endLatlng.lat, mapclick.endLatlng.lng]], {
-				color: 'green',
-				weight: 5
-			}).addTo(map);		
-		}
 
-	});
 };
 overlayMaps();
 };
