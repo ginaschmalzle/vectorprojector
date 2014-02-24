@@ -9,6 +9,7 @@ function transect() {
                 currentLine: null
          };
 
+
         map.on('click', function(e) {
                 if (mapclick.currentLine) {
                         map.removeLayer(mapclick.currentLine);
@@ -60,6 +61,11 @@ function transect() {
 				var fork = phi - theta; 
 				var d = (R * Math.sin (fork*(3.14159/180)));
 				var dabs = Math.abs(d);
+				
+				        if (map.hasLayer(tranDots)) {
+         				       map.removeLayer(tranDots);
+       					 }
+				
 				if (dabs <= document.getElementById('projwidth').value  && R <= Rmax) 
 				{
 				console.log(d, theta, phi, fork);
@@ -74,7 +80,7 @@ function transect() {
 					tranDots;
                 		}
 	
-                		return this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value && dabs <= document.getElementById('projwidth').value;
+               // 		return tranDots && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value && dabs <= document.getElementById('projwidth').value;
 				});
 				};
 			});
@@ -84,84 +90,3 @@ function transect() {
 
 
 
-/*	var myFilteredData = null;
-
-	if (map.hasLayer(dots) && map.hasLayer(arrows)) {
-		map.removeLayer(dots);
-		map.removeLayer(arrows);
-	}
-
-	if (mapclick.endLatlng != null) {
-		return this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value;
-	});
-	}
-
-	myFilteredTrans = $(myData).filter(function() {
-	myFilteredData = [].slice.call(myFilteredData);
-        // Include data points
-	var overlayMaps = function (){
-	dots = L.geoJson(myFilteredData, {
-		pointToLayer: function (feature, latlng) {
-			//console.log(feature, latlng);
-			return L.circleMarker(latlng, {
-					radius: 3,
-					fillColor: "#ff7800",
-					color: "#000",
-					weight: 1,
-					opacity: 1,
-					fillOpacity: 0.8
-				});
-		}
-        }).addTo(map);
-};
-	arrows = L.geoJson(myFilteredData, {
-                pointToLayer: function (feature, latlng) {
-				var vectorXstart = latlng.lat,  
-					vectorYstart = latlng.lng,
-					size = .1,
-					size2 = .09,
-					arrowAngle = 30 
-					theta = (Math.atan(feature.properties.vy/feature.properties.vx))*(180/3.14159),
-					phi = 90 - arrowAngle - theta;
-					phi2 = 90 + arrowAngle - theta;
-				var vectorXend2 = vectorXstart + feature.properties.vy * size;
-                                var vectorYend2 = vectorYstart + feature.properties.vx * size;
-				var vectorXend1 = vectorXstart + feature.properties.vy * size2;
-                                var vectorYend1 = vectorYstart + feature.properties.vx * size2;
-				var test1 = (vectorXend2-vectorXend1)*(vectorXend2-vectorXend1);
-				var test2 = (vectorXend2-vectorXend1)*(vectorYend2-vectorYend1);
-				var R = Math.sqrt(((vectorXend2-vectorXend1)*(vectorXend2-vectorXend1)) + ((vectorYend2-vectorYend1)*(vectorYend2-vectorYend1)));
-				var RR = R/(Math.cos(arrowAngle *(3.14159/180)));
-				var RR2 = R/(Math.cos(-arrowAngle *(3.14159/180)));
-				var x = RR * (Math.sin(phi*(3.14159/180)));
-				var y = RR * (Math.cos(phi*(3.14159/180)));
-				var x2 = RR2 * (Math.sin(phi2*(3.14159/180)));
-				var y2 = RR2 * (Math.cos(phi2*(3.14159/180)));
-				if ((feature.properties.vx >=0 ) && (feature.properties.vy>=0))
-				{
-				var lines = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2-y,vectorYend2-x],[vectorXend2, vectorYend2],[vectorXend2-y2, vectorYend2-x2]], {
-                                        color: 'red',
-                                        weight: 3,
-                                });
-				}
-				else if ((feature.properties.vx <=0 ) && (feature.properties.vy>=0))
-				{
-				var lines = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2+y,vectorYend2+x],[vectorXend2, vectorYend2],[vectorXend2+y2, vectorYend2+x2]], {
-                                        color: 'red',
-                                        weight: 3,
-                                });
-				}
-				else 
-                                {
-                                var lines = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2-y,vectorYend2-x],[vectorXend2,
- vectorYend2],[vectorXend2-y2, vectorYend2-x2]], {
-                                        color: 'red',
-                                        weight: 3,
-                                });
-                                }	
-				return lines 
-        }}).addTo(map);
-
-};
-overlayMaps();
-}; */
