@@ -56,6 +56,7 @@ function transect() {
         		var myFilteredData = null;
 			var plotdata= [];
         		myFilteredData = $(myData).filter(function() {
+				console.log(this.geometry.coordinates);
 				var x = (mapclick.startLatlng.lng - mapclick.endLatlng.lng)*111;
 				var y = (mapclick.startLatlng.lat - mapclick.endLatlng.lat)*111;
 				var rx = (mapclick.startLatlng.lng - this.geometry.coordinates[0])*111;
@@ -91,7 +92,7 @@ function transect() {
 				if (dabs <= document.getElementById('projwidth').value  && R <= Rmax && this.geometry.coordinates[0] >= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value) 
 				{
 				plotdata.push([magDist,velMag]);
-				window.plotdata = plotdata;
+				//window.plotdata = plotdata;
 				//console.log(d, theta, phi, fork);
                         		var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
                                         	radius: 3,
@@ -104,9 +105,69 @@ function transect() {
 				mapclick.allArray.push(tranDots);
 				tranDots.addTo(map);
 
-$(function () {
 
-				//plotdata = [].slice.call(plotdata);
+                		}
+				}
+				else if (mapclick.startLatlng.lat >= mapclick.endLatlng.lat && mapclick.startLatlng.lng <= mapclick.endLatlng.lng)
+				{
+                                if (dabs <= document.getElementById('projwidth').value  && R >= Rmax && this.geometry.coordinates[0] >= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value)
+                                {
+                                //console.log(d, theta, phi, fork);
+                                        var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
+                                                radius: 3,
+                                                fillColor: "black",
+                                                color: "#000",
+                                                weight: 1,
+                                                opacity: 1,
+                                                fillOpacity: 0.8
+                                        })
+                                mapclick.allArray.push(tranDots);
+                                tranDots.addTo(map);
+                                }
+                                }
+				else if (mapclick.startLatlng.lat >= mapclick.endLatlng.lat && mapclick.startLatlng.lng >= mapclick.endLatlng.lng)
+				{ 
+                                if (dabs <= document.getElementById('projwidth').value  && R >= Rmax && this.geometry.coordinates[0] <= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value)
+                                {
+                                //console.log(d, theta, phi, fork);
+                                        var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
+                                                radius: 3,
+                                                fillColor: "black",
+                                                color: "#000",
+                                                weight: 1,
+                                                opacity: 1,
+                                                fillOpacity: 0.8
+                                        })
+                                mapclick.allArray.push(tranDots);
+                                tranDots.addTo(map);
+                                }
+                                }
+                                else
+                                { 
+                                if (dabs <= document.getElementById('projwidth').value  && R <= Rmax && this.geometry.coordinates[0] <= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value)
+                                {
+                                //console.log(d, theta, phi, fork);
+                                        var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
+                                                radius: 3,
+                                                fillColor: "black",
+                                                color: "#000",
+                                                weight: 1,
+                                                opacity: 1,
+                                                fillOpacity: 0.8
+                                        })
+                                mapclick.allArray.push(tranDots);
+                                tranDots.addTo(map);
+                                }
+                                }
+
+
+
+				});
+
+
+var plotit =  $(function () {
+
+                                //plotdata = [].slice.call(plotdata);
                                 //console.log (plotdata);
         $('#container').highcharts({
             chart: {
@@ -176,70 +237,9 @@ $(function () {
     });
 
 
-
-
-
-
-                		}
-				}
-				else if (mapclick.startLatlng.lat >= mapclick.endLatlng.lat && mapclick.startLatlng.lng <= mapclick.endLatlng.lng)
-				{
-                                if (dabs <= document.getElementById('projwidth').value  && R >= Rmax && this.geometry.coordinates[0] >= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value)
-                                {
-                                //console.log(d, theta, phi, fork);
-                                        var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
-                                                radius: 3,
-                                                fillColor: "black",
-                                                color: "#000",
-                                                weight: 1,
-                                                opacity: 1,
-                                                fillOpacity: 0.8
-                                        })
-                                mapclick.allArray.push(tranDots);
-                                tranDots.addTo(map);
-                                }
-                                }
-				else if (mapclick.startLatlng.lat >= mapclick.endLatlng.lat && mapclick.startLatlng.lng >= mapclick.endLatlng.lng)
-				{ 
-                                if (dabs <= document.getElementById('projwidth').value  && R >= Rmax && this.geometry.coordinates[0] <= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value)
-                                {
-                                //console.log(d, theta, phi, fork);
-                                        var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
-                                                radius: 3,
-                                                fillColor: "black",
-                                                color: "#000",
-                                                weight: 1,
-                                                opacity: 1,
-                                                fillOpacity: 0.8
-                                        })
-                                mapclick.allArray.push(tranDots);
-                                tranDots.addTo(map);
-                                }
-                                }
-                                else
-                                { 
-                                if (dabs <= document.getElementById('projwidth').value  && R <= Rmax && this.geometry.coordinates[0] <= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value)
-                                {
-                                //console.log(d, theta, phi, fork);
-                                        var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
-                                                radius: 3,
-                                                fillColor: "black",
-                                                color: "#000",
-                                                weight: 1,
-                                                opacity: 1,
-                                                fillOpacity: 0.8
-                                        })
-                                mapclick.allArray.push(tranDots);
-                                tranDots.addTo(map);
-                                }
-                                }
-
-
-
-				});
-			//	console.log(allarray);
-				};
-			});
+		console.log(allarray);
+	//			};
+	//		});
 				
 		};
 
