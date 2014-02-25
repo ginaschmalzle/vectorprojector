@@ -54,6 +54,7 @@ function transect() {
                         }).addTo(map);
 
         		var myFilteredData = null;
+			var plotdata= [];
         		myFilteredData = $(myData).filter(function() {
 				var x = (mapclick.startLatlng.lng - mapclick.endLatlng.lng)*111;
 				var y = (mapclick.startLatlng.lat - mapclick.endLatlng.lat)*111;
@@ -76,11 +77,21 @@ function transect() {
 				var fork = phi - theta; 
 				var d = (R * Math.sin (fork*(3.14159/180)));
 				var dabs = Math.abs(d);
-				
+				var gamma = 90 - theta;
+				var h = d/Math.sin(gamma *(3.14159/180));
+				var i = d/Math.cos(gamma *(3.14159/180));
+				var j = i* Math.sin(theta *(3.14159/180));
+				var k = i* Math.cos(theta *(3.14159/180));
+				var p1 = rx + k;
+				var p2 = ry - h + j;
+				var magDist = Math.sqrt((p1*p1) + (p2*p2));
+				var velMag = Math.sqrt((this.properties.vx * this.properties.vx) + (this.properties.vy * this.properties.vy));
 				if (mapclick.startLatlng.lat <= mapclick.endLatlng.lat && mapclick.startLatlng.lng <= mapclick.endLatlng.lng)		
 				{
 				if (dabs <= document.getElementById('projwidth').value  && R <= Rmax && this.geometry.coordinates[0] >= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value) 
 				{
+				plotdata.push([magDist,velMag]);
+				window.plotdata = plotdata;
 				//console.log(d, theta, phi, fork);
                         		var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
                                         	radius: 3,
@@ -92,6 +103,83 @@ function transect() {
                                 	})
 				mapclick.allArray.push(tranDots);
 				tranDots.addTo(map);
+
+$(function () {
+
+				//plotdata = [].slice.call(plotdata);
+                                //console.log (plotdata);
+        $('#container').highcharts({
+            chart: {
+                type: 'scatter',
+                zoomType: 'xy'
+            },
+            title: {
+                text: 'GPS velocity as a function of Distance along a Profile'
+            },
+            subtitle: {
+                text: 'GPS Magnitude'
+            },
+            xAxis: {
+                title: {
+                    enabled: true,
+                    text: 'Distance (km)'
+                },
+                startOnTick: true,
+                endOnTick: true,
+                showLastLabel: true
+            },
+            yAxis: {
+                title: {
+                    text: 'Velocity (mm/yr)'
+                }
+            },
+            legend: {
+                layout: 'vertical',
+                align: 'left',
+                verticalAlign: 'top',
+                x: 100,
+                y: 70,
+                floating: true,
+                backgroundColor: '#FFFFFF',
+                borderWidth: 1
+            },
+            plotOptions: {
+                scatter: {
+                    marker: {
+                        radius: 5,
+                        states: {
+                            hover: {
+                                enabled: true,
+                                lineColor: 'rgb(100,100,100)'
+                            }
+                        }
+                    },
+                    states: {
+                        hover: {
+                            marker: {
+                                enabled: false
+                            }
+                        }
+                    },
+                    tooltip: {
+                        headerFormat: '<b>{series.name}</b><br>',
+                        pointFormat: '{point.x} km, {point.y} mm/yr'
+                    }
+                }
+            },
+            series: [{
+                name: 'GPS Velocities',
+                color: 'rgba(223, 83, 83, .7)',
+                data: plotdata
+            }],
+        });
+    });
+
+
+
+
+
+
                 		}
 				}
 				else if (mapclick.startLatlng.lat >= mapclick.endLatlng.lat && mapclick.startLatlng.lng <= mapclick.endLatlng.lng)
