@@ -19,14 +19,15 @@ document.getElementById("sigmax").value = 20;
        <script src="leaflet/leaflet.js"></script>
        <script src="pbo_velocity_snarf.js"></script>
        <script src="http://code.highcharts.com/highcharts.js"></script>
+       <script src="http://code.highcharts.com/highcharts-more.js"></script>
 <!-- Make Form to be submitted -->
 	<h1><strong><em> Welcome to the Vector Projector</em></strong></h1>
 
         <select id="json_select" onchange="javascript:load_elements(this.value)">
             <option selected value="pbo_velocity_snarf.js"> PBO Horizontal
         </select>
-	Width (km): <input type="text" name="projwidth" value=50 id="projwidth" ><br>
-	Max Uncertainties (mm/yr): <input type="text" name="sigmax" value=10 id="sigmax" ><br>
+	Width (km): <input type="text" name="projwidth" value=15 id="projwidth" ><br>
+	Max Uncertainties (mm/yr): <input type="text" name="sigmax" value=2 id="sigmax" ><br>
 	<input id="submit" type="submit" name="Submit" ><br>
 
 <!-- Make Map -->

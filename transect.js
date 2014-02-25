@@ -58,8 +58,9 @@ function transect() {
 
                 var myFilteredData = null;
                 var plotdata = [];
+                var plotuncerts = [];
                 myFilteredData = $(myData).each(function () {
-                    console.log(this.geometry.coordinates);
+                    //console.log(this.geometry.coordinates);
                     var x = (mapclick.startLatlng.lng - mapclick.endLatlng.lng) * 111;
                     var y = (mapclick.startLatlng.lat - mapclick.endLatlng.lat) * 111;
                     var rx = (mapclick.startLatlng.lng - this.geometry.coordinates[0]) * 111;
@@ -88,10 +89,14 @@ function transect() {
                     var p2 = ry - h + j;
                     var magDist = Math.sqrt((p1 * p1) + (p2 * p2));
                     var velMag = Math.sqrt((this.properties.vx * this.properties.vx) + (this.properties.vy * this.properties.vy));
+		    var uncert =  Math.sqrt((this.properties.svx * this.properties.svx) + (this.properties.svy * this.properties.svy));
+		    var velMagHigh = velMag + uncert;
+		    var velMagLow = velMag - uncert;
                     if (mapclick.startLatlng.lat <= mapclick.endLatlng.lat && mapclick.startLatlng.lng <= mapclick.endLatlng.lng) {
                         if (dabs <= document.getElementById('projwidth').value && R <= Rmax && this.geometry.coordinates[0] >= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value) {
-                            plotdata.push([magDist, velMag]);
-                            //window.plotdata = plotdata;
+                            plotdata.push([magDist, velMag, velMagLow, velMagHigh, this.properties.name]);
+			    plotuncerts.push({x:magDist,low:velMagLow, high:velMagHigh});
+                            //window.plotdata = plotdata
                             //console.log(d, theta, phi, fork);
                             var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
                                 radius: 3,
@@ -110,6 +115,9 @@ function transect() {
                     else if (mapclick.startLatlng.lat >= mapclick.endLatlng.lat && mapclick.startLatlng.lng <= mapclick.endLatlng.lng) {
                         if (dabs <= document.getElementById('projwidth').value && R >= Rmax && this.geometry.coordinates[0] >= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value) {
                             //console.log(d, theta, phi, fork);
+                            plotdata.push([magDist, velMag]);
+			    plotuncerts.push([magDist, velMagLow, velMagHigh]);
+			    plotuncerts.push({x:magDist,low:velMagLow, high:velMagHigh});
                             var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
                                 radius: 3,
                                 fillColor: "black",
@@ -125,6 +133,9 @@ function transect() {
                     else if (mapclick.startLatlng.lat >= mapclick.endLatlng.lat && mapclick.startLatlng.lng >= mapclick.endLatlng.lng) {
                         if (dabs <= document.getElementById('projwidth').value && R >= Rmax && this.geometry.coordinates[0] <= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value) {
                             //console.log(d, theta, phi, fork);
+                            plotdata.push([magDist, velMag, this.properties.name]);
+			    plotuncerts.push([magDist,velMagLow, velMagHigh]);
+			    plotuncerts.push({x:magDist,low:velMagLow, high:velMagHigh});
                             var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
                                 radius: 3,
                                 fillColor: "black",
@@ -140,6 +151,9 @@ function transect() {
                     else {
                         if (dabs <= document.getElementById('projwidth').value && R <= Rmax && this.geometry.coordinates[0] <= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value) {
                             //console.log(d, theta, phi, fork);
+                            plotdata.push([magDist, velMag, this.properties.name]);
+			    plotuncerts.push([magDist,velMagLow, velMagHigh]);
+			    plotuncerts.push({x:magDist,low:velMagLow, high:velMagHigh});
                             var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
                                 radius: 3,
                                 fillColor: "black",
@@ -157,14 +171,14 @@ function transect() {
 
                 });
 
-
+		var mydataplot= plotdata.sort(function(a,b) {return b-a});
+		var myuncertsplot =plotuncerts.sort(function(a,b) {return b-a});
                 $(function () {
 
                     //plotdata = [].slice.call(plotdata);
-                    //console.log (plotdata);
+                    //console.log (plotuncerts);
                     $('#container').highcharts({
                         chart: {
-                            type: 'scatter',
                             zoomType: 'xy'
                         },
                         title: {
@@ -184,12 +198,12 @@ function transect() {
                         },
                         yAxis: {
                             title: {
-                                text: 'Velocity (mm/yr)'
+                                text: 'Velocity Magnitude (mm/yr)'
                             }
                         },
                         legend: {
                             layout: 'vertical',
-                            align: 'left',
+                            align: 'center',
                             verticalAlign: 'top',
                             x: 100,
                             y: 70,
@@ -223,9 +237,16 @@ function transect() {
                         },
                         series: [{
                             name: 'GPS Velocities',
+                            type: 'scatter',
                             color: 'rgba(223, 83, 83, .7)',
-                            data: plotdata
-                        }],
+                            data: mydataplot
+                        } , { 
+			    name: 'GPS error',
+			    type: 'errorbar',
+			    data: myuncertsplot
+			}	 
+
+			],
                     });
                 });
             }
