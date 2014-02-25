@@ -18,33 +18,24 @@ document.getElementById("sigmax").value = 20;
        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
        <script src="leaflet/leaflet.js"></script>
        <script src="pbo_velocity_snarf.js"></script>
-
+       <script src="http://code.highcharts.com/highcharts.js"></script>
 <!-- Make Form to be submitted -->
 	<h1><strong><em> Welcome to the Vector Projector</em></strong></h1>
 
         <select id="json_select" onchange="javascript:load_elements(this.value)">
             <option selected value="pbo_velocity_snarf.js"> PBO Horizontal
         </select>
-Width (km): <input type="text" name="projwidth" value=50 id="projwidth" ><br>
-Max Uncertainties (mm/yr): <input type="text" name="sigmax" value=10 id="sigmax" ><br>
+	Width (km): <input type="text" name="projwidth" value=50 id="projwidth" ><br>
+	Max Uncertainties (mm/yr): <input type="text" name="sigmax" value=10 id="sigmax" ><br>
 	<input id="submit" type="submit" name="Submit" ><br>
+
 <!-- Make Map -->
-<div id="map_canvas"></div>
+	<div id="map_canvas"></div>
 <!-- <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script> -->
-       <script>
-var map = L.map('map_canvas').setView([35, -119.], 6);
-          L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-                attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
-                maxZoom: 18
-          }).addTo(map);
-	  L.tileLayer('http://geohazards.usgs.gov/ArcGIS/rest/services/qfaults2013/MapServer/tile/{z}/{y}/{x}', {
-                maxZoom: 18
-          }).addTo(map);  
-       </script>
-
-
+        <script src="basemap.js"></script>
 	<script src="mapme.js"></script>
 	<script src="transect.js"></script>
+	
 <!-- Import data files -->
   </body>
 </html>
