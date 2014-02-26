@@ -9,6 +9,7 @@ then
   mkdir ${dir}/${projname} 
   cp -r  * ${dir}/${projname}/
   chmod -R +x ${dir}/${projname}/leaflet
+  chmod -R +x ${dir}/${projname}/data
 else
   sudo apachectl end
   rm -r  ${dir}/${projname}

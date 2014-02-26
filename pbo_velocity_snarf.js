@@ -2,10 +2,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "7ODM",
-        "vx":  -18.430,
-        "svx":  1.000,
-        "vy":  14.480,
-        "svy":  1.120,
+        "vx":   "-18.430",
+        "svx":   "1.000",
+        "vy":   "14.480",
+        "svy":   "1.120",
     },
     "geometry": {
          "type": "Point",
@@ -15,10 +15,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB01",
-        "vx":  -8.410,
-        "svx":  0.540,
-        "vy":  -2.220,
-        "svy":  0.310,
+        "vx":   "-8.410",
+        "svx":   "0.540",
+        "vy":   "-2.220",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -28,10 +28,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB02",
-        "vx":  -0.050,
-        "svx":  0.850,
-        "vy":  -0.360,
-        "svy":  0.510,
+        "vx":   "-0.050",
+        "svx":   "0.850",
+        "vy":   "-0.360",
+        "svy":   "0.510",
     },
     "geometry": {
          "type": "Point",
@@ -41,10 +41,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB04",
-        "vx":  -0.970,
-        "svx":  0.300,
-        "vy":  -5.070,
-        "svy":  0.250,
+        "vx":   "-0.970",
+        "svx":   "0.300",
+        "vy":   "-5.070",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -54,10 +54,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB06",
-        "vx":  -6.650,
-        "svx":  0.500,
-        "vy":  -2.880,
-        "svy":  0.330,
+        "vx":   "-6.650",
+        "svx":   "0.500",
+        "vy":   "-2.880",
+        "svy":   "0.330",
     },
     "geometry": {
          "type": "Point",
@@ -67,10 +67,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB07",
-        "vx":  -9.460,
-        "svx":  0.260,
-        "vy":  2.670,
-        "svy":  0.160,
+        "vx":   "-9.460",
+        "svx":   "0.260",
+        "vy":   "2.670",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -80,10 +80,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB08",
-        "vx":  1.180,
-        "svx":  1.480,
-        "vy":  -3.260,
-        "svy":  2.420,
+        "vx":   "1.180",
+        "svx":   "1.480",
+        "vy":   "-3.260",
+        "svy":   "2.420",
     },
     "geometry": {
          "type": "Point",
@@ -93,10 +93,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB09",
-        "vx":  0.650,
-        "svx":  0.250,
-        "vy":  -4.740,
-        "svy":  0.200,
+        "vx":   "0.650",
+        "svx":   "0.250",
+        "vy":   "-4.740",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -106,10 +106,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB11",
-        "vx":  0.460,
-        "svx":  0.250,
-        "vy":  -4.410,
-        "svy":  0.460,
+        "vx":   "0.460",
+        "svx":   "0.250",
+        "vy":   "-4.410",
+        "svy":   "0.460",
     },
     "geometry": {
          "type": "Point",
@@ -119,10 +119,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB12",
-        "vx":  -3.020,
-        "svx":  0.430,
-        "vy":  -2.710,
-        "svy":  1.060,
+        "vx":   "-3.020",
+        "svx":   "0.430",
+        "vy":   "-2.710",
+        "svy":   "1.060",
     },
     "geometry": {
          "type": "Point",
@@ -132,10 +132,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB13",
-        "vx":  -9.740,
-        "svx":  0.270,
-        "vy":  4.820,
-        "svy":  0.190,
+        "vx":   "-9.740",
+        "svx":   "0.270",
+        "vy":   "4.820",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -145,10 +145,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB14",
-        "vx":  -2.490,
-        "svx":  0.330,
-        "vy":  -2.940,
-        "svy":  0.320,
+        "vx":   "-2.490",
+        "svx":   "0.330",
+        "vy":   "-2.940",
+        "svy":   "0.320",
     },
     "geometry": {
          "type": "Point",
@@ -158,10 +158,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB15",
-        "vx":  0.900,
-        "svx":  0.400,
-        "vy":  -5.620,
-        "svy":  0.300,
+        "vx":   "0.900",
+        "svx":   "0.400",
+        "vy":   "-5.620",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -171,10 +171,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB17",
-        "vx":  -5.740,
-        "svx":  1.060,
-        "vy":  -4.300,
-        "svy":  0.570,
+        "vx":   "-5.740",
+        "svx":   "1.060",
+        "vy":   "-4.300",
+        "svy":   "0.570",
     },
     "geometry": {
          "type": "Point",
@@ -184,10 +184,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB18",
-        "vx":  -0.690,
-        "svx":  1.300,
-        "vy":  -5.420,
-        "svy":  1.080,
+        "vx":   "-0.690",
+        "svx":   "1.300",
+        "vy":   "-5.420",
+        "svy":   "1.080",
     },
     "geometry": {
          "type": "Point",
@@ -197,10 +197,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB21",
-        "vx":  -9.120,
-        "svx":  1.760,
-        "vy":  5.270,
-        "svy":  0.850,
+        "vx":   "-9.120",
+        "svx":   "1.760",
+        "vy":   "5.270",
+        "svy":   "0.850",
     },
     "geometry": {
          "type": "Point",
@@ -210,10 +210,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB22",
-        "vx":  2.940,
-        "svx":  0.280,
-        "vy":  -9.820,
-        "svy":  0.230,
+        "vx":   "2.940",
+        "svx":   "0.280",
+        "vy":   "-9.820",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -223,10 +223,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB25",
-        "vx":  0.200,
-        "svx":  0.570,
-        "vy":  -7.400,
-        "svy":  0.520,
+        "vx":   "0.200",
+        "svx":   "0.570",
+        "vy":   "-7.400",
+        "svy":   "0.520",
     },
     "geometry": {
          "type": "Point",
@@ -236,10 +236,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB27",
-        "vx":  -0.850,
-        "svx":  0.250,
-        "vy":  -4.400,
-        "svy":  0.230,
+        "vx":   "-0.850",
+        "svx":   "0.250",
+        "vy":   "-4.400",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -249,10 +249,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB28",
-        "vx":  -0.560,
-        "svx":  0.200,
-        "vy":  -10.200,
-        "svy":  0.200,
+        "vx":   "-0.560",
+        "svx":   "0.200",
+        "vy":   "-10.200",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -262,10 +262,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB33",
-        "vx":  -0.380,
-        "svx":  0.240,
-        "vy":  -4.660,
-        "svy":  0.220,
+        "vx":   "-0.380",
+        "svx":   "0.240",
+        "vy":   "-4.660",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -275,10 +275,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB35",
-        "vx":  -22.120,
-        "svx":  0.240,
-        "vy":  30.780,
-        "svy":  1.190,
+        "vx":   "-22.120",
+        "svx":   "0.240",
+        "vy":   "30.780",
+        "svy":   "1.190",
     },
     "geometry": {
          "type": "Point",
@@ -288,10 +288,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB36",
-        "vx":  0.050,
-        "svx":  0.270,
-        "vy":  -11.940,
-        "svy":  0.850,
+        "vx":   "0.050",
+        "svx":   "0.270",
+        "vy":   "-11.940",
+        "svy":   "0.850",
     },
     "geometry": {
          "type": "Point",
@@ -301,10 +301,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB37",
-        "vx":  -23.100,
-        "svx":  0.530,
-        "vy":  11.610,
-        "svy":  0.260,
+        "vx":   "-23.100",
+        "svx":   "0.530",
+        "vy":   "11.610",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -314,10 +314,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB39",
-        "vx":  -1.220,
-        "svx":  0.460,
-        "vy":  -5.390,
-        "svy":  0.310,
+        "vx":   "-1.220",
+        "svx":   "0.460",
+        "vy":   "-5.390",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -327,10 +327,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB41",
-        "vx":  -0.880,
-        "svx":  0.200,
-        "vy":  -3.690,
-        "svy":  0.300,
+        "vx":   "-0.880",
+        "svx":   "0.200",
+        "vy":   "-3.690",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -340,10 +340,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB42",
-        "vx":  -20.520,
-        "svx":  0.660,
-        "vy":  34.640,
-        "svy":  0.690,
+        "vx":   "-20.520",
+        "svx":   "0.660",
+        "vy":   "34.640",
+        "svy":   "0.690",
     },
     "geometry": {
          "type": "Point",
@@ -353,10 +353,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB43",
-        "vx":  -8.130,
-        "svx":  0.220,
-        "vy":  11.110,
-        "svy":  0.360,
+        "vx":   "-8.130",
+        "svx":   "0.220",
+        "vy":   "11.110",
+        "svy":   "0.360",
     },
     "geometry": {
          "type": "Point",
@@ -366,10 +366,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB44",
-        "vx":  -0.250,
-        "svx":  0.290,
-        "vy":  5.380,
-        "svy":  0.150,
+        "vx":   "-0.250",
+        "svx":   "0.290",
+        "vy":   "5.380",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -379,10 +379,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB45",
-        "vx":  -0.770,
-        "svx":  0.200,
-        "vy":  -3.720,
-        "svy":  0.240,
+        "vx":   "-0.770",
+        "svx":   "0.200",
+        "vy":   "-3.720",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -392,10 +392,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB46",
-        "vx":  -0.380,
-        "svx":  0.260,
-        "vy":  -3.410,
-        "svy":  0.270,
+        "vx":   "-0.380",
+        "svx":   "0.260",
+        "vy":   "-3.410",
+        "svy":   "0.270",
     },
     "geometry": {
          "type": "Point",
@@ -405,10 +405,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB48",
-        "vx":  -3.290,
-        "svx":  0.250,
-        "vy":  6.840,
-        "svy":  0.150,
+        "vx":   "-3.290",
+        "svx":   "0.250",
+        "vy":   "6.840",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -418,10 +418,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB49",
-        "vx":  -3.090,
-        "svx":  0.480,
-        "vy":  3.720,
-        "svy":  0.210,
+        "vx":   "-3.090",
+        "svx":   "0.480",
+        "vy":   "3.720",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -431,10 +431,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB50",
-        "vx":  -2.000,
-        "svx":  0.230,
-        "vy":  1.970,
-        "svy":  0.210,
+        "vx":   "-2.000",
+        "svx":   "0.230",
+        "vy":   "1.970",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -444,10 +444,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AB51",
-        "vx":  -5.050,
-        "svx":  0.290,
-        "vy":  2.290,
-        "svy":  0.230,
+        "vx":   "-5.050",
+        "svx":   "0.290",
+        "vy":   "2.290",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -457,10 +457,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC02",
-        "vx":  -15.020,
-        "svx":  0.310,
-        "vy":  17.010,
-        "svy":  0.250,
+        "vx":   "-15.020",
+        "svx":   "0.310",
+        "vy":   "17.010",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -470,10 +470,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC03",
-        "vx":  1.170,
-        "svx":  0.790,
-        "vy":  -11.940,
-        "svy":  0.720,
+        "vx":   "1.170",
+        "svx":   "0.790",
+        "vy":   "-11.940",
+        "svy":   "0.720",
     },
     "geometry": {
          "type": "Point",
@@ -483,10 +483,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC06",
-        "vx":  -4.810,
-        "svx":  0.360,
-        "vy":  0.370,
-        "svy":  0.240,
+        "vx":   "-4.810",
+        "svx":   "0.360",
+        "vy":   "0.370",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -496,10 +496,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC07",
-        "vx":  -0.120,
-        "svx":  0.270,
-        "vy":  -5.050,
-        "svy":  0.260,
+        "vx":   "-0.120",
+        "svx":   "0.270",
+        "vy":   "-5.050",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -509,10 +509,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC08",
-        "vx":  -2.320,
-        "svx":  0.840,
-        "vy":  -4.600,
-        "svy":  0.550,
+        "vx":   "-2.320",
+        "svx":   "0.840",
+        "vy":   "-4.600",
+        "svy":   "0.550",
     },
     "geometry": {
          "type": "Point",
@@ -522,10 +522,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC09",
-        "vx":  -18.510,
-        "svx":  0.210,
-        "vy":  32.590,
-        "svy":  0.560,
+        "vx":   "-18.510",
+        "svx":   "0.210",
+        "vy":   "32.590",
+        "svy":   "0.560",
     },
     "geometry": {
          "type": "Point",
@@ -535,10 +535,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC10",
-        "vx":  -7.060,
-        "svx":  0.870,
-        "vy":  -3.220,
-        "svy":  0.900,
+        "vx":   "-7.060",
+        "svx":   "0.870",
+        "vy":   "-3.220",
+        "svy":   "0.900",
     },
     "geometry": {
          "type": "Point",
@@ -548,10 +548,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC11",
-        "vx":  -14.010,
-        "svx":  0.220,
-        "vy":  9.280,
-        "svy":  0.200,
+        "vx":   "-14.010",
+        "svx":   "0.220",
+        "vy":   "9.280",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -561,10 +561,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC12",
-        "vx":  -10.290,
-        "svx":  0.430,
-        "vy":  6.960,
-        "svy":  0.430,
+        "vx":   "-10.290",
+        "svx":   "0.430",
+        "vy":   "6.960",
+        "svy":   "0.430",
     },
     "geometry": {
          "type": "Point",
@@ -574,10 +574,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC13",
-        "vx":  -20.810,
-        "svx":  0.550,
-        "vy":  31.110,
-        "svy":  0.410,
+        "vx":   "-20.810",
+        "svx":   "0.550",
+        "vy":   "31.110",
+        "svy":   "0.410",
     },
     "geometry": {
          "type": "Point",
@@ -587,10 +587,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC14",
-        "vx":  -21.270,
-        "svx":  0.400,
-        "vy":  32.180,
-        "svy":  0.320,
+        "vx":   "-21.270",
+        "svx":   "0.400",
+        "vy":   "32.180",
+        "svy":   "0.320",
     },
     "geometry": {
          "type": "Point",
@@ -600,10 +600,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC15",
-        "vx":  -11.770,
-        "svx":  0.270,
-        "vy":  13.560,
-        "svy":  0.280,
+        "vx":   "-11.770",
+        "svx":   "0.270",
+        "vy":   "13.560",
+        "svy":   "0.280",
     },
     "geometry": {
          "type": "Point",
@@ -613,10 +613,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC16",
-        "vx":  -19.520,
-        "svx":  1.560,
-        "vy":  41.850,
-        "svy":  0.420,
+        "vx":   "-19.520",
+        "svx":   "1.560",
+        "vy":   "41.850",
+        "svy":   "0.420",
     },
     "geometry": {
          "type": "Point",
@@ -626,10 +626,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC17",
-        "vx":  0.260,
-        "svx":  0.400,
-        "vy":  -14.120,
-        "svy":  0.500,
+        "vx":   "0.260",
+        "svx":   "0.400",
+        "vy":   "-14.120",
+        "svy":   "0.500",
     },
     "geometry": {
          "type": "Point",
@@ -639,10 +639,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC18",
-        "vx":  -1.200,
-        "svx":  0.580,
-        "vy":  -7.870,
-        "svy":  0.420,
+        "vx":   "-1.200",
+        "svx":   "0.580",
+        "vy":   "-7.870",
+        "svy":   "0.420",
     },
     "geometry": {
          "type": "Point",
@@ -652,10 +652,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC19",
-        "vx":  -1.160,
-        "svx":  0.340,
-        "vy":  -7.550,
-        "svy":  0.300,
+        "vx":   "-1.160",
+        "svx":   "0.340",
+        "vy":   "-7.550",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -665,10 +665,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC20",
-        "vx":  -12.120,
-        "svx":  0.270,
-        "vy":  11.900,
-        "svy":  0.400,
+        "vx":   "-12.120",
+        "svx":   "0.270",
+        "vy":   "11.900",
+        "svy":   "0.400",
     },
     "geometry": {
          "type": "Point",
@@ -678,10 +678,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC21",
-        "vx":  -10.610,
-        "svx":  0.290,
-        "vy":  4.930,
-        "svy":  0.280,
+        "vx":   "-10.610",
+        "svx":   "0.290",
+        "vy":   "4.930",
+        "svy":   "0.280",
     },
     "geometry": {
          "type": "Point",
@@ -691,10 +691,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC23",
-        "vx":  -4.710,
-        "svx":  0.250,
-        "vy":  -6.610,
-        "svy":  0.260,
+        "vx":   "-4.710",
+        "svx":   "0.250",
+        "vy":   "-6.610",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -704,10 +704,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC24",
-        "vx":  -2.330,
-        "svx":  0.250,
-        "vy":  -3.410,
-        "svy":  0.200,
+        "vx":   "-2.330",
+        "svx":   "0.250",
+        "vy":   "-3.410",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -717,10 +717,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC25",
-        "vx":  -7.500,
-        "svx":  0.480,
-        "vy":  -3.520,
-        "svy":  0.410,
+        "vx":   "-7.500",
+        "svx":   "0.480",
+        "vy":   "-3.520",
+        "svy":   "0.410",
     },
     "geometry": {
          "type": "Point",
@@ -730,10 +730,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC26",
-        "vx":  -2.900,
-        "svx":  0.700,
-        "vy":  -0.990,
-        "svy":  0.530,
+        "vx":   "-2.900",
+        "svx":   "0.700",
+        "vy":   "-0.990",
+        "svy":   "0.530",
     },
     "geometry": {
          "type": "Point",
@@ -743,10 +743,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC27",
-        "vx":  0.420,
-        "svx":  0.370,
-        "vy":  -10.520,
-        "svy":  0.220,
+        "vx":   "0.420",
+        "svx":   "0.370",
+        "vy":   "-10.520",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -756,10 +756,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC28",
-        "vx":  -10.330,
-        "svx":  0.440,
-        "vy":  4.560,
-        "svy":  0.450,
+        "vx":   "-10.330",
+        "svx":   "0.440",
+        "vy":   "4.560",
+        "svy":   "0.450",
     },
     "geometry": {
          "type": "Point",
@@ -769,10 +769,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC30",
-        "vx":  19.740,
-        "svx":  35.630,
-        "vy":  115.470,
-        "svy":  15.560,
+        "vx":   "19.740",
+        "svx":   "35.630",
+        "vy":   "115.470",
+        "svy":   "15.560",
     },
     "geometry": {
          "type": "Point",
@@ -782,10 +782,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC31",
-        "vx":  -0.080,
-        "svx":  0.240,
-        "vy":  -4.690,
-        "svy":  0.290,
+        "vx":   "-0.080",
+        "svx":   "0.240",
+        "vy":   "-4.690",
+        "svy":   "0.290",
     },
     "geometry": {
          "type": "Point",
@@ -795,10 +795,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC32",
-        "vx":  -2.830,
-        "svx":  0.390,
-        "vy":  -6.400,
-        "svy":  0.600,
+        "vx":   "-2.830",
+        "svx":   "0.390",
+        "vy":   "-6.400",
+        "svy":   "0.600",
     },
     "geometry": {
          "type": "Point",
@@ -808,10 +808,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC33",
-        "vx":  -8.660,
-        "svx":  2.250,
-        "vy":  8.960,
-        "svy":  14.600,
+        "vx":   "-8.660",
+        "svx":   "2.250",
+        "vy":   "8.960",
+        "svy":   "14.600",
     },
     "geometry": {
          "type": "Point",
@@ -821,10 +821,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC34",
-        "vx":  -15.420,
-        "svx":  0.250,
-        "vy":  15.380,
-        "svy":  0.350,
+        "vx":   "-15.420",
+        "svx":   "0.250",
+        "vy":   "15.380",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -834,10 +834,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC35",
-        "vx":  -8.280,
-        "svx":  0.430,
-        "vy":  7.500,
-        "svy":  0.440,
+        "vx":   "-8.280",
+        "svx":   "0.430",
+        "vy":   "7.500",
+        "svy":   "0.440",
     },
     "geometry": {
          "type": "Point",
@@ -847,10 +847,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC36",
-        "vx":  -3.810,
-        "svx":  0.370,
-        "vy":  -5.800,
-        "svy":  0.490,
+        "vx":   "-3.810",
+        "svx":   "0.370",
+        "vy":   "-5.800",
+        "svy":   "0.490",
     },
     "geometry": {
          "type": "Point",
@@ -860,10 +860,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC37",
-        "vx":  4.290,
-        "svx":  0.250,
-        "vy":  -9.880,
-        "svy":  0.370,
+        "vx":   "4.290",
+        "svx":   "0.250",
+        "vy":   "-9.880",
+        "svy":   "0.370",
     },
     "geometry": {
          "type": "Point",
@@ -873,10 +873,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC38",
-        "vx":  -6.410,
-        "svx":  0.370,
-        "vy":  3.280,
-        "svy":  0.220,
+        "vx":   "-6.410",
+        "svx":   "0.370",
+        "vy":   "3.280",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -886,10 +886,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC39",
-        "vx":  -1.240,
-        "svx":  0.220,
-        "vy":  -6.360,
-        "svy":  0.190,
+        "vx":   "-1.240",
+        "svx":   "0.220",
+        "vy":   "-6.360",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -899,10 +899,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC40",
-        "vx":  -8.610,
-        "svx":  0.320,
-        "vy":  0.380,
-        "svy":  0.300,
+        "vx":   "-8.610",
+        "svx":   "0.320",
+        "vy":   "0.380",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -912,10 +912,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC41",
-        "vx":  -8.190,
-        "svx":  0.240,
-        "vy":  1.260,
-        "svy":  0.260,
+        "vx":   "-8.190",
+        "svx":   "0.240",
+        "vy":   "1.260",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -925,10 +925,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC42",
-        "vx":  -4.460,
-        "svx":  0.760,
-        "vy":  -3.970,
-        "svy":  0.960,
+        "vx":   "-4.460",
+        "svx":   "0.760",
+        "vy":   "-3.970",
+        "svy":   "0.960",
     },
     "geometry": {
          "type": "Point",
@@ -938,10 +938,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC43",
-        "vx":  -13.400,
-        "svx":  0.370,
-        "vy":  33.990,
-        "svy":  0.280,
+        "vx":   "-13.400",
+        "svx":   "0.370",
+        "vy":   "33.990",
+        "svy":   "0.280",
     },
     "geometry": {
          "type": "Point",
@@ -951,10 +951,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC44",
-        "vx":  -11.140,
-        "svx":  0.500,
-        "vy":  1.130,
-        "svy":  0.560,
+        "vx":   "-11.140",
+        "svx":   "0.500",
+        "vy":   "1.130",
+        "svy":   "0.560",
     },
     "geometry": {
          "type": "Point",
@@ -964,10 +964,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC45",
-        "vx":  -16.810,
-        "svx":  0.250,
-        "vy":  26.110,
-        "svy":  0.200,
+        "vx":   "-16.810",
+        "svx":   "0.250",
+        "vy":   "26.110",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -977,10 +977,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC46",
-        "vx":  -2.690,
-        "svx":  0.210,
-        "vy":  -9.920,
-        "svy":  0.190,
+        "vx":   "-2.690",
+        "svx":   "0.210",
+        "vy":   "-9.920",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -990,10 +990,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC47",
-        "vx":  3.170,
-        "svx":  2.580,
-        "vy":  -13.030,
-        "svy":  1.210,
+        "vx":   "3.170",
+        "svx":   "2.580",
+        "vy":   "-13.030",
+        "svy":   "1.210",
     },
     "geometry": {
          "type": "Point",
@@ -1003,10 +1003,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC48",
-        "vx":  -21.250,
-        "svx":  0.550,
-        "vy":  40.320,
-        "svy":  0.510,
+        "vx":   "-21.250",
+        "svx":   "0.550",
+        "vy":   "40.320",
+        "svy":   "0.510",
     },
     "geometry": {
          "type": "Point",
@@ -1016,10 +1016,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC50",
-        "vx":  0.180,
-        "svx":  0.860,
-        "vy":  -5.600,
-        "svy":  0.880,
+        "vx":   "0.180",
+        "svx":   "0.860",
+        "vy":   "-5.600",
+        "svy":   "0.880",
     },
     "geometry": {
          "type": "Point",
@@ -1029,10 +1029,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC51",
-        "vx":  0.240,
-        "svx":  0.460,
-        "vy":  -11.250,
-        "svy":  0.370,
+        "vx":   "0.240",
+        "svx":   "0.460",
+        "vy":   "-11.250",
+        "svy":   "0.370",
     },
     "geometry": {
          "type": "Point",
@@ -1042,10 +1042,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC52",
-        "vx":  -9.430,
-        "svx":  0.320,
-        "vy":  4.860,
-        "svy":  0.630,
+        "vx":   "-9.430",
+        "svx":   "0.320",
+        "vy":   "4.860",
+        "svy":   "0.630",
     },
     "geometry": {
          "type": "Point",
@@ -1055,10 +1055,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC53",
-        "vx":  -6.340,
-        "svx":  0.230,
-        "vy":  -3.520,
-        "svy":  0.310,
+        "vx":   "-6.340",
+        "svx":   "0.230",
+        "vy":   "-3.520",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -1068,10 +1068,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC55",
-        "vx":  56.260,
-        "svx":  0.980,
-        "vy":  5.720,
-        "svy":  0.540,
+        "vx":   "56.260",
+        "svx":   "0.980",
+        "vy":   "5.720",
+        "svy":   "0.540",
     },
     "geometry": {
          "type": "Point",
@@ -1081,10 +1081,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC57",
-        "vx":  -15.270,
-        "svx":  0.210,
-        "vy":  26.800,
-        "svy":  0.190,
+        "vx":   "-15.270",
+        "svx":   "0.210",
+        "vy":   "26.800",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -1094,10 +1094,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC58",
-        "vx":  -3.680,
-        "svx":  1.060,
-        "vy":  -5.140,
-        "svy":  0.840,
+        "vx":   "-3.680",
+        "svx":   "1.060",
+        "vy":   "-5.140",
+        "svy":   "0.840",
     },
     "geometry": {
          "type": "Point",
@@ -1107,10 +1107,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC59",
-        "vx":  0.950,
-        "svx":  0.280,
-        "vy":  -12.450,
-        "svy":  0.190,
+        "vx":   "0.950",
+        "svx":   "0.280",
+        "vy":   "-12.450",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -1120,10 +1120,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC60",
-        "vx":  -23.100,
-        "svx":  1.930,
-        "vy":  12.200,
-        "svy":  1.300,
+        "vx":   "-23.100",
+        "svx":   "1.930",
+        "vy":   "12.200",
+        "svy":   "1.300",
     },
     "geometry": {
          "type": "Point",
@@ -1133,10 +1133,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC61",
-        "vx":  1.900,
-        "svx":  0.290,
-        "vy":  -2.350,
-        "svy":  0.350,
+        "vx":   "1.900",
+        "svx":   "0.290",
+        "vy":   "-2.350",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -1146,10 +1146,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC62",
-        "vx":  -20.720,
-        "svx":  0.350,
-        "vy":  6.220,
-        "svy":  0.140,
+        "vx":   "-20.720",
+        "svx":   "0.350",
+        "vy":   "6.220",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -1159,10 +1159,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC63",
-        "vx":  2.770,
-        "svx":  0.390,
-        "vy":  -2.900,
-        "svy":  0.230,
+        "vx":   "2.770",
+        "svx":   "0.390",
+        "vy":   "-2.900",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -1172,10 +1172,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC64",
-        "vx":  -18.750,
-        "svx":  0.720,
-        "vy":  22.660,
-        "svy":  0.620,
+        "vx":   "-18.750",
+        "svx":   "0.720",
+        "vy":   "22.660",
+        "svy":   "0.620",
     },
     "geometry": {
          "type": "Point",
@@ -1185,10 +1185,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC65",
-        "vx":  -13.730,
-        "svx":  0.470,
-        "vy":  22.090,
-        "svy":  0.620,
+        "vx":   "-13.730",
+        "svx":   "0.470",
+        "vy":   "22.090",
+        "svy":   "0.620",
     },
     "geometry": {
          "type": "Point",
@@ -1198,10 +1198,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC66",
-        "vx":  -16.770,
-        "svx":  1.610,
-        "vy":  -5.750,
-        "svy":  0.900,
+        "vx":   "-16.770",
+        "svx":   "1.610",
+        "vy":   "-5.750",
+        "svy":   "0.900",
     },
     "geometry": {
          "type": "Point",
@@ -1211,10 +1211,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC67",
-        "vx":  -11.040,
-        "svx":  0.380,
-        "vy":  12.070,
-        "svy":  0.300,
+        "vx":   "-11.040",
+        "svx":   "0.380",
+        "vy":   "12.070",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -1224,10 +1224,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC69",
-        "vx":  4.840,
-        "svx":  1.180,
-        "vy":  -2.840,
-        "svy":  0.890,
+        "vx":   "4.840",
+        "svx":   "1.180",
+        "vy":   "-2.840",
+        "svy":   "0.890",
     },
     "geometry": {
          "type": "Point",
@@ -1237,10 +1237,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC70",
-        "vx":  -12.260,
-        "svx":  0.280,
-        "vy":  -1.460,
-        "svy":  0.370,
+        "vx":   "-12.260",
+        "svx":   "0.280",
+        "vy":   "-1.460",
+        "svy":   "0.370",
     },
     "geometry": {
          "type": "Point",
@@ -1250,10 +1250,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC71",
-        "vx":  1.790,
-        "svx":  0.270,
-        "vy":  -4.620,
-        "svy":  0.170,
+        "vx":   "1.790",
+        "svx":   "0.270",
+        "vy":   "-4.620",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -1263,10 +1263,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC72",
-        "vx":  2.900,
-        "svx":  0.190,
-        "vy":  -4.150,
-        "svy":  0.180,
+        "vx":   "2.900",
+        "svx":   "0.190",
+        "vy":   "-4.150",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -1276,10 +1276,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC74",
-        "vx":  -7.710,
-        "svx":  0.280,
-        "vy":  -1.240,
-        "svy":  0.250,
+        "vx":   "-7.710",
+        "svx":   "0.280",
+        "vy":   "-1.240",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -1289,10 +1289,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC75",
-        "vx":  -9.190,
-        "svx":  0.370,
-        "vy":  -3.200,
-        "svy":  0.330,
+        "vx":   "-9.190",
+        "svx":   "0.370",
+        "vy":   "-3.200",
+        "svy":   "0.330",
     },
     "geometry": {
          "type": "Point",
@@ -1302,10 +1302,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC76",
-        "vx":  4.890,
-        "svx":  0.520,
-        "vy":  1.080,
-        "svy":  0.760,
+        "vx":   "4.890",
+        "svx":   "0.520",
+        "vy":   "1.080",
+        "svy":   "0.760",
     },
     "geometry": {
          "type": "Point",
@@ -1315,10 +1315,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC77",
-        "vx":  -17.320,
-        "svx":  0.260,
-        "vy":  10.800,
-        "svy":  0.280,
+        "vx":   "-17.320",
+        "svx":   "0.260",
+        "vy":   "10.800",
+        "svy":   "0.280",
     },
     "geometry": {
          "type": "Point",
@@ -1328,10 +1328,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC78",
-        "vx":  2.160,
-        "svx":  1.320,
-        "vy":  -1.100,
-        "svy":  1.070,
+        "vx":   "2.160",
+        "svx":   "1.320",
+        "vy":   "-1.100",
+        "svy":   "1.070",
     },
     "geometry": {
          "type": "Point",
@@ -1341,10 +1341,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC79",
-        "vx":  -17.950,
-        "svx":  1.690,
-        "vy":  43.970,
-        "svy":  1.310,
+        "vx":   "-17.950",
+        "svx":   "1.690",
+        "vy":   "43.970",
+        "svy":   "1.310",
     },
     "geometry": {
          "type": "Point",
@@ -1354,10 +1354,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AC80",
-        "vx":  3.560,
-        "svx":  1.690,
-        "vy":  -14.880,
-        "svy":  2.300,
+        "vx":   "3.560",
+        "svx":   "1.690",
+        "vy":   "-14.880",
+        "svy":   "2.300",
     },
     "geometry": {
          "type": "Point",
@@ -1367,10 +1367,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ACSO",
-        "vx":  -1.330,
-        "svx":  0.170,
-        "vy":  0.020,
-        "svy":  0.140,
+        "vx":   "-1.330",
+        "svx":   "0.170",
+        "vy":   "0.020",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -1380,10 +1380,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AGMT",
-        "vx":  -8.000,
-        "svx":  0.090,
-        "vy":  6.610,
-        "svy":  0.080,
+        "vx":   "-8.000",
+        "svx":   "0.090",
+        "vy":   "6.610",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -1393,10 +1393,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AHID",
-        "vx":  -2.100,
-        "svx":  0.100,
-        "vy":  -0.800,
-        "svy":  0.080,
+        "vx":   "-2.100",
+        "svx":   "0.100",
+        "vy":   "-0.800",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -1406,10 +1406,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AIS1",
-        "vx":  -0.590,
-        "svx":  0.490,
-        "vy":  3.090,
-        "svy":  0.200,
+        "vx":   "-0.590",
+        "svx":   "0.490",
+        "vy":   "3.090",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -1419,10 +1419,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ALBH",
-        "vx":  4.820,
-        "svx":  0.110,
-        "vy":  3.700,
-        "svy":  0.110,
+        "vx":   "4.820",
+        "svx":   "0.110",
+        "vy":   "3.700",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -1432,10 +1432,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ALGO",
-        "vx":  0.230,
-        "svx":  0.120,
-        "vy":  -1.060,
-        "svy":  0.090,
+        "vx":   "0.230",
+        "svx":   "0.120",
+        "vy":   "-1.060",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -1445,10 +1445,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ALPP",
-        "vx":  -16.880,
-        "svx":  0.230,
-        "vy":  16.860,
-        "svy":  0.340,
+        "vx":   "-16.880",
+        "svx":   "0.230",
+        "vy":   "16.860",
+        "svy":   "0.340",
     },
     "geometry": {
          "type": "Point",
@@ -1458,10 +1458,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ALRT",
-        "vx":  -0.430,
-        "svx":  0.220,
-        "vy":  -1.300,
-        "svy":  0.240,
+        "vx":   "-0.430",
+        "svx":   "0.220",
+        "vy":   "-1.300",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -1471,10 +1471,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ANA1",
-        "vx":  -30.420,
-        "svx":  0.140,
-        "vy":  32.090,
-        "svy":  0.340,
+        "vx":   "-30.420",
+        "svx":   "0.140",
+        "vy":   "32.090",
+        "svy":   "0.340",
     },
     "geometry": {
          "type": "Point",
@@ -1484,10 +1484,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ARM1",
-        "vx":  -17.420,
-        "svx":  2.830,
-        "vy":  11.170,
-        "svy":  0.700,
+        "vx":   "-17.420",
+        "svx":   "2.830",
+        "vy":   "11.170",
+        "svy":   "0.700",
     },
     "geometry": {
          "type": "Point",
@@ -1497,10 +1497,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ARM2",
-        "vx":  -15.360,
-        "svx":  1.010,
-        "vy":  10.460,
-        "svy":  0.890,
+        "vx":   "-15.360",
+        "svx":   "1.010",
+        "vy":   "10.460",
+        "svy":   "0.890",
     },
     "geometry": {
          "type": "Point",
@@ -1510,10 +1510,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ARNG",
-        "vx":  -3.410,
-        "svx":  1.300,
-        "vy":  -2.770,
-        "svy":  1.340,
+        "vx":   "-3.410",
+        "svx":   "1.300",
+        "vy":   "-2.770",
+        "svy":   "1.340",
     },
     "geometry": {
          "type": "Point",
@@ -1523,10 +1523,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ATW2",
-        "vx":  -11.760,
-        "svx":  0.250,
-        "vy":  7.000,
-        "svy":  0.210,
+        "vx":   "-11.760",
+        "svx":   "0.250",
+        "vy":   "7.000",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -1536,10 +1536,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AUGL",
-        "vx":  0.750,
-        "svx":  0.790,
-        "vy":  -13.990,
-        "svy":  0.400,
+        "vx":   "0.750",
+        "svx":   "0.790",
+        "vy":   "-13.990",
+        "svy":   "0.400",
     },
     "geometry": {
          "type": "Point",
@@ -1549,10 +1549,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV01",
-        "vx":  -1.640,
-        "svx":  0.330,
-        "vy":  -12.590,
-        "svy":  0.170,
+        "vx":   "-1.640",
+        "svx":   "0.330",
+        "vy":   "-12.590",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -1562,10 +1562,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV02",
-        "vx":  -0.440,
-        "svx":  0.320,
-        "vy":  -12.760,
-        "svy":  0.190,
+        "vx":   "-0.440",
+        "svx":   "0.320",
+        "vy":   "-12.760",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -1575,10 +1575,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV03",
-        "vx":  -1.850,
-        "svx":  3.900,
-        "vy":  -11.150,
-        "svy":  1.310,
+        "vx":   "-1.850",
+        "svx":   "3.900",
+        "vy":   "-11.150",
+        "svy":   "1.310",
     },
     "geometry": {
          "type": "Point",
@@ -1588,10 +1588,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV04",
-        "vx":  -11.320,
-        "svx":  3.130,
-        "vy":  -19.900,
-        "svy":  3.060,
+        "vx":   "-11.320",
+        "svx":   "3.130",
+        "vy":   "-19.900",
+        "svy":   "3.060",
     },
     "geometry": {
          "type": "Point",
@@ -1601,10 +1601,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV05",
-        "vx":  103.120,
-        "svx":  18.350,
-        "vy":  53.140,
-        "svy":  14.470,
+        "vx":   "103.120",
+        "svx":   "18.350",
+        "vy":   "53.140",
+        "svy":   "14.470",
     },
     "geometry": {
          "type": "Point",
@@ -1614,10 +1614,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV06",
-        "vx":  -4.160,
-        "svx":  0.270,
-        "vy":  -4.090,
-        "svy":  0.200,
+        "vx":   "-4.160",
+        "svx":   "0.270",
+        "vy":   "-4.090",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -1627,10 +1627,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV07",
-        "vx":  -6.670,
-        "svx":  0.490,
-        "vy":  -4.510,
-        "svy":  0.200,
+        "vx":   "-6.670",
+        "svx":   "0.490",
+        "vy":   "-4.510",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -1640,10 +1640,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV08",
-        "vx":  -6.140,
-        "svx":  0.420,
-        "vy":  -3.860,
-        "svy":  0.230,
+        "vx":   "-6.140",
+        "svx":   "0.420",
+        "vy":   "-3.860",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -1653,10 +1653,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV09",
-        "vx":  -5.940,
-        "svx":  0.300,
-        "vy":  -4.400,
-        "svy":  0.190,
+        "vx":   "-5.940",
+        "svx":   "0.300",
+        "vy":   "-4.400",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -1666,10 +1666,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV10",
-        "vx":  -5.080,
-        "svx":  0.340,
-        "vy":  -5.770,
-        "svy":  0.240,
+        "vx":   "-5.080",
+        "svx":   "0.340",
+        "vy":   "-5.770",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -1679,10 +1679,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV11",
-        "vx":  1.510,
-        "svx":  0.280,
-        "vy":  -12.530,
-        "svy":  0.210,
+        "vx":   "1.510",
+        "svx":   "0.280",
+        "vy":   "-12.530",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -1692,10 +1692,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV12",
-        "vx":  -2.750,
-        "svx":  0.320,
-        "vy":  -0.760,
-        "svy":  0.340,
+        "vx":   "-2.750",
+        "svx":   "0.320",
+        "vy":   "-0.760",
+        "svy":   "0.340",
     },
     "geometry": {
          "type": "Point",
@@ -1705,10 +1705,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV13",
-        "vx":  -1.220,
-        "svx":  0.440,
-        "vy":  -4.080,
-        "svy":  0.230,
+        "vx":   "-1.220",
+        "svx":   "0.440",
+        "vy":   "-4.080",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -1718,10 +1718,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV14",
-        "vx":  -3.790,
-        "svx":  0.340,
-        "vy":  -5.150,
-        "svy":  0.210,
+        "vx":   "-3.790",
+        "svx":   "0.340",
+        "vy":   "-5.150",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -1731,10 +1731,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV15",
-        "vx":  -6.770,
-        "svx":  0.330,
-        "vy":  -4.370,
-        "svy":  0.190,
+        "vx":   "-6.770",
+        "svx":   "0.330",
+        "vy":   "-4.370",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -1744,10 +1744,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV16",
-        "vx":  1.060,
-        "svx":  0.230,
-        "vy":  -12.000,
-        "svy":  0.210,
+        "vx":   "1.060",
+        "svx":   "0.230",
+        "vy":   "-12.000",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -1757,10 +1757,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV17",
-        "vx":  0.770,
-        "svx":  0.330,
-        "vy":  -11.450,
-        "svy":  0.260,
+        "vx":   "0.770",
+        "svx":   "0.330",
+        "vy":   "-11.450",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -1770,10 +1770,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV18",
-        "vx":  6.690,
-        "svx":  0.260,
-        "vy":  -11.180,
-        "svy":  0.230,
+        "vx":   "6.690",
+        "svx":   "0.260",
+        "vy":   "-11.180",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -1783,10 +1783,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV19",
-        "vx":  2.940,
-        "svx":  0.250,
-        "vy":  -14.290,
-        "svy":  0.230,
+        "vx":   "2.940",
+        "svx":   "0.250",
+        "vy":   "-14.290",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -1796,10 +1796,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV20",
-        "vx":  2.200,
-        "svx":  0.450,
-        "vy":  -12.400,
-        "svy":  1.360,
+        "vx":   "2.200",
+        "svx":   "0.450",
+        "vy":   "-12.400",
+        "svy":   "1.360",
     },
     "geometry": {
          "type": "Point",
@@ -1809,10 +1809,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV21",
-        "vx":  0.750,
-        "svx":  0.790,
-        "vy":  -13.990,
-        "svy":  0.400,
+        "vx":   "0.750",
+        "svx":   "0.790",
+        "vy":   "-13.990",
+        "svy":   "0.400",
     },
     "geometry": {
          "type": "Point",
@@ -1822,10 +1822,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV24",
-        "vx":  -6.880,
-        "svx":  0.820,
-        "vy":  1.430,
-        "svy":  0.760,
+        "vx":   "-6.880",
+        "svx":   "0.820",
+        "vy":   "1.430",
+        "svy":   "0.760",
     },
     "geometry": {
          "type": "Point",
@@ -1835,10 +1835,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV25",
-        "vx":  -8.080,
-        "svx":  1.000,
-        "vy":  -1.440,
-        "svy":  1.430,
+        "vx":   "-8.080",
+        "svx":   "1.000",
+        "vy":   "-1.440",
+        "svy":   "1.430",
     },
     "geometry": {
          "type": "Point",
@@ -1848,10 +1848,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV26",
-        "vx":  1.400,
-        "svx":  1.370,
-        "vy":  2.760,
-        "svy":  1.090,
+        "vx":   "1.400",
+        "svx":   "1.370",
+        "vy":   "2.760",
+        "svy":   "1.090",
     },
     "geometry": {
          "type": "Point",
@@ -1861,10 +1861,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV27",
-        "vx":  -9.320,
-        "svx":  3.350,
-        "vy":  -6.160,
-        "svy":  4.110,
+        "vx":   "-9.320",
+        "svx":   "3.350",
+        "vy":   "-6.160",
+        "svy":   "4.110",
     },
     "geometry": {
          "type": "Point",
@@ -1874,10 +1874,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV29",
-        "vx":  2.350,
-        "svx":  2.440,
-        "vy":  -4.020,
-        "svy":  4.230,
+        "vx":   "2.350",
+        "svx":   "2.440",
+        "vy":   "-4.020",
+        "svy":   "4.230",
     },
     "geometry": {
          "type": "Point",
@@ -1887,10 +1887,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV34",
-        "vx":  -4.930,
-        "svx":  1.650,
-        "vy":  -3.470,
-        "svy":  1.400,
+        "vx":   "-4.930",
+        "svx":   "1.650",
+        "vy":   "-3.470",
+        "svy":   "1.400",
     },
     "geometry": {
          "type": "Point",
@@ -1900,10 +1900,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV35",
-        "vx":  -2.030,
-        "svx":  4.210,
-        "vy":  3.820,
-        "svy":  4.030,
+        "vx":   "-2.030",
+        "svx":   "4.210",
+        "vy":   "3.820",
+        "svy":   "4.030",
     },
     "geometry": {
          "type": "Point",
@@ -1913,10 +1913,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV36",
-        "vx":  -2.600,
-        "svx":  1.390,
-        "vy":  -1.460,
-        "svy":  1.790,
+        "vx":   "-2.600",
+        "svx":   "1.390",
+        "vy":   "-1.460",
+        "svy":   "1.790",
     },
     "geometry": {
          "type": "Point",
@@ -1926,10 +1926,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV37",
-        "vx":  -3.850,
-        "svx":  1.270,
-        "vy":  -1.760,
-        "svy":  1.460,
+        "vx":   "-3.850",
+        "svx":   "1.270",
+        "vy":   "-1.760",
+        "svy":   "1.460",
     },
     "geometry": {
          "type": "Point",
@@ -1939,10 +1939,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV38",
-        "vx":  -5.190,
-        "svx":  1.440,
-        "vy":  -3.810,
-        "svy":  1.220,
+        "vx":   "-5.190",
+        "svx":   "1.440",
+        "vy":   "-3.810",
+        "svy":   "1.220",
     },
     "geometry": {
          "type": "Point",
@@ -1952,10 +1952,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV39",
-        "vx":  1.310,
-        "svx":  2.060,
-        "vy":  2.420,
-        "svy":  2.910,
+        "vx":   "1.310",
+        "svx":   "2.060",
+        "vy":   "2.420",
+        "svy":   "2.910",
     },
     "geometry": {
          "type": "Point",
@@ -1965,10 +1965,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AV40",
-        "vx":  -4.670,
-        "svx":  0.980,
-        "vy":  -4.170,
-        "svy":  1.070,
+        "vx":   "-4.670",
+        "svx":   "0.980",
+        "vy":   "-4.170",
+        "svy":   "1.070",
     },
     "geometry": {
          "type": "Point",
@@ -1978,10 +1978,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AVRY",
-        "vx":  -17.240,
-        "svx":  0.380,
-        "vy":  11.610,
-        "svy":  0.250,
+        "vx":   "-17.240",
+        "svx":   "0.380",
+        "vy":   "11.610",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -1991,10 +1991,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AZRY",
-        "vx":  -21.530,
-        "svx":  0.400,
-        "vy":  21.480,
-        "svy":  0.480,
+        "vx":   "-21.530",
+        "svx":   "0.400",
+        "vy":   "21.480",
+        "svy":   "0.480",
     },
     "geometry": {
          "type": "Point",
@@ -2004,10 +2004,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "AZU1",
-        "vx":  -24.980,
-        "svx":  0.290,
-        "vy":  21.740,
-        "svy":  0.270,
+        "vx":   "-24.980",
+        "svx":   "0.290",
+        "vy":   "21.740",
+        "svy":   "0.270",
     },
     "geometry": {
          "type": "Point",
@@ -2017,10 +2017,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BAMO",
-        "vx":  -4.190,
-        "svx":  0.090,
-        "vy":  0.350,
-        "svy":  0.100,
+        "vx":   "-4.190",
+        "svx":   "0.090",
+        "vy":   "0.350",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -2030,10 +2030,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BAR1",
-        "vx":  -31.280,
-        "svx":  0.160,
-        "vy":  32.600,
-        "svy":  0.090,
+        "vx":   "-31.280",
+        "svx":   "0.160",
+        "vy":   "32.600",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -2043,10 +2043,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BAY2",
-        "vx":  -7.040,
-        "svx":  0.290,
-        "vy":  -3.500,
-        "svy":  0.370,
+        "vx":   "-7.040",
+        "svx":   "0.290",
+        "vy":   "-3.500",
+        "svy":   "0.370",
     },
     "geometry": {
          "type": "Point",
@@ -2056,10 +2056,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BBDM",
-        "vx":  -32.470,
-        "svx":  0.240,
-        "vy":  31.060,
-        "svy":  0.140,
+        "vx":   "-32.470",
+        "svx":   "0.240",
+        "vy":   "31.060",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -2069,10 +2069,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BBID",
-        "vx":  -2.530,
-        "svx":  0.100,
-        "vy":  -2.040,
-        "svy":  0.110,
+        "vx":   "-2.530",
+        "svx":   "0.100",
+        "vy":   "-2.040",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -2082,10 +2082,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BBRY",
-        "vx":  -12.770,
-        "svx":  0.100,
-        "vy":  13.740,
-        "svy":  0.100,
+        "vx":   "-12.770",
+        "svx":   "0.100",
+        "vy":   "13.740",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -2095,10 +2095,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BCWR",
-        "vx":  -22.300,
-        "svx":  0.170,
-        "vy":  20.620,
-        "svy":  0.190,
+        "vx":   "-22.300",
+        "svx":   "0.170",
+        "vy":   "20.620",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -2108,10 +2108,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BCYI",
-        "vx":  2.840,
-        "svx":  1.130,
-        "vy":  -4.660,
-        "svy":  1.160,
+        "vx":   "2.840",
+        "svx":   "1.130",
+        "vy":   "-4.660",
+        "svy":   "1.160",
     },
     "geometry": {
          "type": "Point",
@@ -2121,10 +2121,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BEMT",
-        "vx":  -5.990,
-        "svx":  0.090,
-        "vy":  4.490,
-        "svy":  0.080,
+        "vx":   "-5.990",
+        "svx":   "0.090",
+        "vy":   "4.490",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -2134,10 +2134,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BEPK",
-        "vx":  -9.860,
-        "svx":  0.130,
-        "vy":  9.400,
-        "svy":  0.270,
+        "vx":   "-9.860",
+        "svx":   "0.130",
+        "vy":   "9.400",
+        "svy":   "0.270",
     },
     "geometry": {
          "type": "Point",
@@ -2147,10 +2147,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BGIS",
-        "vx":  -27.980,
-        "svx":  0.220,
-        "vy":  25.430,
-        "svy":  0.370,
+        "vx":   "-27.980",
+        "svx":   "0.220",
+        "vy":   "25.430",
+        "svy":   "0.370",
     },
     "geometry": {
          "type": "Point",
@@ -2160,10 +2160,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BILI",
-        "vx":  1.390,
-        "svx":  0.330,
-        "vy":  -2.830,
-        "svy":  0.460,
+        "vx":   "1.390",
+        "svx":   "0.330",
+        "vy":   "-2.830",
+        "svy":   "0.460",
     },
     "geometry": {
          "type": "Point",
@@ -2173,10 +2173,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BILL",
-        "vx":  -24.950,
-        "svx":  0.130,
-        "vy":  24.230,
-        "svy":  0.150,
+        "vx":   "-24.950",
+        "svx":   "0.130",
+        "vy":   "24.230",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -2186,10 +2186,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BIS1",
-        "vx":  -4.200,
-        "svx":  0.290,
-        "vy":  7.670,
-        "svy":  0.230,
+        "vx":   "-4.200",
+        "svx":   "0.290",
+        "vy":   "7.670",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -2199,10 +2199,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BKAP",
-        "vx":  -4.850,
-        "svx":  0.100,
-        "vy":  -0.050,
-        "svy":  0.100,
+        "vx":   "-4.850",
+        "svx":   "0.100",
+        "vy":   "-0.050",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -2212,10 +2212,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BKMS",
-        "vx":  -29.140,
-        "svx":  0.120,
-        "vy":  28.190,
-        "svy":  0.110,
+        "vx":   "-29.140",
+        "svx":   "0.120",
+        "vy":   "28.190",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -2225,10 +2225,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BLA1",
-        "vx":  -0.310,
-        "svx":  0.540,
-        "vy":  -0.140,
-        "svy":  0.290,
+        "vx":   "-0.310",
+        "svx":   "0.540",
+        "vy":   "-0.140",
+        "svy":   "0.290",
     },
     "geometry": {
          "type": "Point",
@@ -2238,10 +2238,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BLSA",
-        "vx":  -27.680,
-        "svx":  0.780,
-        "vy":  28.740,
-        "svy":  0.850,
+        "vx":   "-27.680",
+        "svx":   "0.780",
+        "vy":   "28.740",
+        "svy":   "0.850",
     },
     "geometry": {
          "type": "Point",
@@ -2251,10 +2251,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BLW2",
-        "vx":  -1.640,
-        "svx":  0.090,
-        "vy":  0.160,
-        "svy":  0.090,
+        "vx":   "-1.640",
+        "svx":   "0.090",
+        "vy":   "0.160",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -2264,10 +2264,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BLYN",
-        "vx":  3.760,
-        "svx":  0.750,
-        "vy":  3.820,
-        "svy":  0.260,
+        "vx":   "3.760",
+        "svx":   "0.750",
+        "vy":   "3.820",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -2277,10 +2277,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BLYT",
-        "vx":  -4.240,
-        "svx":  0.260,
-        "vy":  1.060,
-        "svy":  0.430,
+        "vx":   "-4.240",
+        "svx":   "0.260",
+        "vy":   "1.060",
+        "svy":   "0.430",
     },
     "geometry": {
          "type": "Point",
@@ -2290,10 +2290,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BMCL",
-        "vx":  1.140,
-        "svx":  6.550,
-        "vy":  30.910,
-        "svy":  4.590,
+        "vx":   "1.140",
+        "svx":   "6.550",
+        "vy":   "30.910",
+        "svy":   "4.590",
     },
     "geometry": {
          "type": "Point",
@@ -2303,10 +2303,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BMHL",
-        "vx":  -3.870,
-        "svx":  0.090,
-        "vy":  3.340,
-        "svy":  0.090,
+        "vx":   "-3.870",
+        "svx":   "0.090",
+        "vy":   "3.340",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -2316,10 +2316,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BRAN",
-        "vx":  -26.100,
-        "svx":  0.220,
-        "vy":  24.380,
-        "svy":  0.170,
+        "vx":   "-26.100",
+        "svx":   "0.220",
+        "vy":   "24.380",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -2329,10 +2329,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BRMU",
-        "vx":  0.700,
-        "svx":  0.280,
-        "vy":  -0.810,
-        "svy":  0.260,
+        "vx":   "0.700",
+        "svx":   "0.280",
+        "vy":   "-0.810",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -2342,10 +2342,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BRPK",
-        "vx":  -20.020,
-        "svx":  0.210,
-        "vy":  20.010,
-        "svy":  0.230,
+        "vx":   "-20.020",
+        "svx":   "0.210",
+        "vy":   "20.010",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -2355,10 +2355,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BSRY",
-        "vx":  -9.590,
-        "svx":  0.110,
-        "vy":  9.150,
-        "svy":  0.150,
+        "vx":   "-9.590",
+        "svx":   "0.110",
+        "vy":   "9.150",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -2368,10 +2368,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BTDM",
-        "vx":  -25.560,
-        "svx":  0.110,
-        "vy":  22.200,
-        "svy":  0.110,
+        "vx":   "-25.560",
+        "svx":   "0.110",
+        "vy":   "22.200",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -2381,10 +2381,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BURN",
-        "vx":  -3.290,
-        "svx":  0.110,
-        "vy":  0.530,
-        "svy":  0.130,
+        "vx":   "-3.290",
+        "svx":   "0.110",
+        "vy":   "0.530",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -2394,10 +2394,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BVPP",
-        "vx":  -18.090,
-        "svx":  0.120,
-        "vy":  13.680,
-        "svy":  0.110,
+        "vx":   "-18.090",
+        "svx":   "0.120",
+        "vy":   "13.680",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -2407,10 +2407,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "BYSP",
-        "vx":  13.440,
-        "svx":  4.700,
-        "vy":  -1.440,
-        "svy":  3.360,
+        "vx":   "13.440",
+        "svx":   "4.700",
+        "vy":   "-1.440",
+        "svy":   "3.360",
     },
     "geometry": {
          "type": "Point",
@@ -2420,10 +2420,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CABL",
-        "vx":  4.400,
-        "svx":  0.170,
-        "vy":  13.050,
-        "svy":  0.110,
+        "vx":   "4.400",
+        "svx":   "0.170",
+        "vy":   "13.050",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -2433,10 +2433,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CACT",
-        "vx":  -10.480,
-        "svx":  0.320,
-        "vy":  8.530,
-        "svy":  0.390,
+        "vx":   "-10.480",
+        "svx":   "0.320",
+        "vy":   "8.530",
+        "svy":   "0.390",
     },
     "geometry": {
          "type": "Point",
@@ -2446,10 +2446,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CAND",
-        "vx":  -14.430,
-        "svx":  0.160,
-        "vy":  18.070,
-        "svy":  0.110,
+        "vx":   "-14.430",
+        "svx":   "0.160",
+        "vy":   "18.070",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -2459,10 +2459,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CARH",
-        "vx":  -20.810,
-        "svx":  0.160,
-        "vy":  24.030,
-        "svy":  0.220,
+        "vx":   "-20.810",
+        "svx":   "0.160",
+        "vy":   "24.030",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -2472,10 +2472,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CAST",
-        "vx":  -1.460,
-        "svx":  0.100,
-        "vy":  -0.120,
-        "svy":  0.090,
+        "vx":   "-1.460",
+        "svx":   "0.100",
+        "vy":   "-0.120",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -2485,10 +2485,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CAT1",
-        "vx":  -30.370,
-        "svx":  0.120,
-        "vy":  31.090,
-        "svy":  0.110,
+        "vx":   "-30.370",
+        "svx":   "0.120",
+        "vy":   "31.090",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -2498,10 +2498,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CAT2",
-        "vx":  -29.910,
-        "svx":  0.080,
-        "vy":  31.200,
-        "svy":  0.080,
+        "vx":   "-29.910",
+        "svx":   "0.080",
+        "vy":   "31.200",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -2511,10 +2511,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CAT3",
-        "vx":  -31.450,
-        "svx":  0.350,
-        "vy":  31.760,
-        "svy":  0.160,
+        "vx":   "-31.450",
+        "svx":   "0.350",
+        "vy":   "31.760",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -2524,10 +2524,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CBHS",
-        "vx":  -28.670,
-        "svx":  0.100,
-        "vy":  27.730,
-        "svy":  0.100,
+        "vx":   "-28.670",
+        "svx":   "0.100",
+        "vy":   "27.730",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -2537,10 +2537,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CCCC",
-        "vx":  -10.210,
-        "svx":  0.130,
-        "vy":  9.320,
-        "svy":  0.100,
+        "vx":   "-10.210",
+        "svx":   "0.130",
+        "vy":   "9.320",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -2550,10 +2550,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CCCO",
-        "vx":  -25.450,
-        "svx":  0.210,
-        "vy":  28.580,
-        "svy":  0.240,
+        "vx":   "-25.450",
+        "svx":   "0.210",
+        "vy":   "28.580",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -2563,10 +2563,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CCCS",
-        "vx":  -27.910,
-        "svx":  0.660,
-        "vy":  23.520,
-        "svy":  1.140,
+        "vx":   "-27.910",
+        "svx":   "0.660",
+        "vy":   "23.520",
+        "svy":   "1.140",
     },
     "geometry": {
          "type": "Point",
@@ -2576,10 +2576,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CCST",
-        "vx":  -21.860,
-        "svx":  0.330,
-        "vy":  19.820,
-        "svy":  0.240,
+        "vx":   "-21.860",
+        "svx":   "0.330",
+        "vy":   "19.820",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -2589,10 +2589,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CDMT",
-        "vx":  -7.260,
-        "svx":  0.100,
-        "vy":  2.030,
-        "svy":  0.090,
+        "vx":   "-7.260",
+        "svx":   "0.100",
+        "vy":   "2.030",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -2602,10 +2602,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CEDA",
-        "vx":  -3.980,
-        "svx":  0.080,
-        "vy":  -0.420,
-        "svy":  0.080,
+        "vx":   "-3.980",
+        "svx":   "0.080",
+        "vy":   "-0.420",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -2615,10 +2615,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CGDM",
-        "vx":  -24.170,
-        "svx":  0.170,
-        "vy":  21.520,
-        "svy":  0.210,
+        "vx":   "-24.170",
+        "svx":   "0.170",
+        "vy":   "21.520",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -2628,10 +2628,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CHAB",
-        "vx":  -16.990,
-        "svx":  0.140,
-        "vy":  18.750,
-        "svy":  0.200,
+        "vx":   "-16.990",
+        "svx":   "0.140",
+        "vy":   "18.750",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -2641,10 +2641,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CHIL",
-        "vx":  -23.470,
-        "svx":  0.660,
-        "vy":  21.390,
-        "svy":  0.410,
+        "vx":   "-23.470",
+        "svx":   "0.660",
+        "vy":   "21.390",
+        "svy":   "0.410",
     },
     "geometry": {
          "type": "Point",
@@ -2654,10 +2654,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CHMS",
-        "vx":  -13.670,
-        "svx":  0.220,
-        "vy":  14.150,
-        "svy":  0.150,
+        "vx":   "-13.670",
+        "svx":   "0.220",
+        "vy":   "14.150",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -2667,10 +2667,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CHUR",
-        "vx":  1.780,
-        "svx":  0.370,
-        "vy":  0.140,
-        "svy":  0.460,
+        "vx":   "1.780",
+        "svx":   "0.370",
+        "vy":   "0.140",
+        "svy":   "0.460",
     },
     "geometry": {
          "type": "Point",
@@ -2680,10 +2680,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CHZZ",
-        "vx":  6.520,
-        "svx":  0.240,
-        "vy":  8.830,
-        "svy":  0.140,
+        "vx":   "6.520",
+        "svx":   "0.240",
+        "vy":   "8.830",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -2693,10 +2693,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CIRX",
-        "vx":  -29.590,
-        "svx":  0.090,
-        "vy":  29.380,
-        "svy":  0.090,
+        "vx":   "-29.590",
+        "svx":   "0.090",
+        "vy":   "29.380",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -2706,10 +2706,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CIT1",
-        "vx":  -25.360,
-        "svx":  0.260,
-        "vy":  23.700,
-        "svy":  0.200,
+        "vx":   "-25.360",
+        "svx":   "0.260",
+        "vy":   "23.700",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -2719,10 +2719,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CJMS",
-        "vx":  -18.380,
-        "svx":  0.230,
-        "vy":  17.710,
-        "svy":  0.250,
+        "vx":   "-18.380",
+        "svx":   "0.230",
+        "vy":   "17.710",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -2732,10 +2732,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CLAR",
-        "vx":  -24.220,
-        "svx":  0.340,
-        "vy":  21.730,
-        "svy":  0.600,
+        "vx":   "-24.220",
+        "svx":   "0.340",
+        "vy":   "21.730",
+        "svy":   "0.600",
     },
     "geometry": {
          "type": "Point",
@@ -2745,10 +2745,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CLGO",
-        "vx":  1.050,
-        "svx":  0.320,
-        "vy":  -5.990,
-        "svy":  0.160,
+        "vx":   "1.050",
+        "svx":   "0.320",
+        "vy":   "-5.990",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -2758,10 +2758,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CLOV",
-        "vx":  -4.570,
-        "svx":  0.130,
-        "vy":  -0.620,
-        "svy":  0.120,
+        "vx":   "-4.570",
+        "svx":   "0.130",
+        "vy":   "-0.620",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -2771,10 +2771,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CMP9",
-        "vx":  -26.730,
-        "svx":  0.220,
-        "vy":  25.090,
-        "svy":  0.480,
+        "vx":   "-26.730",
+        "svx":   "0.220",
+        "vy":   "25.090",
+        "svy":   "0.480",
     },
     "geometry": {
          "type": "Point",
@@ -2784,10 +2784,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CN32",
-        "vx":  -0.290,
-        "svx":  639.180,
-        "vy":  -0.700,
-        "svy":  639.180,
+        "vx":   "-0.290",
+        "svx":   "639.180",
+        "vy":   "-0.700",
+        "svy":   "639.180",
     },
     "geometry": {
          "type": "Point",
@@ -2797,10 +2797,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CNPP",
-        "vx":  -24.650,
-        "svx":  0.100,
-        "vy":  24.470,
-        "svy":  0.090,
+        "vx":   "-24.650",
+        "svx":   "0.100",
+        "vy":   "24.470",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -2810,10 +2810,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "COON",
-        "vx":  -3.180,
-        "svx":  0.100,
-        "vy":  -0.390,
-        "svy":  0.080,
+        "vx":   "-3.180",
+        "svx":   "0.100",
+        "vy":   "-0.390",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -2823,10 +2823,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "COPR",
-        "vx":  -30.930,
-        "svx":  0.100,
-        "vy":  29.020,
-        "svy":  0.200,
+        "vx":   "-30.930",
+        "svx":   "0.100",
+        "vy":   "29.020",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -2836,10 +2836,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CORV",
-        "vx":  2.660,
-        "svx":  0.100,
-        "vy":  6.330,
-        "svy":  0.110,
+        "vx":   "2.660",
+        "svx":   "0.100",
+        "vy":   "6.330",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -2849,10 +2849,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "COSO",
-        "vx":  -5.480,
-        "svx":  0.390,
-        "vy":  13.480,
-        "svy":  0.260,
+        "vx":   "-5.480",
+        "svx":   "0.390",
+        "vy":   "13.480",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -2862,10 +2862,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "COTD",
-        "vx":  -16.280,
-        "svx":  0.480,
-        "vy":  17.010,
-        "svy":  0.760,
+        "vx":   "-16.280",
+        "svx":   "0.480",
+        "vy":   "17.010",
+        "svy":   "0.760",
     },
     "geometry": {
          "type": "Point",
@@ -2875,10 +2875,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CPBN",
-        "vx":  -9.740,
-        "svx":  0.100,
-        "vy":  11.610,
-        "svy":  0.090,
+        "vx":   "-9.740",
+        "svx":   "0.100",
+        "vy":   "11.610",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -2888,10 +2888,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CPXF",
-        "vx":  2.700,
-        "svx":  0.290,
-        "vy":  3.770,
-        "svy":  0.140,
+        "vx":   "2.700",
+        "svx":   "0.290",
+        "vy":   "3.770",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -2901,10 +2901,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CPXX",
-        "vx":  2.700,
-        "svx":  0.290,
-        "vy":  3.770,
-        "svy":  0.140,
+        "vx":   "2.700",
+        "svx":   "0.290",
+        "vy":   "3.770",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -2914,10 +2914,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CRBG",
-        "vx":  0.540,
-        "svx":  1.200,
-        "vy":  -6.010,
-        "svy":  1.220,
+        "vx":   "0.540",
+        "svx":   "1.200",
+        "vy":   "-6.010",
+        "svy":   "1.220",
     },
     "geometry": {
          "type": "Point",
@@ -2927,10 +2927,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CRBT",
-        "vx":  -26.500,
-        "svx":  0.090,
-        "vy":  32.420,
-        "svy":  0.120,
+        "vx":   "-26.500",
+        "svx":   "0.090",
+        "vy":   "32.420",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -2940,10 +2940,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CRFP",
-        "vx":  -17.890,
-        "svx":  0.330,
-        "vy":  19.610,
-        "svy":  0.460,
+        "vx":   "-17.890",
+        "svx":   "0.330",
+        "vy":   "19.610",
+        "svy":   "0.460",
     },
     "geometry": {
          "type": "Point",
@@ -2953,10 +2953,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CRHS",
-        "vx":  -29.210,
-        "svx":  0.140,
-        "vy":  28.130,
-        "svy":  0.310,
+        "vx":   "-29.210",
+        "svx":   "0.140",
+        "vy":   "28.130",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -2966,10 +2966,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CRRS",
-        "vx":  -14.190,
-        "svx":  0.090,
-        "vy":  17.650,
-        "svy":  0.100,
+        "vx":   "-14.190",
+        "svx":   "0.090",
+        "vy":   "17.650",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -2979,10 +2979,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CRU1",
-        "vx":  -31.060,
-        "svx":  0.090,
-        "vy":  33.360,
-        "svy":  0.090,
+        "vx":   "-31.060",
+        "svx":   "0.090",
+        "vy":   "33.360",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -2992,10 +2992,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CSCI",
-        "vx":  -29.570,
-        "svx":  0.100,
-        "vy":  29.730,
-        "svy":  0.080,
+        "vx":   "-29.570",
+        "svx":   "0.100",
+        "vy":   "29.730",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -3005,10 +3005,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CSDH",
-        "vx":  -29.120,
-        "svx":  0.270,
-        "vy":  28.280,
-        "svy":  0.230,
+        "vx":   "-29.120",
+        "svx":   "0.270",
+        "vy":   "28.280",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -3018,10 +3018,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CSHR",
-        "vx":  2.860,
-        "svx":  0.460,
-        "vy":  2.130,
-        "svy":  0.240,
+        "vx":   "2.860",
+        "svx":   "0.460",
+        "vy":   "2.130",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -3031,10 +3031,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CSN1",
-        "vx":  -26.180,
-        "svx":  0.250,
-        "vy":  27.070,
-        "svy":  0.210,
+        "vx":   "-26.180",
+        "svx":   "0.250",
+        "vy":   "27.070",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -3044,10 +3044,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CSST",
-        "vx":  -29.940,
-        "svx":  0.090,
-        "vy":  25.870,
-        "svy":  0.080,
+        "vx":   "-29.940",
+        "svx":   "0.090",
+        "vy":   "25.870",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -3057,10 +3057,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CTDM",
-        "vx":  -24.330,
-        "svx":  0.090,
-        "vy":  20.670,
-        "svy":  0.090,
+        "vx":   "-24.330",
+        "svx":   "0.090",
+        "vy":   "20.670",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -3070,10 +3070,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CTMS",
-        "vx":  -7.130,
-        "svx":  0.090,
-        "vy":  10.420,
-        "svy":  0.090,
+        "vx":   "-7.130",
+        "svx":   "0.090",
+        "vy":   "10.420",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -3083,10 +3083,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CUHS",
-        "vx":  -27.210,
-        "svx":  0.350,
-        "vy":  24.090,
-        "svy":  1.020,
+        "vx":   "-27.210",
+        "svx":   "0.350",
+        "vy":   "24.090",
+        "svy":   "1.020",
     },
     "geometry": {
          "type": "Point",
@@ -3096,10 +3096,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "CVHS",
-        "vx":  -27.100,
-        "svx":  0.290,
-        "vy":  24.100,
-        "svy":  0.410,
+        "vx":   "-27.100",
+        "svx":   "0.290",
+        "vy":   "24.100",
+        "svy":   "0.410",
     },
     "geometry": {
          "type": "Point",
@@ -3109,10 +3109,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DDSN",
-        "vx":  -1.520,
-        "svx":  0.140,
-        "vy":  6.090,
-        "svy":  0.110,
+        "vx":   "-1.520",
+        "svx":   "0.140",
+        "vy":   "6.090",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -3122,10 +3122,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DRAO",
-        "vx":  0.330,
-        "svx":  0.080,
-        "vy":  0.190,
-        "svy":  0.090,
+        "vx":   "0.330",
+        "svx":   "0.080",
+        "vy":   "0.190",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -3135,10 +3135,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DSHS",
-        "vx":  -27.500,
-        "svx":  0.160,
-        "vy":  25.420,
-        "svy":  0.240,
+        "vx":   "-27.500",
+        "svx":   "0.160",
+        "vy":   "25.420",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -3148,10 +3148,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DSSC",
-        "vx":  -17.940,
-        "svx":  0.120,
-        "vy":  18.750,
-        "svy":  0.090,
+        "vx":   "-17.940",
+        "svx":   "0.120",
+        "vy":   "18.750",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -3161,10 +3161,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DUBO",
-        "vx":  -1.260,
-        "svx":  0.130,
-        "vy":  -1.080,
-        "svy":  0.100,
+        "vx":   "-1.260",
+        "svx":   "0.130",
+        "vy":   "-1.080",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -3174,10 +3174,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DVLE",
-        "vx":  -26.350,
-        "svx":  1.450,
-        "vy":  23.620,
-        "svy":  1.650,
+        "vx":   "-26.350",
+        "svx":   "1.450",
+        "vy":   "23.620",
+        "svy":   "1.650",
     },
     "geometry": {
          "type": "Point",
@@ -3187,10 +3187,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DVLS",
-        "vx":  -24.530,
-        "svx":  0.550,
-        "vy":  22.250,
-        "svy":  0.630,
+        "vx":   "-24.530",
+        "svx":   "0.550",
+        "vy":   "22.250",
+        "svy":   "0.630",
     },
     "geometry": {
          "type": "Point",
@@ -3200,10 +3200,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DVLW",
-        "vx":  -25.140,
-        "svx":  0.540,
-        "vy":  24.500,
-        "svy":  0.670,
+        "vx":   "-25.140",
+        "svx":   "0.540",
+        "vy":   "24.500",
+        "svy":   "0.670",
     },
     "geometry": {
          "type": "Point",
@@ -3213,10 +3213,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DVNE",
-        "vx":  -30.400,
-        "svx":  1.020,
-        "vy":  27.700,
-        "svy":  1.830,
+        "vx":   "-30.400",
+        "svx":   "1.020",
+        "vy":   "27.700",
+        "svy":   "1.830",
     },
     "geometry": {
          "type": "Point",
@@ -3226,10 +3226,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DVNW",
-        "vx":  -13.650,
-        "svx":  1.500,
-        "vy":  24.260,
-        "svy":  1.060,
+        "vx":   "-13.650",
+        "svx":   "1.500",
+        "vy":   "24.260",
+        "svy":   "1.060",
     },
     "geometry": {
          "type": "Point",
@@ -3239,10 +3239,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DVPB",
-        "vx":  -20.500,
-        "svx":  0.170,
-        "vy":  19.640,
-        "svy":  0.250,
+        "vx":   "-20.500",
+        "svx":   "0.170",
+        "vy":   "19.640",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -3252,10 +3252,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DVSE",
-        "vx":  -35.940,
-        "svx":  0.740,
-        "vy":  21.650,
-        "svy":  0.740,
+        "vx":   "-35.940",
+        "svx":   "0.740",
+        "vy":   "21.650",
+        "svy":   "0.740",
     },
     "geometry": {
          "type": "Point",
@@ -3265,10 +3265,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DVSW",
-        "vx":  -15.840,
-        "svx":  1.170,
-        "vy":  23.280,
-        "svy":  0.890,
+        "vx":   "-15.840",
+        "svx":   "1.170",
+        "vy":   "23.280",
+        "svy":   "0.890",
     },
     "geometry": {
          "type": "Point",
@@ -3278,10 +3278,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "DYHS",
-        "vx":  -31.670,
-        "svx":  0.560,
-        "vy":  24.180,
-        "svy":  1.700,
+        "vx":   "-31.670",
+        "svx":   "0.560",
+        "vy":   "24.180",
+        "svy":   "1.700",
     },
     "geometry": {
          "type": "Point",
@@ -3291,10 +3291,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ECCO",
-        "vx":  -28.540,
-        "svx":  0.200,
-        "vy":  27.930,
-        "svy":  0.190,
+        "vx":   "-28.540",
+        "svx":   "0.200",
+        "vy":   "27.930",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -3304,10 +3304,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ECFS",
-        "vx":  -25.890,
-        "svx":  0.090,
-        "vy":  25.720,
-        "svy":  0.090,
+        "vx":   "-25.890",
+        "svx":   "0.090",
+        "vy":   "25.720",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -3317,10 +3317,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ECHO",
-        "vx":  -4.140,
-        "svx":  0.080,
-        "vy":  -0.470,
-        "svy":  0.080,
+        "vx":   "-4.140",
+        "svx":   "0.080",
+        "vy":   "-0.470",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -3330,10 +3330,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ECSD",
-        "vx":  -1.660,
-        "svx":  0.160,
-        "vy":  0.000,
-        "svy":  0.120,
+        "vx":   "-1.660",
+        "svx":   "0.160",
+        "vy":   "0.000",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -3343,10 +3343,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "EDPP",
-        "vx":  -17.350,
-        "svx":  0.090,
-        "vy":  15.130,
-        "svy":  0.110,
+        "vx":   "-17.350",
+        "svx":   "0.090",
+        "vy":   "15.130",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -3356,10 +3356,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "EGAN",
-        "vx":  -5.110,
-        "svx":  0.090,
-        "vy":  -0.690,
-        "svy":  0.070,
+        "vx":   "-5.110",
+        "svx":   "0.090",
+        "vy":   "-0.690",
+        "svy":   "0.070",
     },
     "geometry": {
          "type": "Point",
@@ -3369,10 +3369,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ELKO",
-        "vx":  -4.880,
-        "svx":  0.090,
-        "vy":  -0.020,
-        "svy":  0.080,
+        "vx":   "-4.880",
+        "svx":   "0.090",
+        "vy":   "-0.020",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -3382,10 +3382,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ELSC",
-        "vx":  -27.470,
-        "svx":  0.960,
-        "vy":  23.130,
-        "svy":  0.960,
+        "vx":   "-27.470",
+        "svx":   "0.960",
+        "vy":   "23.130",
+        "svy":   "0.960",
     },
     "geometry": {
          "type": "Point",
@@ -3395,10 +3395,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "EMIG",
-        "vx":  1.750,
-        "svx":  1.160,
-        "vy":  -2.330,
-        "svy":  1.190,
+        "vx":   "1.750",
+        "svx":   "1.160",
+        "vy":   "-2.330",
+        "svy":   "1.190",
     },
     "geometry": {
          "type": "Point",
@@ -3408,10 +3408,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "EOUT",
-        "vx":  -1.830,
-        "svx":  0.100,
-        "vy":  -0.620,
-        "svy":  0.090,
+        "vx":   "-1.830",
+        "svx":   "0.100",
+        "vy":   "-0.620",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -3421,10 +3421,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ESE2",
-        "vx":  -25.440,
-        "svx":  1.140,
-        "vy":  25.620,
-        "svy":  1.640,
+        "vx":   "-25.440",
+        "svx":   "1.140",
+        "vy":   "25.620",
+        "svy":   "1.640",
     },
     "geometry": {
          "type": "Point",
@@ -3434,10 +3434,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ESRW",
-        "vx":  -26.480,
-        "svx":  0.550,
-        "vy":  25.410,
-        "svy":  0.510,
+        "vx":   "-26.480",
+        "svx":   "0.550",
+        "vy":   "25.410",
+        "svy":   "0.510",
     },
     "geometry": {
          "type": "Point",
@@ -3447,10 +3447,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "EWPP",
-        "vx":  -23.570,
-        "svx":  0.120,
-        "vy":  21.730,
-        "svy":  0.080,
+        "vx":   "-23.570",
+        "svx":   "0.120",
+        "vy":   "21.730",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -3460,10 +3460,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "EYAC",
-        "vx":  -13.640,
-        "svx":  0.300,
-        "vy":  27.520,
-        "svy":  0.500,
+        "vx":   "-13.640",
+        "svx":   "0.300",
+        "vy":   "27.520",
+        "svy":   "0.500",
     },
     "geometry": {
          "type": "Point",
@@ -3473,10 +3473,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "FAIR",
-        "vx":  1.850,
-        "svx":  0.300,
-        "vy":  -5.670,
-        "svy":  0.160,
+        "vx":   "1.850",
+        "svx":   "0.300",
+        "vy":   "-5.670",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -3486,10 +3486,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "FERN",
-        "vx":  -2.740,
-        "svx":  0.090,
-        "vy":  0.160,
-        "svy":  0.080,
+        "vx":   "-2.740",
+        "svx":   "0.090",
+        "vy":   "0.160",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -3499,10 +3499,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "FGST",
-        "vx":  -30.950,
-        "svx":  0.100,
-        "vy":  30.310,
-        "svy":  0.090,
+        "vx":   "-30.950",
+        "svx":   "0.100",
+        "vy":   "30.310",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -3512,10 +3512,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "FLIN",
-        "vx":  -1.010,
-        "svx":  0.110,
-        "vy":  -1.140,
-        "svy":  0.080,
+        "vx":   "-1.010",
+        "svx":   "0.110",
+        "vy":   "-1.140",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -3525,10 +3525,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "FMTP",
-        "vx":  -26.690,
-        "svx":  0.420,
-        "vy":  25.330,
-        "svy":  0.240,
+        "vx":   "-26.690",
+        "svx":   "0.420",
+        "vy":   "25.330",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -3538,10 +3538,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "FMVT",
-        "vx":  -28.630,
-        "svx":  0.090,
-        "vy":  27.440,
-        "svy":  0.090,
+        "vx":   "-28.630",
+        "svx":   "0.090",
+        "vy":   "27.440",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -3551,10 +3551,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "FOOT",
-        "vx":  -4.570,
-        "svx":  0.080,
-        "vy":  -0.690,
-        "svy":  0.070,
+        "vx":   "-4.570",
+        "svx":   "0.080",
+        "vy":   "-0.690",
+        "svy":   "0.070",
     },
     "geometry": {
          "type": "Point",
@@ -3564,10 +3564,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "FORE",
-        "vx":  -2.060,
-        "svx":  0.100,
-        "vy":  -0.120,
-        "svy":  0.100,
+        "vx":   "-2.060",
+        "svx":   "0.100",
+        "vy":   "-0.120",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -3577,10 +3577,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "FRED",
-        "vx":  -2.850,
-        "svx":  0.080,
-        "vy":  -0.240,
-        "svy":  0.080,
+        "vx":   "-2.850",
+        "svx":   "0.080",
+        "vy":   "-0.240",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -3590,10 +3590,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "FVPK",
-        "vx":  -26.540,
-        "svx":  0.370,
-        "vy":  36.040,
-        "svy":  1.350,
+        "vx":   "-26.540",
+        "svx":   "0.370",
+        "vy":   "36.040",
+        "svy":   "1.350",
     },
     "geometry": {
          "type": "Point",
@@ -3603,10 +3603,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "FXHS",
-        "vx":  -29.820,
-        "svx":  0.170,
-        "vy":  25.110,
-        "svy":  0.160,
+        "vx":   "-29.820",
+        "svx":   "0.170",
+        "vy":   "25.110",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -3616,10 +3616,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "FZHS",
-        "vx":  -20.580,
-        "svx":  0.220,
-        "vy":  18.900,
-        "svy":  0.230,
+        "vx":   "-20.580",
+        "svx":   "0.220",
+        "vy":   "18.900",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -3629,10 +3629,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GARL",
-        "vx":  -6.030,
-        "svx":  0.100,
-        "vy":  2.470,
-        "svy":  0.090,
+        "vx":   "-6.030",
+        "svx":   "0.100",
+        "vy":   "2.470",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -3642,10 +3642,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GDEC",
-        "vx":  -23.590,
-        "svx":  0.250,
-        "vy":  24.930,
-        "svy":  0.360,
+        "vx":   "-23.590",
+        "svx":   "0.250",
+        "vy":   "24.930",
+        "svy":   "0.360",
     },
     "geometry": {
          "type": "Point",
@@ -3655,10 +3655,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GHRP",
-        "vx":  -18.840,
-        "svx":  0.490,
-        "vy":  13.300,
-        "svy":  0.580,
+        "vx":   "-18.840",
+        "svx":   "0.490",
+        "vy":   "13.300",
+        "svy":   "0.580",
     },
     "geometry": {
          "type": "Point",
@@ -3668,10 +3668,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GLRS",
-        "vx":  -6.720,
-        "svx":  0.090,
-        "vy":  1.130,
-        "svy":  0.140,
+        "vx":   "-6.720",
+        "svx":   "0.090",
+        "vy":   "1.130",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -3681,10 +3681,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GMPK",
-        "vx":  -3.300,
-        "svx":  0.090,
-        "vy":  1.600,
-        "svy":  0.110,
+        "vx":   "-3.300",
+        "svx":   "0.090",
+        "vy":   "1.600",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -3694,10 +3694,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GMRC",
-        "vx":  -3.920,
-        "svx":  0.090,
-        "vy":  0.180,
-        "svy":  0.080,
+        "vx":   "-3.920",
+        "svx":   "0.090",
+        "vy":   "0.180",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -3707,10 +3707,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GNPS",
-        "vx":  -3.040,
-        "svx":  0.090,
-        "vy":  1.710,
-        "svy":  0.100,
+        "vx":   "-3.040",
+        "svx":   "0.090",
+        "vy":   "1.710",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -3720,10 +3720,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GOBS",
-        "vx":  -0.270,
-        "svx":  0.120,
-        "vy":  2.340,
-        "svy":  0.140,
+        "vx":   "-0.270",
+        "svx":   "0.120",
+        "vy":   "2.340",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -3733,10 +3733,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GODE",
-        "vx":  0.430,
-        "svx":  0.140,
-        "vy":  -0.390,
-        "svy":  0.110,
+        "vx":   "0.430",
+        "svx":   "0.140",
+        "vy":   "-0.390",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -3746,10 +3746,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GOGA",
-        "vx":  -1.360,
-        "svx":  0.280,
-        "vy":  -0.100,
-        "svy":  0.210,
+        "vx":   "-1.360",
+        "svx":   "0.280",
+        "vy":   "-0.100",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -3759,10 +3759,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GOL2",
-        "vx":  -6.040,
-        "svx":  0.070,
-        "vy":  5.840,
-        "svy":  0.090,
+        "vx":   "-6.040",
+        "svx":   "0.070",
+        "vy":   "5.840",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -3772,10 +3772,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GOLD",
-        "vx":  -6.040,
-        "svx":  0.070,
-        "vy":  5.840,
-        "svy":  0.090,
+        "vx":   "-6.040",
+        "svx":   "0.070",
+        "vy":   "5.840",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -3785,10 +3785,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GOSH",
-        "vx":  -4.160,
-        "svx":  0.090,
-        "vy":  -0.540,
-        "svy":  0.080,
+        "vx":   "-4.160",
+        "svx":   "0.090",
+        "vy":   "-0.540",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -3798,10 +3798,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GR8R",
-        "vx":  -10.460,
-        "svx":  0.180,
-        "vy":  10.450,
-        "svy":  0.200,
+        "vx":   "-10.460",
+        "svx":   "0.180",
+        "vy":   "10.450",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -3811,10 +3811,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GR8V",
-        "vx":  -8.780,
-        "svx":  0.840,
-        "vy":  9.600,
-        "svy":  0.340,
+        "vx":   "-8.780",
+        "svx":   "0.840",
+        "vy":   "9.600",
+        "svy":   "0.340",
     },
     "geometry": {
          "type": "Point",
@@ -3824,10 +3824,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GRNR",
-        "vx":  -2.690,
-        "svx":  0.270,
-        "vy":  -2.310,
-        "svy":  0.160,
+        "vx":   "-2.690",
+        "svx":   "0.270",
+        "vy":   "-2.310",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -3837,10 +3837,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GRNX",
-        "vx":  -3.020,
-        "svx":  0.230,
-        "vy":  -2.420,
-        "svy":  0.160,
+        "vx":   "-3.020",
+        "svx":   "0.230",
+        "vy":   "-2.420",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -3850,10 +3850,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GRRG",
-        "vx":  4.470,
-        "svx":  1.200,
-        "vy":  -0.830,
-        "svy":  1.230,
+        "vx":   "4.470",
+        "svx":   "1.200",
+        "vy":   "-0.830",
+        "svy":   "1.230",
     },
     "geometry": {
          "type": "Point",
@@ -3863,10 +3863,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GTRG",
-        "vx":  -2.500,
-        "svx":  0.130,
-        "vy":  -0.400,
-        "svy":  0.130,
+        "vx":   "-2.500",
+        "svx":   "0.130",
+        "vy":   "-0.400",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -3876,10 +3876,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GUS2",
-        "vx":  -1.300,
-        "svx":  0.280,
-        "vy":  1.470,
-        "svy":  0.210,
+        "vx":   "-1.300",
+        "svx":   "0.280",
+        "vy":   "1.470",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -3889,10 +3889,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "GVRS",
-        "vx":  -27.160,
-        "svx":  0.260,
-        "vy":  24.090,
-        "svy":  0.390,
+        "vx":   "-27.160",
+        "svx":   "0.260",
+        "vy":   "24.090",
+        "svy":   "0.390",
     },
     "geometry": {
          "type": "Point",
@@ -3902,10 +3902,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HBCO",
-        "vx":  -29.210,
-        "svx":  0.230,
-        "vy":  29.860,
-        "svy":  0.220,
+        "vx":   "-29.210",
+        "svx":   "0.230",
+        "vy":   "29.860",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -3915,10 +3915,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HCES",
-        "vx":  -1.660,
-        "svx":  0.780,
-        "vy":  -0.060,
-        "svy":  0.220,
+        "vx":   "-1.660",
+        "svx":   "0.780",
+        "vy":   "-0.060",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -3928,10 +3928,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HCMN",
-        "vx":  -8.300,
-        "svx":  0.110,
-        "vy":  3.480,
-        "svy":  0.090,
+        "vx":   "-8.300",
+        "svx":   "0.110",
+        "vy":   "3.480",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -3941,10 +3941,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HCRO",
-        "vx":  -7.420,
-        "svx":  0.150,
-        "vy":  4.710,
-        "svy":  0.100,
+        "vx":   "-7.420",
+        "svx":   "0.150",
+        "vy":   "4.710",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -3954,10 +3954,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HDIL",
-        "vx":  -1.480,
-        "svx":  0.200,
-        "vy":  0.250,
-        "svy":  0.140,
+        "vx":   "-1.480",
+        "svx":   "0.200",
+        "vy":   "0.250",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -3967,10 +3967,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HEBE",
-        "vx":  -1.930,
-        "svx":  0.190,
-        "vy":  -0.570,
-        "svy":  0.190,
+        "vx":   "-1.930",
+        "svx":   "0.190",
+        "vy":   "-0.570",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -3980,10 +3980,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HIVI",
-        "vx":  -12.820,
-        "svx":  0.480,
-        "vy":  14.180,
-        "svy":  0.150,
+        "vx":   "-12.820",
+        "svx":   "0.480",
+        "vy":   "14.180",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -3993,10 +3993,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HLID",
-        "vx":  -2.660,
-        "svx":  0.090,
-        "vy":  -0.880,
-        "svy":  0.100,
+        "vx":   "-2.660",
+        "svx":   "0.090",
+        "vy":   "-0.880",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -4006,10 +4006,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HNPS",
-        "vx":  -6.000,
-        "svx":  0.090,
-        "vy":  1.910,
-        "svy":  0.090,
+        "vx":   "-6.000",
+        "svx":   "0.090",
+        "vy":   "1.910",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -4019,10 +4019,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HOGS",
-        "vx":  -23.040,
-        "svx":  0.100,
-        "vy":  28.050,
-        "svy":  0.140,
+        "vx":   "-23.040",
+        "svx":   "0.100",
+        "vy":   "28.050",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -4032,10 +4032,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HOL3",
-        "vx":  -18.300,
-        "svx":  0.170,
-        "vy":  18.470,
-        "svy":  0.250,
+        "vx":   "-18.300",
+        "svx":   "0.170",
+        "vy":   "18.470",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -4045,10 +4045,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HOLM",
-        "vx":  -0.080,
-        "svx":  0.190,
-        "vy":  -0.420,
-        "svy":  0.190,
+        "vx":   "-0.080",
+        "svx":   "0.190",
+        "vy":   "-0.420",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -4058,10 +4058,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HOLP",
-        "vx":  -27.240,
-        "svx":  0.290,
-        "vy":  26.110,
-        "svy":  0.480,
+        "vx":   "-27.240",
+        "svx":   "0.290",
+        "vy":   "26.110",
+        "svy":   "0.480",
     },
     "geometry": {
          "type": "Point",
@@ -4071,10 +4071,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HPIG",
-        "vx":  -0.330,
-        "svx":  1.220,
-        "vy":  -4.620,
-        "svy":  1.260,
+        "vx":   "-0.330",
+        "svx":   "1.220",
+        "vy":   "-4.620",
+        "svy":   "1.260",
     },
     "geometry": {
          "type": "Point",
@@ -4084,10 +4084,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HUNT",
-        "vx":  -16.610,
-        "svx":  0.100,
-        "vy":  19.780,
-        "svy":  0.090,
+        "vx":   "-16.610",
+        "svx":   "0.100",
+        "vy":   "19.780",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -4097,10 +4097,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HVWY",
-        "vx":  -8.580,
-        "svx":  0.940,
-        "vy":  3.060,
-        "svy":  0.770,
+        "vx":   "-8.580",
+        "svx":   "0.940",
+        "vy":   "3.060",
+        "svy":   "0.770",
     },
     "geometry": {
          "type": "Point",
@@ -4110,10 +4110,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HVYS",
-        "vx":  -28.720,
-        "svx":  0.100,
-        "vy":  23.700,
-        "svy":  0.090,
+        "vx":   "-28.720",
+        "svx":   "0.100",
+        "vy":   "23.700",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -4123,10 +4123,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HWFG",
-        "vx":  -0.410,
-        "svx":  1.140,
-        "vy":  -3.300,
-        "svy":  1.160,
+        "vx":   "-0.410",
+        "svx":   "1.140",
+        "vy":   "-3.300",
+        "svy":   "1.160",
     },
     "geometry": {
          "type": "Point",
@@ -4136,10 +4136,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "HWUT",
-        "vx":  -1.880,
-        "svx":  0.120,
-        "vy":  -0.420,
-        "svy":  0.090,
+        "vx":   "-1.880",
+        "svx":   "0.120",
+        "vy":   "-0.420",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -4149,10 +4149,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "I40A",
-        "vx":  -3.950,
-        "svx":  0.100,
-        "vy":  0.530,
-        "svy":  0.100,
+        "vx":   "-3.950",
+        "svx":   "0.100",
+        "vy":   "0.530",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -4162,10 +4162,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ICIG",
-        "vx":  0.810,
-        "svx":  1.200,
-        "vy":  -4.860,
-        "svy":  1.230,
+        "vx":   "0.810",
+        "svx":   "1.200",
+        "vy":   "-4.860",
+        "svy":   "1.230",
     },
     "geometry": {
          "type": "Point",
@@ -4175,10 +4175,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "IID2",
-        "vx":  -3.810,
-        "svx":  0.170,
-        "vy":  1.700,
-        "svy":  0.130,
+        "vx":   "-3.810",
+        "svx":   "0.170",
+        "vy":   "1.700",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -4188,10 +4188,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "IMPS",
-        "vx":  -3.870,
-        "svx":  0.090,
-        "vy":  0.570,
-        "svy":  0.090,
+        "vx":   "-3.870",
+        "svx":   "0.090",
+        "vy":   "0.570",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -4201,10 +4201,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "INVK",
-        "vx":  -0.300,
-        "svx":  0.200,
-        "vy":  -0.580,
-        "svy":  0.230,
+        "vx":   "-0.300",
+        "svx":   "0.200",
+        "vy":   "-0.580",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -4214,10 +4214,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ISLK",
-        "vx":  -11.550,
-        "svx":  0.110,
-        "vy":  9.550,
-        "svy":  0.090,
+        "vx":   "-11.550",
+        "svx":   "0.110",
+        "vy":   "9.550",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -4227,10 +4227,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "IVCO",
-        "vx":  -15.340,
-        "svx":  0.250,
-        "vy":  19.780,
-        "svy":  0.230,
+        "vx":   "-15.340",
+        "svx":   "0.250",
+        "vy":   "19.780",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -4240,10 +4240,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "JCT1",
-        "vx":  -1.400,
-        "svx":  0.120,
-        "vy":  -0.010,
-        "svy":  0.130,
+        "vx":   "-1.400",
+        "svx":   "0.120",
+        "vy":   "-0.010",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -4253,10 +4253,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "JFWS",
-        "vx":  -2.240,
-        "svx":  0.150,
-        "vy":  -0.920,
-        "svy":  0.230,
+        "vx":   "-2.240",
+        "svx":   "0.150",
+        "vy":   "-0.920",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -4266,10 +4266,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "JNPR",
-        "vx":  -10.290,
-        "svx":  0.380,
-        "vy":  8.280,
-        "svy":  0.380,
+        "vx":   "-10.290",
+        "svx":   "0.380",
+        "vy":   "8.280",
+        "svy":   "0.380",
     },
     "geometry": {
          "type": "Point",
@@ -4279,10 +4279,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "JNPX",
-        "vx":  -10.290,
-        "svx":  0.380,
-        "vy":  8.280,
-        "svy":  0.380,
+        "vx":   "-10.290",
+        "svx":   "0.380",
+        "vy":   "8.280",
+        "svy":   "0.380",
     },
     "geometry": {
          "type": "Point",
@@ -4292,10 +4292,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "JPLM",
-        "vx":  -26.100,
-        "svx":  0.260,
-        "vy":  23.660,
-        "svy":  0.170,
+        "vx":   "-26.100",
+        "svx":   "0.260",
+        "vy":   "23.660",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -4305,10 +4305,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "KAGA",
-        "vx":  -3.460,
-        "svx":  0.400,
-        "vy":  1.130,
-        "svy":  0.330,
+        "vx":   "-3.460",
+        "svx":   "0.400",
+        "vy":   "1.130",
+        "svy":   "0.330",
     },
     "geometry": {
          "type": "Point",
@@ -4318,10 +4318,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "KBRC",
-        "vx":  -27.430,
-        "svx":  0.140,
-        "vy":  24.150,
-        "svy":  0.350,
+        "vx":   "-27.430",
+        "svx":   "0.140",
+        "vy":   "24.150",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -4331,10 +4331,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "KELS",
-        "vx":  2.930,
-        "svx":  0.380,
-        "vy":  5.400,
-        "svy":  0.200,
+        "vx":   "2.930",
+        "svx":   "0.380",
+        "vy":   "5.400",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -4344,10 +4344,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "KELY",
-        "vx":  -0.310,
-        "svx":  0.130,
-        "vy":  0.270,
-        "svy":  0.150,
+        "vx":   "-0.310",
+        "svx":   "0.130",
+        "vy":   "0.270",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -4357,10 +4357,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "KOD1",
-        "vx":  -11.350,
-        "svx":  0.310,
-        "vy":  18.170,
-        "svy":  0.190,
+        "vx":   "-11.350",
+        "svx":   "0.310",
+        "vy":   "18.170",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -4370,10 +4370,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "KOD5",
-        "vx":  -11.350,
-        "svx":  0.310,
-        "vy":  18.170,
-        "svy":  0.190,
+        "vx":   "-11.350",
+        "svx":   "0.310",
+        "vy":   "18.170",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -4383,10 +4383,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "KOKB",
-        "vx":  -59.020,
-        "svx":  0.380,
-        "vy":  50.920,
-        "svy":  0.180,
+        "vx":   "-59.020",
+        "svx":   "0.380",
+        "vy":   "50.920",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -4396,10 +4396,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "KSU1",
-        "vx":  -1.230,
-        "svx":  0.200,
-        "vy":  0.450,
-        "svy":  0.190,
+        "vx":   "-1.230",
+        "svx":   "0.200",
+        "vy":   "0.450",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -4409,10 +4409,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "KTBW",
-        "vx":  4.020,
-        "svx":  0.120,
-        "vy":  3.640,
-        "svy":  0.090,
+        "vx":   "4.020",
+        "svx":   "0.120",
+        "vy":   "3.640",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -4422,10 +4422,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "KVTX",
-        "vx":  -1.790,
-        "svx":  0.300,
-        "vy":  -0.630,
-        "svy":  0.310,
+        "vx":   "-1.790",
+        "svx":   "0.300",
+        "vy":   "-0.630",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -4435,10 +4435,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "KYVW",
-        "vx":  -9.110,
-        "svx":  0.470,
-        "vy":  7.840,
-        "svy":  0.550,
+        "vx":   "-9.110",
+        "svx":   "0.470",
+        "vy":   "7.840",
+        "svy":   "0.550",
     },
     "geometry": {
          "type": "Point",
@@ -4448,10 +4448,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LACR",
-        "vx":  -4.770,
-        "svx":  0.130,
-        "vy":  -0.240,
-        "svy":  0.120,
+        "vx":   "-4.770",
+        "svx":   "0.130",
+        "vy":   "-0.240",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -4461,10 +4461,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LAND",
-        "vx":  -22.280,
-        "svx":  0.090,
-        "vy":  27.440,
-        "svy":  0.100,
+        "vx":   "-22.280",
+        "svx":   "0.090",
+        "vy":   "27.440",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -4474,10 +4474,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LAPC",
-        "vx":  -28.000,
-        "svx":  0.090,
-        "vy":  27.250,
-        "svy":  0.080,
+        "vx":   "-28.000",
+        "svx":   "0.090",
+        "vy":   "27.250",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -4487,10 +4487,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LASC",
-        "vx":  -27.000,
-        "svx":  0.180,
-        "vy":  27.200,
-        "svy":  0.090,
+        "vx":   "-27.000",
+        "svx":   "0.180",
+        "vy":   "27.200",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -4500,10 +4500,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LBC1",
-        "vx":  -27.340,
-        "svx":  0.420,
-        "vy":  27.080,
-        "svy":  0.490,
+        "vx":   "-27.340",
+        "svx":   "0.420",
+        "vy":   "27.080",
+        "svy":   "0.490",
     },
     "geometry": {
          "type": "Point",
@@ -4513,10 +4513,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LBC2",
-        "vx":  -26.880,
-        "svx":  0.290,
-        "vy":  28.540,
-        "svy":  0.360,
+        "vx":   "-26.880",
+        "svx":   "0.290",
+        "vy":   "28.540",
+        "svy":   "0.360",
     },
     "geometry": {
          "type": "Point",
@@ -4526,10 +4526,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LBCH",
-        "vx":  -26.960,
-        "svx":  0.420,
-        "vy":  29.220,
-        "svy":  0.560,
+        "vx":   "-26.960",
+        "svx":   "0.420",
+        "vy":   "29.220",
+        "svy":   "0.560",
     },
     "geometry": {
          "type": "Point",
@@ -4539,10 +4539,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LDES",
-        "vx":  -6.650,
-        "svx":  0.090,
-        "vy":  10.220,
-        "svy":  0.090,
+        "vx":   "-6.650",
+        "svx":   "0.090",
+        "vy":   "10.220",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -4552,10 +4552,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LDSW",
-        "vx":  -5.470,
-        "svx":  0.320,
-        "vy":  0.710,
-        "svy":  0.600,
+        "vx":   "-5.470",
+        "svx":   "0.320",
+        "vy":   "0.710",
+        "svy":   "0.600",
     },
     "geometry": {
          "type": "Point",
@@ -4565,10 +4565,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LEEP",
-        "vx":  -27.590,
-        "svx":  0.200,
-        "vy":  24.840,
-        "svy":  0.180,
+        "vx":   "-27.590",
+        "svx":   "0.200",
+        "vy":   "24.840",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -4578,10 +4578,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LEV1",
-        "vx":  -3.240,
-        "svx":  0.380,
-        "vy":  0.380,
-        "svy":  0.390,
+        "vx":   "-3.240",
+        "svx":   "0.380",
+        "vy":   "0.380",
+        "svy":   "0.390",
     },
     "geometry": {
          "type": "Point",
@@ -4591,10 +4591,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LEWI",
-        "vx":  -3.430,
-        "svx":  0.090,
-        "vy":  -1.050,
-        "svy":  0.080,
+        "vx":   "-3.430",
+        "svx":   "0.090",
+        "vy":   "-1.050",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -4604,10 +4604,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LFRS",
-        "vx":  -28.060,
-        "svx":  0.090,
-        "vy":  24.910,
-        "svy":  0.080,
+        "vx":   "-28.060",
+        "svx":   "0.090",
+        "vy":   "24.910",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -4617,10 +4617,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LGWD",
-        "vx":  -38.900,
-        "svx":  5.380,
-        "vy":  38.000,
-        "svy":  5.450,
+        "vx":   "-38.900",
+        "svx":   "5.380",
+        "vy":   "38.000",
+        "svy":   "5.450",
     },
     "geometry": {
          "type": "Point",
@@ -4630,10 +4630,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LINJ",
-        "vx":  -15.760,
-        "svx":  0.170,
-        "vy":  17.450,
-        "svy":  0.380,
+        "vx":   "-15.760",
+        "svx":   "0.170",
+        "vy":   "17.450",
+        "svy":   "0.380",
     },
     "geometry": {
          "type": "Point",
@@ -4643,10 +4643,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LJRN",
-        "vx":  -20.750,
-        "svx":  0.640,
-        "vy":  17.880,
-        "svy":  0.450,
+        "vx":   "-20.750",
+        "svx":   "0.640",
+        "vy":   "17.880",
+        "svy":   "0.450",
     },
     "geometry": {
          "type": "Point",
@@ -4656,10 +4656,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LKCP",
-        "vx":  2.030,
-        "svx":  0.110,
-        "vy":  2.180,
-        "svy":  0.090,
+        "vx":   "2.030",
+        "svx":   "0.110",
+        "vy":   "2.180",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -4669,10 +4669,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LKWY",
-        "vx":  -0.880,
-        "svx":  0.880,
-        "vy":  -5.380,
-        "svy":  0.720,
+        "vx":   "-0.880",
+        "svx":   "0.880",
+        "vy":   "-5.380",
+        "svy":   "0.720",
     },
     "geometry": {
          "type": "Point",
@@ -4682,10 +4682,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LL01",
-        "vx":  -17.470,
-        "svx":  0.160,
-        "vy":  17.630,
-        "svy":  0.160,
+        "vx":   "-17.470",
+        "svx":   "0.160",
+        "vy":   "17.630",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -4695,10 +4695,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LLAS",
-        "vx":  -14.840,
-        "svx":  0.380,
-        "vy":  16.190,
-        "svy":  0.380,
+        "vx":   "-14.840",
+        "svx":   "0.380",
+        "vy":   "16.190",
+        "svy":   "0.380",
     },
     "geometry": {
          "type": "Point",
@@ -4708,10 +4708,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LMNL",
-        "vx":  18.190,
-        "svx":  0.370,
-        "vy":  18.700,
-        "svy":  0.670,
+        "vx":   "18.190",
+        "svx":   "0.370",
+        "vy":   "18.700",
+        "svy":   "0.670",
     },
     "geometry": {
          "type": "Point",
@@ -4721,10 +4721,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LMUT",
-        "vx":  -2.100,
-        "svx":  0.540,
-        "vy":  -0.600,
-        "svy":  0.350,
+        "vx":   "-2.100",
+        "svx":   "0.540",
+        "vy":   "-0.600",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -4734,10 +4734,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LNMT",
-        "vx":  -7.980,
-        "svx":  0.160,
-        "vy":  7.210,
-        "svy":  0.210,
+        "vx":   "-7.980",
+        "svx":   "0.160",
+        "vy":   "7.210",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -4747,10 +4747,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LONG",
-        "vx":  -26.800,
-        "svx":  0.320,
-        "vy":  20.650,
-        "svy":  0.490,
+        "vx":   "-26.800",
+        "svx":   "0.320",
+        "vy":   "20.650",
+        "svy":   "0.490",
     },
     "geometry": {
          "type": "Point",
@@ -4760,10 +4760,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LORS",
-        "vx":  -24.720,
-        "svx":  0.110,
-        "vy":  21.580,
-        "svy":  0.080,
+        "vx":   "-24.720",
+        "svx":   "0.110",
+        "vy":   "21.580",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -4773,10 +4773,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LOWS",
-        "vx":  -25.480,
-        "svx":  0.120,
-        "vy":  31.300,
-        "svy":  0.130,
+        "vx":   "-25.480",
+        "svx":   "0.120",
+        "vy":   "31.300",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -4786,10 +4786,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LOZ1",
-        "vx":  0.460,
-        "svx":  0.240,
-        "vy":  -1.340,
-        "svy":  0.180,
+        "vx":   "0.460",
+        "svx":   "0.240",
+        "vy":   "-1.340",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -4799,10 +4799,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LST1",
-        "vx":  83.730,
-        "svx":  6.750,
-        "vy":  36.650,
-        "svy":  11.090,
+        "vx":   "83.730",
+        "svx":   "6.750",
+        "vy":   "36.650",
+        "svy":   "11.090",
     },
     "geometry": {
          "type": "Point",
@@ -4812,10 +4812,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LTUT",
-        "vx":  -2.230,
-        "svx":  0.150,
-        "vy":  -2.450,
-        "svy":  1.370,
+        "vx":   "-2.230",
+        "svx":   "0.150",
+        "vy":   "-2.450",
+        "svy":   "1.370",
     },
     "geometry": {
          "type": "Point",
@@ -4825,10 +4825,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "LVMS",
-        "vx":  -24.170,
-        "svx":  0.210,
-        "vy":  20.900,
-        "svy":  0.230,
+        "vx":   "-24.170",
+        "svx":   "0.210",
+        "vy":   "20.900",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -4838,10 +4838,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MASW",
-        "vx":  -23.150,
-        "svx":  0.080,
-        "vy":  27.320,
-        "svy":  0.100,
+        "vx":   "-23.150",
+        "svx":   "0.080",
+        "vy":   "27.320",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -4851,10 +4851,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MAT2",
-        "vx":  -24.260,
-        "svx":  0.090,
-        "vy":  24.060,
-        "svy":  0.090,
+        "vx":   "-24.260",
+        "svx":   "0.090",
+        "vy":   "24.060",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -4864,10 +4864,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MAUI",
-        "vx":  -57.730,
-        "svx":  0.510,
-        "vy":  51.380,
-        "svy":  0.270,
+        "vx":   "-57.730",
+        "svx":   "0.510",
+        "vy":   "51.380",
+        "svy":   "0.270",
     },
     "geometry": {
          "type": "Point",
@@ -4877,10 +4877,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MAWY",
-        "vx":  -0.430,
-        "svx":  0.090,
-        "vy":  -0.620,
-        "svy":  0.080,
+        "vx":   "-0.430",
+        "svx":   "0.090",
+        "vy":   "-0.620",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -4890,10 +4890,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MDMT",
-        "vx":  -3.600,
-        "svx":  0.100,
-        "vy":  3.820,
-        "svy":  0.080,
+        "vx":   "-3.600",
+        "svx":   "0.100",
+        "vy":   "3.820",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -4903,10 +4903,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MDO1",
-        "vx":  -0.800,
-        "svx":  0.130,
-        "vy":  -0.690,
-        "svy":  0.190,
+        "vx":   "-0.800",
+        "svx":   "0.130",
+        "vy":   "-0.690",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -4916,10 +4916,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MEE1",
-        "vx":  -10.020,
-        "svx":  0.210,
-        "vy":  12.460,
-        "svy":  0.490,
+        "vx":   "-10.020",
+        "svx":   "0.210",
+        "vy":   "12.460",
+        "svy":   "0.490",
     },
     "geometry": {
          "type": "Point",
@@ -4929,10 +4929,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MEE2",
-        "vx":  -29.020,
-        "svx":  0.130,
-        "vy":  31.780,
-        "svy":  0.150,
+        "vx":   "-29.020",
+        "svx":   "0.130",
+        "vy":   "31.780",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -4942,10 +4942,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MFP0",
-        "vx":  -0.850,
-        "svx":  0.280,
-        "vy":  -0.790,
-        "svy":  0.320,
+        "vx":   "-0.850",
+        "svx":   "0.280",
+        "vy":   "-0.790",
+        "svy":   "0.320",
     },
     "geometry": {
          "type": "Point",
@@ -4955,10 +4955,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MFTC",
-        "vx":  -1.020,
-        "svx":  0.260,
-        "vy":  -0.870,
-        "svy":  0.270,
+        "vx":   "-1.020",
+        "svx":   "0.260",
+        "vy":   "-0.870",
+        "svy":   "0.270",
     },
     "geometry": {
          "type": "Point",
@@ -4968,10 +4968,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MFTN",
-        "vx":  -1.150,
-        "svx":  0.460,
-        "vy":  -0.440,
-        "svy":  0.400,
+        "vx":   "-1.150",
+        "svx":   "0.460",
+        "vy":   "-0.440",
+        "svy":   "0.400",
     },
     "geometry": {
          "type": "Point",
@@ -4981,10 +4981,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MFTS",
-        "vx":  -0.640,
-        "svx":  0.230,
-        "vy":  -0.660,
-        "svy":  0.240,
+        "vx":   "-0.640",
+        "svx":   "0.230",
+        "vy":   "-0.660",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -4994,10 +4994,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MFTW",
-        "vx":  -0.560,
-        "svx":  0.370,
-        "vy":  -0.540,
-        "svy":  0.470,
+        "vx":   "-0.560",
+        "svx":   "0.370",
+        "vy":   "-0.540",
+        "svy":   "0.470",
     },
     "geometry": {
          "type": "Point",
@@ -5007,10 +5007,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MHMS",
-        "vx":  -28.610,
-        "svx":  1.070,
-        "vy":  27.090,
-        "svy":  0.300,
+        "vx":   "-28.610",
+        "svx":   "1.070",
+        "vy":   "27.090",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -5020,10 +5020,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MIDA",
-        "vx":  -15.830,
-        "svx":  0.190,
-        "vy":  19.930,
-        "svy":  0.210,
+        "vx":   "-15.830",
+        "svx":   "0.190",
+        "vy":   "19.930",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -5033,10 +5033,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MIG1",
-        "vx":  -31.760,
-        "svx":  0.090,
-        "vy":  35.340,
-        "svy":  0.090,
+        "vx":   "-31.760",
+        "svx":   "0.090",
+        "vy":   "35.340",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5046,10 +5046,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MINE",
-        "vx":  -3.810,
-        "svx":  0.130,
-        "vy":  -0.340,
-        "svy":  0.100,
+        "vx":   "-3.810",
+        "svx":   "0.130",
+        "vy":   "-0.340",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -5059,10 +5059,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MJPK",
-        "vx":  -28.370,
-        "svx":  0.840,
-        "vy":  27.890,
-        "svy":  0.620,
+        "vx":   "-28.370",
+        "svx":   "0.840",
+        "vy":   "27.890",
+        "svy":   "0.620",
     },
     "geometry": {
          "type": "Point",
@@ -5072,10 +5072,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MKEA",
-        "vx":  -55.600,
-        "svx":  0.400,
-        "vy":  51.780,
-        "svy":  0.170,
+        "vx":   "-55.600",
+        "svx":   "0.400",
+        "vy":   "51.780",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -5085,10 +5085,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MLFP",
-        "vx":  -23.210,
-        "svx":  0.100,
-        "vy":  23.180,
-        "svy":  0.090,
+        "vx":   "-23.210",
+        "svx":   "0.100",
+        "vy":   "23.180",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5098,10 +5098,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MNMC",
-        "vx":  -12.950,
-        "svx":  0.270,
-        "vy":  16.710,
-        "svy":  0.170,
+        "vx":   "-12.950",
+        "svx":   "0.270",
+        "vy":   "16.710",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -5111,10 +5111,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MOIL",
-        "vx":  -4.830,
-        "svx":  0.160,
-        "vy":  -0.460,
-        "svy":  0.130,
+        "vx":   "-4.830",
+        "svx":   "0.160",
+        "vy":   "-0.460",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -5124,10 +5124,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MONP",
-        "vx":  -28.850,
-        "svx":  0.420,
-        "vy":  26.540,
-        "svy":  0.240,
+        "vx":   "-28.850",
+        "svx":   "0.420",
+        "vy":   "26.540",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -5137,10 +5137,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MPUT",
-        "vx":  -2.070,
-        "svx":  0.120,
-        "vy":  0.040,
-        "svy":  0.100,
+        "vx":   "-2.070",
+        "svx":   "0.120",
+        "vy":   "0.040",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -5150,10 +5150,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MPWD",
-        "vx":  -29.000,
-        "svx":  0.090,
-        "vy":  28.410,
-        "svy":  0.110,
+        "vx":   "-29.000",
+        "svx":   "0.090",
+        "vy":   "28.410",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -5163,10 +5163,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MRDM",
-        "vx":  -24.810,
-        "svx":  0.490,
-        "vy":  22.170,
-        "svy":  1.010,
+        "vx":   "-24.810",
+        "svx":   "0.490",
+        "vy":   "22.170",
+        "svy":   "1.010",
     },
     "geometry": {
          "type": "Point",
@@ -5176,10 +5176,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MSOB",
-        "vx":  -16.780,
-        "svx":  0.540,
-        "vy":  15.530,
-        "svy":  0.510,
+        "vx":   "-16.780",
+        "svx":   "0.540",
+        "vy":   "15.530",
+        "svy":   "0.510",
     },
     "geometry": {
          "type": "Point",
@@ -5189,10 +5189,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MUSB",
-        "vx":  -10.980,
-        "svx":  0.100,
-        "vy":  7.850,
-        "svy":  0.090,
+        "vx":   "-10.980",
+        "svx":   "0.100",
+        "vy":   "7.850",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5202,10 +5202,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "MVFD",
-        "vx":  -26.020,
-        "svx":  0.530,
-        "vy":  25.160,
-        "svy":  0.890,
+        "vx":   "-26.020",
+        "svx":   "0.530",
+        "vy":   "25.160",
+        "svy":   "0.890",
     },
     "geometry": {
          "type": "Point",
@@ -5215,10 +5215,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NBPS",
-        "vx":  -3.570,
-        "svx":  0.110,
-        "vy":  2.360,
-        "svy":  0.110,
+        "vx":   "-3.570",
+        "svx":   "0.110",
+        "vy":   "2.360",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -5228,10 +5228,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NDAP",
-        "vx":  -3.870,
-        "svx":  0.140,
-        "vy":  -1.500,
-        "svy":  0.310,
+        "vx":   "-3.870",
+        "svx":   "0.140",
+        "vy":   "-1.500",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -5241,10 +5241,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NEAH",
-        "vx":  9.740,
-        "svx":  0.120,
-        "vy":  7.450,
-        "svy":  0.110,
+        "vx":   "9.740",
+        "svx":   "0.120",
+        "vy":   "7.450",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -5254,10 +5254,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NEWP",
-        "vx":  6.020,
-        "svx":  0.330,
-        "vy":  9.220,
-        "svy":  0.210,
+        "vx":   "6.020",
+        "svx":   "0.330",
+        "vy":   "9.220",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -5267,10 +5267,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NEWS",
-        "vx":  -4.990,
-        "svx":  0.090,
-        "vy":  0.140,
-        "svy":  0.090,
+        "vx":   "-4.990",
+        "svx":   "0.090",
+        "vy":   "0.140",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5280,10 +5280,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NHRG",
-        "vx":  -27.810,
-        "svx":  0.090,
-        "vy":  22.360,
-        "svy":  0.100,
+        "vx":   "-27.810",
+        "svx":   "0.090",
+        "vy":   "22.360",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -5293,10 +5293,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NLIB",
-        "vx":  0.000,
-        "svx":  0.140,
-        "vy":  0.150,
-        "svy":  0.120,
+        "vx":   "0.000",
+        "svx":   "0.140",
+        "vy":   "0.150",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -5306,10 +5306,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NOCO",
-        "vx":  -23.580,
-        "svx":  0.340,
-        "vy":  24.610,
-        "svy":  0.340,
+        "vx":   "-23.580",
+        "svx":   "0.340",
+        "vy":   "24.610",
+        "svy":   "0.340",
     },
     "geometry": {
          "type": "Point",
@@ -5319,10 +5319,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NOMT",
-        "vx":  -0.160,
-        "svx":  0.210,
-        "vy":  -0.650,
-        "svy":  0.090,
+        "vx":   "-0.160",
+        "svx":   "0.210",
+        "vy":   "-0.650",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5332,10 +5332,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NOPK",
-        "vx":  -29.820,
-        "svx":  0.220,
-        "vy":  28.320,
-        "svy":  0.190,
+        "vx":   "-29.820",
+        "svx":   "0.220",
+        "vy":   "28.320",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -5345,10 +5345,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NRC1",
-        "vx":  0.600,
-        "svx":  0.150,
-        "vy":  -0.490,
-        "svy":  0.120,
+        "vx":   "0.600",
+        "svx":   "0.150",
+        "vy":   "-0.490",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -5358,10 +5358,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NRWY",
-        "vx":  -3.330,
-        "svx":  0.410,
-        "vy":  -1.940,
-        "svy":  0.350,
+        "vx":   "-3.330",
+        "svx":   "0.410",
+        "vy":   "-1.940",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -5371,10 +5371,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "NSSS",
-        "vx":  -29.930,
-        "svx":  0.580,
-        "vy":  29.770,
-        "svy":  0.870,
+        "vx":   "-29.930",
+        "svx":   "0.580",
+        "vy":   "29.770",
+        "svy":   "0.870",
     },
     "geometry": {
          "type": "Point",
@@ -5384,10 +5384,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "OAES",
-        "vx":  -2.060,
-        "svx":  0.100,
-        "vy":  4.160,
-        "svy":  0.090,
+        "vx":   "-2.060",
+        "svx":   "0.100",
+        "vy":   "4.160",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5397,10 +5397,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "OEOC",
-        "vx":  -27.690,
-        "svx":  0.630,
-        "vy":  27.540,
-        "svy":  0.440,
+        "vx":   "-27.690",
+        "svx":   "0.630",
+        "vy":   "27.540",
+        "svy":   "0.440",
     },
     "geometry": {
          "type": "Point",
@@ -5410,10 +5410,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "OFW2",
-        "vx":  -4.990,
-        "svx":  0.240,
-        "vy":  -0.230,
-        "svy":  0.210,
+        "vx":   "-4.990",
+        "svx":   "0.240",
+        "vy":   "-0.230",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -5423,10 +5423,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "OPBL",
-        "vx":  -3.210,
-        "svx":  0.090,
-        "vy":  1.740,
-        "svy":  0.090,
+        "vx":   "-3.210",
+        "svx":   "0.090",
+        "vy":   "1.740",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5436,10 +5436,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "OPCL",
-        "vx":  -5.470,
-        "svx":  0.100,
-        "vy":  6.390,
-        "svy":  0.090,
+        "vx":   "-5.470",
+        "svx":   "0.100",
+        "vy":   "6.390",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5449,10 +5449,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "OPCP",
-        "vx":  -3.200,
-        "svx":  0.110,
-        "vy":  3.350,
-        "svy":  0.090,
+        "vx":   "-3.200",
+        "svx":   "0.110",
+        "vy":   "3.350",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5462,10 +5462,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "OPCX",
-        "vx":  -3.120,
-        "svx":  0.090,
-        "vy":  3.070,
-        "svy":  0.080,
+        "vx":   "-3.120",
+        "svx":   "0.090",
+        "vy":   "3.070",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -5475,10 +5475,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "OPRD",
-        "vx":  -6.070,
-        "svx":  0.090,
-        "vy":  4.740,
-        "svy":  0.080,
+        "vx":   "-6.070",
+        "svx":   "0.090",
+        "vy":   "4.740",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -5488,10 +5488,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ORES",
-        "vx":  -29.960,
-        "svx":  0.290,
-        "vy":  33.000,
-        "svy":  0.170,
+        "vx":   "-29.960",
+        "svx":   "0.290",
+        "vy":   "33.000",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -5501,10 +5501,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ORMT",
-        "vx":  -11.210,
-        "svx":  0.120,
-        "vy":  9.610,
-        "svy":  0.090,
+        "vx":   "-11.210",
+        "svx":   "0.120",
+        "vy":   "9.610",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5514,10 +5514,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "OVLS",
-        "vx":  -29.380,
-        "svx":  0.100,
-        "vy":  27.840,
-        "svy":  0.110,
+        "vx":   "-29.380",
+        "svx":   "0.100",
+        "vy":   "27.840",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -5527,10 +5527,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "OXYC",
-        "vx":  -26.500,
-        "svx":  0.310,
-        "vy":  24.170,
-        "svy":  0.190,
+        "vx":   "-26.500",
+        "svx":   "0.310",
+        "vy":   "24.170",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -5540,10 +5540,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "OZST",
-        "vx":  -28.050,
-        "svx":  0.090,
-        "vy":  23.160,
-        "svy":  0.090,
+        "vx":   "-28.050",
+        "svx":   "0.090",
+        "vy":   "23.160",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5553,10 +5553,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P001",
-        "vx":  -3.010,
-        "svx":  0.140,
-        "vy":  -0.330,
-        "svy":  0.220,
+        "vx":   "-3.010",
+        "svx":   "0.140",
+        "vy":   "-0.330",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -5566,10 +5566,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P002",
-        "vx":  -4.730,
-        "svx":  0.100,
-        "vy":  0.210,
-        "svy":  0.100,
+        "vx":   "-4.730",
+        "svx":   "0.100",
+        "vy":   "0.210",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -5579,10 +5579,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P003",
-        "vx":  -3.690,
-        "svx":  0.110,
-        "vy":  0.200,
-        "svy":  0.110,
+        "vx":   "-3.690",
+        "svx":   "0.110",
+        "vy":   "0.200",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -5592,10 +5592,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P004",
-        "vx":  -3.220,
-        "svx":  0.100,
-        "vy":  -0.100,
-        "svy":  0.130,
+        "vx":   "-3.220",
+        "svx":   "0.100",
+        "vy":   "-0.100",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -5605,10 +5605,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P005",
-        "vx":  -4.550,
-        "svx":  0.110,
-        "vy":  -0.500,
-        "svy":  0.100,
+        "vx":   "-4.550",
+        "svx":   "0.110",
+        "vy":   "-0.500",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -5618,10 +5618,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P006",
-        "vx":  -3.610,
-        "svx":  0.140,
-        "vy":  -0.250,
-        "svy":  0.140,
+        "vx":   "-3.610",
+        "svx":   "0.140",
+        "vy":   "-0.250",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -5631,10 +5631,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P007",
-        "vx":  -4.690,
-        "svx":  0.130,
-        "vy":  -0.340,
-        "svy":  0.130,
+        "vx":   "-4.690",
+        "svx":   "0.130",
+        "vy":   "-0.340",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -5644,10 +5644,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P008",
-        "vx":  -2.520,
-        "svx":  0.120,
-        "vy":  -0.120,
-        "svy":  0.120,
+        "vx":   "-2.520",
+        "svx":   "0.120",
+        "vy":   "-0.120",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -5657,10 +5657,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P009",
-        "vx":  -3.540,
-        "svx":  0.130,
-        "vy":  -0.570,
-        "svy":  0.140,
+        "vx":   "-3.540",
+        "svx":   "0.130",
+        "vy":   "-0.570",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -5670,10 +5670,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P010",
-        "vx":  -3.630,
-        "svx":  0.120,
-        "vy":  0.160,
-        "svy":  0.130,
+        "vx":   "-3.630",
+        "svx":   "0.120",
+        "vy":   "0.160",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -5683,10 +5683,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P011",
-        "vx":  -2.210,
-        "svx":  0.110,
-        "vy":  0.090,
-        "svy":  0.100,
+        "vx":   "-2.210",
+        "svx":   "0.110",
+        "vy":   "0.090",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -5696,10 +5696,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P012",
-        "vx":  -2.080,
-        "svx":  0.100,
-        "vy":  -0.170,
-        "svy":  0.100,
+        "vx":   "-2.080",
+        "svx":   "0.100",
+        "vy":   "-0.170",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -5709,10 +5709,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P013",
-        "vx":  -4.610,
-        "svx":  0.110,
-        "vy":  0.420,
-        "svy":  0.100,
+        "vx":   "-4.610",
+        "svx":   "0.110",
+        "vy":   "0.420",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -5722,10 +5722,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P014",
-        "vx":  -1.210,
-        "svx":  0.360,
-        "vy":  0.160,
-        "svy":  0.140,
+        "vx":   "-1.210",
+        "svx":   "0.360",
+        "vy":   "0.160",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -5735,10 +5735,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P015",
-        "vx":  -2.150,
-        "svx":  0.110,
-        "vy":  -0.070,
-        "svy":  0.110,
+        "vx":   "-2.150",
+        "svx":   "0.110",
+        "vy":   "-0.070",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -5748,10 +5748,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P016",
-        "vx":  -4.110,
-        "svx":  0.100,
-        "vy":  -0.400,
-        "svy":  0.090,
+        "vx":   "-4.110",
+        "svx":   "0.100",
+        "vy":   "-0.400",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5761,10 +5761,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P017",
-        "vx":  -6.090,
-        "svx":  0.120,
-        "vy":  3.160,
-        "svy":  0.090,
+        "vx":   "-6.090",
+        "svx":   "0.120",
+        "vy":   "3.160",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5774,10 +5774,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P018",
-        "vx":  -3.300,
-        "svx":  0.180,
-        "vy":  0.090,
-        "svy":  0.230,
+        "vx":   "-3.300",
+        "svx":   "0.180",
+        "vy":   "0.090",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -5787,10 +5787,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P019",
-        "vx":  -2.840,
-        "svx":  0.150,
-        "vy":  -0.710,
-        "svy":  0.160,
+        "vx":   "-2.840",
+        "svx":   "0.150",
+        "vy":   "-0.710",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -5800,10 +5800,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P020",
-        "vx":  -0.610,
-        "svx":  0.090,
-        "vy":  0.430,
-        "svy":  0.080,
+        "vx":   "-0.610",
+        "svx":   "0.090",
+        "vy":   "0.430",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -5813,10 +5813,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P021",
-        "vx":  -0.210,
-        "svx":  0.100,
-        "vy":  0.350,
-        "svy":  0.090,
+        "vx":   "-0.210",
+        "svx":   "0.100",
+        "vy":   "0.350",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5826,10 +5826,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P022",
-        "vx":  -1.490,
-        "svx":  0.110,
-        "vy":  0.520,
-        "svy":  0.090,
+        "vx":   "-1.490",
+        "svx":   "0.110",
+        "vy":   "0.520",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5839,10 +5839,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P023",
-        "vx":  -0.940,
-        "svx":  0.130,
-        "vy":  0.120,
-        "svy":  0.130,
+        "vx":   "-0.940",
+        "svx":   "0.130",
+        "vy":   "0.120",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -5852,10 +5852,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P024",
-        "vx":  1.910,
-        "svx":  0.490,
-        "vy":  -1.720,
-        "svy":  0.350,
+        "vx":   "1.910",
+        "svx":   "0.490",
+        "vy":   "-1.720",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -5865,10 +5865,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P025",
-        "vx":  -0.390,
-        "svx":  0.100,
-        "vy":  -0.250,
-        "svy":  0.110,
+        "vx":   "-0.390",
+        "svx":   "0.100",
+        "vy":   "-0.250",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -5878,10 +5878,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P026",
-        "vx":  -1.850,
-        "svx":  0.150,
-        "vy":  -0.280,
-        "svy":  0.210,
+        "vx":   "-1.850",
+        "svx":   "0.150",
+        "vy":   "-0.280",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -5891,10 +5891,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P027",
-        "vx":  -1.690,
-        "svx":  0.120,
-        "vy":  0.290,
-        "svy":  0.140,
+        "vx":   "-1.690",
+        "svx":   "0.120",
+        "vy":   "0.290",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -5904,10 +5904,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P028",
-        "vx":  -1.890,
-        "svx":  0.100,
-        "vy":  0.150,
-        "svy":  0.130,
+        "vx":   "-1.890",
+        "svx":   "0.100",
+        "vy":   "0.150",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -5917,10 +5917,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P029",
-        "vx":  -3.680,
-        "svx":  0.210,
-        "vy":  -2.600,
-        "svy":  0.170,
+        "vx":   "-3.680",
+        "svx":   "0.210",
+        "vy":   "-2.600",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -5930,10 +5930,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P030",
-        "vx":  -1.720,
-        "svx":  0.110,
-        "vy":  -0.330,
-        "svy":  0.100,
+        "vx":   "-1.720",
+        "svx":   "0.110",
+        "vy":   "-0.330",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -5943,10 +5943,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P031",
-        "vx":  0.210,
-        "svx":  0.150,
-        "vy":  -0.450,
-        "svy":  0.110,
+        "vx":   "0.210",
+        "svx":   "0.150",
+        "vy":   "-0.450",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -5956,10 +5956,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P032",
-        "vx":  -1.300,
-        "svx":  0.090,
-        "vy":  -0.140,
-        "svy":  0.090,
+        "vx":   "-1.300",
+        "svx":   "0.090",
+        "vy":   "-0.140",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5969,10 +5969,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P033",
-        "vx":  -1.060,
-        "svx":  0.090,
-        "vy":  -0.690,
-        "svy":  0.100,
+        "vx":   "-1.060",
+        "svx":   "0.090",
+        "vy":   "-0.690",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -5982,10 +5982,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P034",
-        "vx":  -1.490,
-        "svx":  0.090,
-        "vy":  -0.090,
-        "svy":  0.090,
+        "vx":   "-1.490",
+        "svx":   "0.090",
+        "vy":   "-0.090",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -5995,10 +5995,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P035",
-        "vx":  -1.400,
-        "svx":  0.100,
-        "vy":  0.160,
-        "svy":  0.110,
+        "vx":   "-1.400",
+        "svx":   "0.100",
+        "vy":   "0.160",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6008,10 +6008,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P036",
-        "vx":  -1.570,
-        "svx":  0.160,
-        "vy":  -0.050,
-        "svy":  0.140,
+        "vx":   "-1.570",
+        "svx":   "0.160",
+        "vy":   "-0.050",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -6021,10 +6021,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P037",
-        "vx":  -1.520,
-        "svx":  0.100,
-        "vy":  0.020,
-        "svy":  0.100,
+        "vx":   "-1.520",
+        "svx":   "0.100",
+        "vy":   "0.020",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6034,10 +6034,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P038",
-        "vx":  -1.430,
-        "svx":  0.110,
-        "vy":  -0.140,
-        "svy":  0.130,
+        "vx":   "-1.430",
+        "svx":   "0.110",
+        "vy":   "-0.140",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -6047,10 +6047,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P039",
-        "vx":  -1.400,
-        "svx":  0.100,
-        "vy":  0.270,
-        "svy":  0.110,
+        "vx":   "-1.400",
+        "svx":   "0.100",
+        "vy":   "0.270",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6060,10 +6060,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P040",
-        "vx":  -1.380,
-        "svx":  0.100,
-        "vy":  0.100,
-        "svy":  0.120,
+        "vx":   "-1.380",
+        "svx":   "0.100",
+        "vy":   "0.100",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -6073,10 +6073,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P041",
-        "vx":  -1.390,
-        "svx":  0.090,
-        "vy":  -0.180,
-        "svy":  0.090,
+        "vx":   "-1.390",
+        "svx":   "0.090",
+        "vy":   "-0.180",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -6086,10 +6086,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P042",
-        "vx":  -1.230,
-        "svx":  0.080,
-        "vy":  -0.210,
-        "svy":  0.090,
+        "vx":   "-1.230",
+        "svx":   "0.080",
+        "vy":   "-0.210",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -6099,10 +6099,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P043",
-        "vx":  -1.280,
-        "svx":  0.100,
-        "vy":  -0.070,
-        "svy":  0.110,
+        "vx":   "-1.280",
+        "svx":   "0.100",
+        "vy":   "-0.070",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6112,10 +6112,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P044",
-        "vx":  -1.150,
-        "svx":  0.100,
-        "vy":  -0.100,
-        "svy":  0.090,
+        "vx":   "-1.150",
+        "svx":   "0.100",
+        "vy":   "-0.100",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -6125,10 +6125,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P045",
-        "vx":  -1.340,
-        "svx":  0.100,
-        "vy":  -0.990,
-        "svy":  0.100,
+        "vx":   "-1.340",
+        "svx":   "0.100",
+        "vy":   "-0.990",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6138,10 +6138,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P046",
-        "vx":  -0.760,
-        "svx":  0.100,
-        "vy":  -0.830,
-        "svy":  0.100,
+        "vx":   "-0.760",
+        "svx":   "0.100",
+        "vy":   "-0.830",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6151,10 +6151,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P047",
-        "vx":  -0.610,
-        "svx":  0.170,
-        "vy":  -0.930,
-        "svy":  0.110,
+        "vx":   "-0.610",
+        "svx":   "0.170",
+        "vy":   "-0.930",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6164,10 +6164,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P048",
-        "vx":  -0.850,
-        "svx":  0.130,
-        "vy":  -0.100,
-        "svy":  0.110,
+        "vx":   "-0.850",
+        "svx":   "0.130",
+        "vy":   "-0.100",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6177,10 +6177,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P049",
-        "vx":  -0.740,
-        "svx":  0.100,
-        "vy":  -0.720,
-        "svy":  0.100,
+        "vx":   "-0.740",
+        "svx":   "0.100",
+        "vy":   "-0.720",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6190,10 +6190,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P050",
-        "vx":  -0.440,
-        "svx":  0.100,
-        "vy":  -0.800,
-        "svy":  0.100,
+        "vx":   "-0.440",
+        "svx":   "0.100",
+        "vy":   "-0.800",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6203,10 +6203,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P051",
-        "vx":  -0.830,
-        "svx":  0.100,
-        "vy":  -0.570,
-        "svy":  0.100,
+        "vx":   "-0.830",
+        "svx":   "0.100",
+        "vy":   "-0.570",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6216,10 +6216,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P052",
-        "vx":  -0.790,
-        "svx":  0.090,
-        "vy":  -0.290,
-        "svy":  0.110,
+        "vx":   "-0.790",
+        "svx":   "0.090",
+        "vy":   "-0.290",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6229,10 +6229,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P053",
-        "vx":  -0.960,
-        "svx":  0.110,
-        "vy":  -0.920,
-        "svy":  0.110,
+        "vx":   "-0.960",
+        "svx":   "0.110",
+        "vy":   "-0.920",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6242,10 +6242,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P054",
-        "vx":  -1.070,
-        "svx":  0.100,
-        "vy":  -0.240,
-        "svy":  0.100,
+        "vx":   "-1.070",
+        "svx":   "0.100",
+        "vy":   "-0.240",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6255,10 +6255,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P055",
-        "vx":  -0.730,
-        "svx":  0.100,
-        "vy":  -0.500,
-        "svy":  0.100,
+        "vx":   "-0.730",
+        "svx":   "0.100",
+        "vy":   "-0.500",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6268,10 +6268,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P056",
-        "vx":  -12.520,
-        "svx":  0.160,
-        "vy":  10.050,
-        "svy":  0.320,
+        "vx":   "-12.520",
+        "svx":   "0.160",
+        "vy":   "10.050",
+        "svy":   "0.320",
     },
     "geometry": {
          "type": "Point",
@@ -6281,10 +6281,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P057",
-        "vx":  -3.420,
-        "svx":  0.090,
-        "vy":  -0.830,
-        "svy":  0.080,
+        "vx":   "-3.420",
+        "svx":   "0.090",
+        "vy":   "-0.830",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -6294,10 +6294,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P058",
-        "vx":  0.150,
-        "svx":  0.140,
-        "vy":  16.240,
-        "svy":  0.130,
+        "vx":   "0.150",
+        "svx":   "0.140",
+        "vy":   "16.240",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -6307,10 +6307,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P059",
-        "vx":  -26.420,
-        "svx":  0.170,
-        "vy":  35.480,
-        "svy":  0.180,
+        "vx":   "-26.420",
+        "svx":   "0.170",
+        "vy":   "35.480",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -6320,10 +6320,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P060",
-        "vx":  -7.360,
-        "svx":  0.120,
-        "vy":  5.700,
-        "svy":  0.100,
+        "vx":   "-7.360",
+        "svx":   "0.120",
+        "vy":   "5.700",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6333,10 +6333,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P061",
-        "vx":  -0.170,
-        "svx":  0.330,
-        "vy":  8.620,
-        "svy":  0.130,
+        "vx":   "-0.170",
+        "svx":   "0.330",
+        "vy":   "8.620",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -6346,10 +6346,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P062",
-        "vx":  -3.210,
-        "svx":  0.130,
-        "vy":  3.350,
-        "svy":  0.110,
+        "vx":   "-3.210",
+        "svx":   "0.130",
+        "vy":   "3.350",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6359,10 +6359,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P063",
-        "vx":  -0.890,
-        "svx":  0.110,
-        "vy":  2.210,
-        "svy":  0.100,
+        "vx":   "-0.890",
+        "svx":   "0.110",
+        "vy":   "2.210",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6372,10 +6372,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P064",
-        "vx":  10.240,
-        "svx":  1.420,
-        "vy":  1.340,
-        "svy":  1.060,
+        "vx":   "10.240",
+        "svx":   "1.420",
+        "vy":   "1.340",
+        "svy":   "1.060",
     },
     "geometry": {
          "type": "Point",
@@ -6385,10 +6385,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P065",
-        "vx":  0.820,
-        "svx":  0.130,
-        "vy":  1.940,
-        "svy":  0.110,
+        "vx":   "0.820",
+        "svx":   "0.130",
+        "vy":   "1.940",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6398,10 +6398,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P066",
-        "vx":  -28.620,
-        "svx":  0.110,
-        "vy":  26.510,
-        "svy":  0.090,
+        "vx":   "-28.620",
+        "svx":   "0.110",
+        "vy":   "26.510",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -6411,10 +6411,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P067",
-        "vx":  -29.580,
-        "svx":  0.100,
-        "vy":  34.890,
-        "svy":  0.170,
+        "vx":   "-29.580",
+        "svx":   "0.100",
+        "vy":   "34.890",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -6424,10 +6424,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P068",
-        "vx":  -5.290,
-        "svx":  0.110,
-        "vy":  0.930,
-        "svy":  0.100,
+        "vx":   "-5.290",
+        "svx":   "0.110",
+        "vy":   "0.930",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6437,10 +6437,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P069",
-        "vx":  -5.070,
-        "svx":  0.120,
-        "vy":  0.460,
-        "svy":  0.100,
+        "vx":   "-5.070",
+        "svx":   "0.120",
+        "vy":   "0.460",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6450,10 +6450,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P070",
-        "vx":  -1.950,
-        "svx":  0.120,
-        "vy":  0.030,
-        "svy":  0.130,
+        "vx":   "-1.950",
+        "svx":   "0.120",
+        "vy":   "0.030",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -6463,10 +6463,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P071",
-        "vx":  -4.850,
-        "svx":  0.110,
-        "vy":  0.220,
-        "svy":  0.100,
+        "vx":   "-4.850",
+        "svx":   "0.110",
+        "vy":   "0.220",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6476,10 +6476,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P072",
-        "vx":  -4.600,
-        "svx":  0.100,
-        "vy":  0.100,
-        "svy":  0.090,
+        "vx":   "-4.600",
+        "svx":   "0.100",
+        "vy":   "0.100",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -6489,10 +6489,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P073",
-        "vx":  -4.500,
-        "svx":  0.110,
-        "vy":  -0.090,
-        "svy":  0.090,
+        "vx":   "-4.500",
+        "svx":   "0.110",
+        "vy":   "-0.090",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -6502,10 +6502,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P074",
-        "vx":  -4.550,
-        "svx":  0.120,
-        "vy":  -0.340,
-        "svy":  0.100,
+        "vx":   "-4.550",
+        "svx":   "0.120",
+        "vy":   "-0.340",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6515,10 +6515,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P075",
-        "vx":  -4.340,
-        "svx":  0.150,
-        "vy":  -0.770,
-        "svy":  0.140,
+        "vx":   "-4.340",
+        "svx":   "0.150",
+        "vy":   "-0.770",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -6528,10 +6528,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P076",
-        "vx":  -4.550,
-        "svx":  0.100,
-        "vy":  -0.430,
-        "svy":  0.090,
+        "vx":   "-4.550",
+        "svx":   "0.100",
+        "vy":   "-0.430",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -6541,10 +6541,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P077",
-        "vx":  -4.380,
-        "svx":  0.190,
-        "vy":  -0.460,
-        "svy":  0.160,
+        "vx":   "-4.380",
+        "svx":   "0.190",
+        "vy":   "-0.460",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -6554,10 +6554,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P078",
-        "vx":  -6.060,
-        "svx":  0.130,
-        "vy":  1.020,
-        "svy":  0.100,
+        "vx":   "-6.060",
+        "svx":   "0.130",
+        "vy":   "1.020",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6567,10 +6567,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P079",
-        "vx":  -4.080,
-        "svx":  0.160,
-        "vy":  -0.040,
-        "svy":  0.140,
+        "vx":   "-4.080",
+        "svx":   "0.160",
+        "vy":   "-0.040",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -6580,10 +6580,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P080",
-        "vx":  -4.530,
-        "svx":  0.120,
-        "vy":  -0.520,
-        "svy":  0.100,
+        "vx":   "-4.530",
+        "svx":   "0.120",
+        "vy":   "-0.520",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6593,10 +6593,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P081",
-        "vx":  -4.640,
-        "svx":  0.100,
-        "vy":  -0.420,
-        "svy":  0.090,
+        "vx":   "-4.640",
+        "svx":   "0.100",
+        "vy":   "-0.420",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -6606,10 +6606,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P082",
-        "vx":  -4.400,
-        "svx":  0.100,
-        "vy":  -0.470,
-        "svy":  0.100,
+        "vx":   "-4.400",
+        "svx":   "0.100",
+        "vy":   "-0.470",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6619,10 +6619,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P083",
-        "vx":  -5.130,
-        "svx":  0.140,
-        "vy":  0.410,
-        "svy":  0.120,
+        "vx":   "-5.130",
+        "svx":   "0.140",
+        "vy":   "0.410",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -6632,10 +6632,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P084",
-        "vx":  -4.420,
-        "svx":  0.100,
-        "vy":  -0.670,
-        "svy":  0.090,
+        "vx":   "-4.420",
+        "svx":   "0.100",
+        "vy":   "-0.670",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -6645,10 +6645,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P085",
-        "vx":  -4.620,
-        "svx":  0.110,
-        "vy":  -0.420,
-        "svy":  0.100,
+        "vx":   "-4.620",
+        "svx":   "0.110",
+        "vy":   "-0.420",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6658,10 +6658,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P086",
-        "vx":  -3.390,
-        "svx":  0.110,
-        "vy":  -0.270,
-        "svy":  0.110,
+        "vx":   "-3.390",
+        "svx":   "0.110",
+        "vy":   "-0.270",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6671,10 +6671,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P087",
-        "vx":  -4.540,
-        "svx":  0.120,
-        "vy":  -0.090,
-        "svy":  0.110,
+        "vx":   "-4.540",
+        "svx":   "0.120",
+        "vy":   "-0.090",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6684,10 +6684,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P088",
-        "vx":  -2.170,
-        "svx":  0.100,
-        "vy":  -0.420,
-        "svy":  0.110,
+        "vx":   "-2.170",
+        "svx":   "0.100",
+        "vy":   "-0.420",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6697,10 +6697,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P089",
-        "vx":  -1.130,
-        "svx":  0.120,
-        "vy":  0.090,
-        "svy":  0.120,
+        "vx":   "-1.130",
+        "svx":   "0.120",
+        "vy":   "0.090",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -6710,10 +6710,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P090",
-        "vx":  -8.450,
-        "svx":  0.370,
-        "vy":  4.350,
-        "svy":  0.120,
+        "vx":   "-8.450",
+        "svx":   "0.370",
+        "vy":   "4.350",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -6723,10 +6723,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P091",
-        "vx":  -6.370,
-        "svx":  0.130,
-        "vy":  3.020,
-        "svy":  0.110,
+        "vx":   "-6.370",
+        "svx":   "0.130",
+        "vy":   "3.020",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6736,10 +6736,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P092",
-        "vx":  -5.710,
-        "svx":  0.110,
-        "vy":  2.270,
-        "svy":  0.130,
+        "vx":   "-5.710",
+        "svx":   "0.110",
+        "vy":   "2.270",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -6749,10 +6749,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P093",
-        "vx":  -8.450,
-        "svx":  0.110,
-        "vy":  5.540,
-        "svy":  0.120,
+        "vx":   "-8.450",
+        "svx":   "0.110",
+        "vy":   "5.540",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -6762,10 +6762,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P094",
-        "vx":  -6.220,
-        "svx":  0.100,
-        "vy":  2.260,
-        "svy":  0.100,
+        "vx":   "-6.220",
+        "svx":   "0.100",
+        "vy":   "2.260",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6775,10 +6775,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P095",
-        "vx":  -8.280,
-        "svx":  0.120,
-        "vy":  3.830,
-        "svy":  0.090,
+        "vx":   "-8.280",
+        "svx":   "0.120",
+        "vy":   "3.830",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -6788,10 +6788,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P096",
-        "vx":  -7.680,
-        "svx":  0.140,
-        "vy":  2.820,
-        "svy":  0.130,
+        "vx":   "-7.680",
+        "svx":   "0.140",
+        "vy":   "2.820",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -6801,10 +6801,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P097",
-        "vx":  -7.010,
-        "svx":  0.140,
-        "vy":  2.410,
-        "svy":  0.110,
+        "vx":   "-7.010",
+        "svx":   "0.140",
+        "vy":   "2.410",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6814,10 +6814,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P098",
-        "vx":  -7.030,
-        "svx":  0.140,
-        "vy":  2.100,
-        "svy":  0.110,
+        "vx":   "-7.030",
+        "svx":   "0.140",
+        "vy":   "2.100",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6827,10 +6827,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P099",
-        "vx":  -5.390,
-        "svx":  0.110,
-        "vy":  1.670,
-        "svy":  0.100,
+        "vx":   "-5.390",
+        "svx":   "0.110",
+        "vy":   "1.670",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6840,10 +6840,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P100",
-        "vx":  -4.560,
-        "svx":  0.120,
-        "vy":  -0.490,
-        "svy":  0.140,
+        "vx":   "-4.560",
+        "svx":   "0.120",
+        "vy":   "-0.490",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -6853,10 +6853,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P101",
-        "vx":  -1.950,
-        "svx":  0.110,
-        "vy":  -0.360,
-        "svy":  0.090,
+        "vx":   "-1.950",
+        "svx":   "0.110",
+        "vy":   "-0.360",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -6866,10 +6866,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P102",
-        "vx":  -4.570,
-        "svx":  0.100,
-        "vy":  -0.280,
-        "svy":  0.100,
+        "vx":   "-4.570",
+        "svx":   "0.100",
+        "vy":   "-0.280",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6879,10 +6879,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P103",
-        "vx":  -4.540,
-        "svx":  0.150,
-        "vy":  -0.370,
-        "svy":  0.150,
+        "vx":   "-4.540",
+        "svx":   "0.150",
+        "vy":   "-0.370",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -6892,10 +6892,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P104",
-        "vx":  -4.040,
-        "svx":  0.100,
-        "vy":  -0.190,
-        "svy":  0.100,
+        "vx":   "-4.040",
+        "svx":   "0.100",
+        "vy":   "-0.190",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6905,10 +6905,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P105",
-        "vx":  -3.940,
-        "svx":  0.120,
-        "vy":  -0.510,
-        "svy":  0.160,
+        "vx":   "-3.940",
+        "svx":   "0.120",
+        "vy":   "-0.510",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -6918,10 +6918,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P106",
-        "vx":  -4.100,
-        "svx":  0.100,
-        "vy":  -0.390,
-        "svy":  0.110,
+        "vx":   "-4.100",
+        "svx":   "0.100",
+        "vy":   "-0.390",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6931,10 +6931,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P107",
-        "vx":  -1.950,
-        "svx":  0.100,
-        "vy":  0.050,
-        "svy":  0.130,
+        "vx":   "-1.950",
+        "svx":   "0.100",
+        "vy":   "0.050",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -6944,10 +6944,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P108",
-        "vx":  -3.010,
-        "svx":  0.120,
-        "vy":  -0.310,
-        "svy":  0.090,
+        "vx":   "-3.010",
+        "svx":   "0.120",
+        "vy":   "-0.310",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -6957,10 +6957,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P109",
-        "vx":  -2.700,
-        "svx":  0.220,
-        "vy":  -0.310,
-        "svy":  0.110,
+        "vx":   "-2.700",
+        "svx":   "0.220",
+        "vy":   "-0.310",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -6970,10 +6970,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P110",
-        "vx":  -2.230,
-        "svx":  0.370,
-        "vy":  3.050,
-        "svy":  0.180,
+        "vx":   "-2.230",
+        "svx":   "0.370",
+        "vy":   "3.050",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -6983,10 +6983,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P111",
-        "vx":  -4.060,
-        "svx":  0.100,
-        "vy":  -0.940,
-        "svy":  0.100,
+        "vx":   "-4.060",
+        "svx":   "0.100",
+        "vy":   "-0.940",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -6996,10 +6996,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P112",
-        "vx":  -2.070,
-        "svx":  0.100,
-        "vy":  -0.250,
-        "svy":  0.090,
+        "vx":   "-2.070",
+        "svx":   "0.100",
+        "vy":   "-0.250",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -7009,10 +7009,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P113",
-        "vx":  -4.440,
-        "svx":  0.110,
-        "vy":  -0.690,
-        "svy":  0.090,
+        "vx":   "-4.440",
+        "svx":   "0.110",
+        "vy":   "-0.690",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -7022,10 +7022,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P114",
-        "vx":  -3.880,
-        "svx":  0.110,
-        "vy":  -0.700,
-        "svy":  0.080,
+        "vx":   "-3.880",
+        "svx":   "0.110",
+        "vy":   "-0.700",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -7035,10 +7035,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P115",
-        "vx":  -4.230,
-        "svx":  0.120,
-        "vy":  -0.520,
-        "svy":  0.110,
+        "vx":   "-4.230",
+        "svx":   "0.120",
+        "vy":   "-0.520",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7048,10 +7048,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P116",
-        "vx":  -3.860,
-        "svx":  0.120,
-        "vy":  -0.620,
-        "svy":  0.110,
+        "vx":   "-3.860",
+        "svx":   "0.120",
+        "vy":   "-0.620",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7061,10 +7061,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P117",
-        "vx":  -3.890,
-        "svx":  0.090,
-        "vy":  -1.090,
-        "svy":  0.110,
+        "vx":   "-3.890",
+        "svx":   "0.090",
+        "vy":   "-1.090",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7074,10 +7074,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P118",
-        "vx":  -1.780,
-        "svx":  0.090,
-        "vy":  -0.370,
-        "svy":  0.100,
+        "vx":   "-1.780",
+        "svx":   "0.090",
+        "vy":   "-0.370",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -7087,10 +7087,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P119",
-        "vx":  -2.010,
-        "svx":  0.140,
-        "vy":  -0.030,
-        "svy":  0.110,
+        "vx":   "-2.010",
+        "svx":   "0.140",
+        "vy":   "-0.030",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7100,10 +7100,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P120",
-        "vx":  -1.820,
-        "svx":  0.120,
-        "vy":  0.150,
-        "svy":  0.120,
+        "vx":   "-1.820",
+        "svx":   "0.120",
+        "vy":   "0.150",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -7113,10 +7113,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P121",
-        "vx":  -3.760,
-        "svx":  0.090,
-        "vy":  -0.770,
-        "svy":  0.080,
+        "vx":   "-3.760",
+        "svx":   "0.090",
+        "vy":   "-0.770",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -7126,10 +7126,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P122",
-        "vx":  -3.110,
-        "svx":  0.090,
-        "vy":  -0.910,
-        "svy":  0.090,
+        "vx":   "-3.110",
+        "svx":   "0.090",
+        "vy":   "-0.910",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -7139,10 +7139,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P123",
-        "vx":  -2.040,
-        "svx":  0.120,
-        "vy":  -0.030,
-        "svy":  0.100,
+        "vx":   "-2.040",
+        "svx":   "0.120",
+        "vy":   "-0.030",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -7152,10 +7152,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P124",
-        "vx":  -2.370,
-        "svx":  0.110,
-        "vy":  -0.750,
-        "svy":  0.300,
+        "vx":   "-2.370",
+        "svx":   "0.110",
+        "vy":   "-0.750",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -7165,10 +7165,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P125",
-        "vx":  -2.740,
-        "svx":  0.220,
-        "vy":  -0.670,
-        "svy":  0.110,
+        "vx":   "-2.740",
+        "svx":   "0.220",
+        "vy":   "-0.670",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7178,10 +7178,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P126",
-        "vx":  -2.150,
-        "svx":  0.140,
-        "vy":  -0.580,
-        "svy":  0.110,
+        "vx":   "-2.150",
+        "svx":   "0.140",
+        "vy":   "-0.580",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7191,10 +7191,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P127",
-        "vx":  -8.440,
-        "svx":  0.110,
-        "vy":  4.240,
-        "svy":  0.090,
+        "vx":   "-8.440",
+        "svx":   "0.110",
+        "vy":   "4.240",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -7204,10 +7204,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P128",
-        "vx":  -6.930,
-        "svx":  0.170,
-        "vy":  3.080,
-        "svy":  0.110,
+        "vx":   "-6.930",
+        "svx":   "0.170",
+        "vy":   "3.080",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7217,10 +7217,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P129",
-        "vx":  -6.290,
-        "svx":  0.150,
-        "vy":  2.540,
-        "svy":  0.120,
+        "vx":   "-6.290",
+        "svx":   "0.150",
+        "vy":   "2.540",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -7230,10 +7230,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P130",
-        "vx":  -6.890,
-        "svx":  0.130,
-        "vy":  3.460,
-        "svy":  0.110,
+        "vx":   "-6.890",
+        "svx":   "0.130",
+        "vy":   "3.460",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7243,10 +7243,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P131",
-        "vx":  -6.570,
-        "svx":  0.140,
-        "vy":  2.010,
-        "svy":  0.120,
+        "vx":   "-6.570",
+        "svx":   "0.140",
+        "vy":   "2.010",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -7256,10 +7256,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P132",
-        "vx":  -5.500,
-        "svx":  0.100,
-        "vy":  1.560,
-        "svy":  0.100,
+        "vx":   "-5.500",
+        "svx":   "0.100",
+        "vy":   "1.560",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -7269,10 +7269,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P133",
-        "vx":  -6.310,
-        "svx":  0.120,
-        "vy":  3.090,
-        "svy":  0.100,
+        "vx":   "-6.310",
+        "svx":   "0.120",
+        "vy":   "3.090",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -7282,10 +7282,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P134",
-        "vx":  -7.500,
-        "svx":  0.130,
-        "vy":  4.270,
-        "svy":  0.100,
+        "vx":   "-7.500",
+        "svx":   "0.130",
+        "vy":   "4.270",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -7295,10 +7295,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P135",
-        "vx":  -8.160,
-        "svx":  0.170,
-        "vy":  5.160,
-        "svy":  0.130,
+        "vx":   "-8.160",
+        "svx":   "0.170",
+        "vy":   "5.160",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -7308,10 +7308,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P136",
-        "vx":  -9.290,
-        "svx":  0.130,
-        "vy":  5.950,
-        "svy":  0.100,
+        "vx":   "-9.290",
+        "svx":   "0.130",
+        "vy":   "5.950",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -7321,10 +7321,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P137",
-        "vx":  -6.390,
-        "svx":  0.160,
-        "vy":  2.530,
-        "svy":  0.120,
+        "vx":   "-6.390",
+        "svx":   "0.160",
+        "vy":   "2.530",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -7334,10 +7334,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P138",
-        "vx":  -6.970,
-        "svx":  0.140,
-        "vy":  2.530,
-        "svy":  0.110,
+        "vx":   "-6.970",
+        "svx":   "0.140",
+        "vy":   "2.530",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7347,10 +7347,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P139",
-        "vx":  -8.540,
-        "svx":  0.160,
-        "vy":  3.640,
-        "svy":  0.110,
+        "vx":   "-8.540",
+        "svx":   "0.160",
+        "vy":   "3.640",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7360,10 +7360,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P140",
-        "vx":  -11.100,
-        "svx":  0.120,
-        "vy":  6.980,
-        "svy":  0.110,
+        "vx":   "-11.100",
+        "svx":   "0.120",
+        "vy":   "6.980",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7373,10 +7373,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P141",
-        "vx":  -10.990,
-        "svx":  0.110,
-        "vy":  6.130,
-        "svy":  0.110,
+        "vx":   "-10.990",
+        "svx":   "0.110",
+        "vy":   "6.130",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7386,10 +7386,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P142",
-        "vx":  -11.210,
-        "svx":  0.500,
-        "vy":  6.660,
-        "svy":  0.310,
+        "vx":   "-11.210",
+        "svx":   "0.500",
+        "vy":   "6.660",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -7399,10 +7399,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P143",
-        "vx":  -11.150,
-        "svx":  0.210,
-        "vy":  6.580,
-        "svy":  0.120,
+        "vx":   "-11.150",
+        "svx":   "0.210",
+        "vy":   "6.580",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -7412,10 +7412,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P144",
-        "vx":  -10.890,
-        "svx":  0.130,
-        "vy":  6.370,
-        "svy":  0.110,
+        "vx":   "-10.890",
+        "svx":   "0.130",
+        "vy":   "6.370",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7425,10 +7425,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P145",
-        "vx":  -5.640,
-        "svx":  0.100,
-        "vy":  2.750,
-        "svy":  0.090,
+        "vx":   "-5.640",
+        "svx":   "0.100",
+        "vy":   "2.750",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -7438,10 +7438,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P146",
-        "vx":  -9.310,
-        "svx":  0.140,
-        "vy":  4.680,
-        "svy":  0.130,
+        "vx":   "-9.310",
+        "svx":   "0.140",
+        "vy":   "4.680",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -7451,10 +7451,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P147",
-        "vx":  -9.460,
-        "svx":  0.160,
-        "vy":  4.640,
-        "svy":  0.110,
+        "vx":   "-9.460",
+        "svx":   "0.160",
+        "vy":   "4.640",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7464,10 +7464,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P148",
-        "vx":  -8.170,
-        "svx":  0.120,
-        "vy":  4.580,
-        "svy":  0.110,
+        "vx":   "-8.170",
+        "svx":   "0.120",
+        "vy":   "4.580",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7477,10 +7477,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P149",
-        "vx":  -10.340,
-        "svx":  0.240,
-        "vy":  4.710,
-        "svy":  0.160,
+        "vx":   "-10.340",
+        "svx":   "0.240",
+        "vy":   "4.710",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -7490,10 +7490,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P150",
-        "vx":  -12.450,
-        "svx":  0.200,
-        "vy":  6.030,
-        "svy":  0.140,
+        "vx":   "-12.450",
+        "svx":   "0.200",
+        "vy":   "6.030",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -7503,10 +7503,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P151",
-        "vx":  -8.490,
-        "svx":  0.200,
-        "vy":  3.910,
-        "svy":  0.150,
+        "vx":   "-8.490",
+        "svx":   "0.200",
+        "vy":   "3.910",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -7516,10 +7516,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P154",
-        "vx":  -3.160,
-        "svx":  0.130,
-        "vy":  7.710,
-        "svy":  0.150,
+        "vx":   "-3.160",
+        "svx":   "0.130",
+        "vy":   "7.710",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -7529,10 +7529,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P155",
-        "vx":  -4.680,
-        "svx":  0.210,
-        "vy":  7.270,
-        "svy":  0.270,
+        "vx":   "-4.680",
+        "svx":   "0.210",
+        "vy":   "7.270",
+        "svy":   "0.270",
     },
     "geometry": {
          "type": "Point",
@@ -7542,10 +7542,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P156",
-        "vx":  -21.320,
-        "svx":  0.210,
-        "vy":  23.930,
-        "svy":  0.450,
+        "vx":   "-21.320",
+        "svx":   "0.210",
+        "vy":   "23.930",
+        "svy":   "0.450",
     },
     "geometry": {
          "type": "Point",
@@ -7555,10 +7555,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P157",
-        "vx":  -20.460,
-        "svx":  0.150,
-        "vy":  31.800,
-        "svy":  0.110,
+        "vx":   "-20.460",
+        "svx":   "0.150",
+        "vy":   "31.800",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7568,10 +7568,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P158",
-        "vx":  -7.140,
-        "svx":  0.120,
-        "vy":  22.310,
-        "svy":  0.120,
+        "vx":   "-7.140",
+        "svx":   "0.120",
+        "vy":   "22.310",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -7581,10 +7581,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P159",
-        "vx":  -4.140,
-        "svx":  0.200,
-        "vy":  25.740,
-        "svy":  0.160,
+        "vx":   "-4.140",
+        "svx":   "0.200",
+        "vy":   "25.740",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -7594,10 +7594,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P160",
-        "vx":  -3.900,
-        "svx":  0.170,
-        "vy":  20.130,
-        "svy":  0.100,
+        "vx":   "-3.900",
+        "svx":   "0.170",
+        "vy":   "20.130",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -7607,10 +7607,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P161",
-        "vx":  -0.480,
-        "svx":  0.170,
-        "vy":  20.910,
-        "svy":  0.100,
+        "vx":   "-0.480",
+        "svx":   "0.170",
+        "vy":   "20.910",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -7620,10 +7620,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P162",
-        "vx":  1.580,
-        "svx":  0.150,
-        "vy":  20.410,
-        "svy":  0.110,
+        "vx":   "1.580",
+        "svx":   "0.150",
+        "vy":   "20.410",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7633,10 +7633,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P163",
-        "vx":  -16.170,
-        "svx":  0.140,
-        "vy":  23.570,
-        "svy":  0.130,
+        "vx":   "-16.170",
+        "svx":   "0.140",
+        "vy":   "23.570",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -7646,10 +7646,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P164",
-        "vx":  -15.830,
-        "svx":  0.150,
-        "vy":  14.840,
-        "svy":  0.100,
+        "vx":   "-15.830",
+        "svx":   "0.150",
+        "vy":   "14.840",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -7659,10 +7659,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P165",
-        "vx":  -13.300,
-        "svx":  0.170,
-        "vy":  17.400,
-        "svy":  0.120,
+        "vx":   "-13.300",
+        "svx":   "0.170",
+        "vy":   "17.400",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -7672,10 +7672,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P166",
-        "vx":  -7.780,
-        "svx":  0.120,
-        "vy":  15.650,
-        "svy":  0.120,
+        "vx":   "-7.780",
+        "svx":   "0.120",
+        "vy":   "15.650",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -7685,10 +7685,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P167",
-        "vx":  -5.460,
-        "svx":  0.130,
-        "vy":  15.010,
-        "svy":  0.120,
+        "vx":   "-5.460",
+        "svx":   "0.130",
+        "vy":   "15.010",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -7698,10 +7698,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P168",
-        "vx":  -3.250,
-        "svx":  0.110,
-        "vy":  13.860,
-        "svy":  0.140,
+        "vx":   "-3.250",
+        "svx":   "0.110",
+        "vy":   "13.860",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -7711,10 +7711,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P169",
-        "vx":  -0.780,
-        "svx":  0.140,
-        "vy":  14.880,
-        "svy":  0.110,
+        "vx":   "-0.780",
+        "svx":   "0.140",
+        "vy":   "14.880",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7724,10 +7724,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P170",
-        "vx":  -3.000,
-        "svx":  0.150,
-        "vy":  11.650,
-        "svy":  0.110,
+        "vx":   "-3.000",
+        "svx":   "0.150",
+        "vy":   "11.650",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7737,10 +7737,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P171",
-        "vx":  -30.180,
-        "svx":  0.090,
-        "vy":  35.020,
-        "svy":  0.130,
+        "vx":   "-30.180",
+        "svx":   "0.090",
+        "vy":   "35.020",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -7750,10 +7750,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P172",
-        "vx":  -26.310,
-        "svx":  1.470,
-        "vy":  36.770,
-        "svy":  0.770,
+        "vx":   "-26.310",
+        "svx":   "1.470",
+        "vy":   "36.770",
+        "svy":   "0.770",
     },
     "geometry": {
          "type": "Point",
@@ -7763,10 +7763,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P173",
-        "vx":  -29.520,
-        "svx":  0.150,
-        "vy":  35.070,
-        "svy":  0.180,
+        "vx":   "-29.520",
+        "svx":   "0.150",
+        "vy":   "35.070",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -7776,10 +7776,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P174",
-        "vx":  -29.500,
-        "svx":  0.150,
-        "vy":  33.610,
-        "svy":  0.260,
+        "vx":   "-29.500",
+        "svx":   "0.150",
+        "vy":   "33.610",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -7789,10 +7789,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P175",
-        "vx":  -29.210,
-        "svx":  0.120,
-        "vy":  33.440,
-        "svy":  0.190,
+        "vx":   "-29.210",
+        "svx":   "0.120",
+        "vy":   "33.440",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -7802,10 +7802,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P176",
-        "vx":  -25.410,
-        "svx":  0.200,
-        "vy":  30.510,
-        "svy":  0.120,
+        "vx":   "-25.410",
+        "svx":   "0.200",
+        "vy":   "30.510",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -7815,10 +7815,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P177",
-        "vx":  -26.340,
-        "svx":  0.200,
-        "vy":  31.920,
-        "svy":  0.350,
+        "vx":   "-26.340",
+        "svx":   "0.200",
+        "vy":   "31.920",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -7828,10 +7828,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P178",
-        "vx":  -24.050,
-        "svx":  0.160,
-        "vy":  27.570,
-        "svy":  0.130,
+        "vx":   "-24.050",
+        "svx":   "0.160",
+        "vy":   "27.570",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -7841,10 +7841,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P179",
-        "vx":  -2.110,
-        "svx":  0.240,
-        "vy":  8.430,
-        "svy":  0.200,
+        "vx":   "-2.110",
+        "svx":   "0.240",
+        "vy":   "8.430",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -7854,10 +7854,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P180",
-        "vx":  -31.760,
-        "svx":  1.640,
-        "vy":  31.010,
-        "svy":  0.520,
+        "vx":   "-31.760",
+        "svx":   "1.640",
+        "vy":   "31.010",
+        "svy":   "0.520",
     },
     "geometry": {
          "type": "Point",
@@ -7867,10 +7867,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P181",
-        "vx":  -20.270,
-        "svx":  0.110,
-        "vy":  23.790,
-        "svy":  0.100,
+        "vx":   "-20.270",
+        "svx":   "0.110",
+        "vy":   "23.790",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -7880,10 +7880,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P182",
-        "vx":  -22.630,
-        "svx":  0.160,
-        "vy":  31.630,
-        "svy":  0.110,
+        "vx":   "-22.630",
+        "svx":   "0.160",
+        "vy":   "31.630",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7893,10 +7893,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P183",
-        "vx":  -23.840,
-        "svx":  0.120,
-        "vy":  32.720,
-        "svy":  0.110,
+        "vx":   "-23.840",
+        "svx":   "0.120",
+        "vy":   "32.720",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7906,10 +7906,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P184",
-        "vx":  -24.620,
-        "svx":  0.160,
-        "vy":  30.040,
-        "svy":  0.110,
+        "vx":   "-24.620",
+        "svx":   "0.160",
+        "vy":   "30.040",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -7919,10 +7919,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P185",
-        "vx":  -24.380,
-        "svx":  0.180,
-        "vy":  28.770,
-        "svy":  0.130,
+        "vx":   "-24.380",
+        "svx":   "0.180",
+        "vy":   "28.770",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -7932,10 +7932,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P186",
-        "vx":  -22.440,
-        "svx":  0.190,
-        "vy":  25.550,
-        "svy":  0.160,
+        "vx":   "-22.440",
+        "svx":   "0.190",
+        "vy":   "25.550",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -7945,10 +7945,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P187",
-        "vx":  -23.600,
-        "svx":  0.110,
-        "vy":  23.590,
-        "svy":  0.130,
+        "vx":   "-23.600",
+        "svx":   "0.110",
+        "vy":   "23.590",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -7958,10 +7958,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P188",
-        "vx":  -21.620,
-        "svx":  0.230,
-        "vy":  28.960,
-        "svy":  0.130,
+        "vx":   "-21.620",
+        "svx":   "0.230",
+        "vy":   "28.960",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -7971,10 +7971,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P189",
-        "vx":  -22.280,
-        "svx":  0.110,
-        "vy":  26.260,
-        "svy":  0.120,
+        "vx":   "-22.280",
+        "svx":   "0.110",
+        "vy":   "26.260",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -7984,10 +7984,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P190",
-        "vx":  -18.810,
-        "svx":  0.140,
-        "vy":  17.730,
-        "svy":  0.090,
+        "vx":   "-18.810",
+        "svx":   "0.140",
+        "vy":   "17.730",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -7997,10 +7997,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P191",
-        "vx":  -1.850,
-        "svx":  0.200,
-        "vy":  7.920,
-        "svy":  0.160,
+        "vx":   "-1.850",
+        "svx":   "0.200",
+        "vy":   "7.920",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -8010,10 +8010,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P192",
-        "vx":  -16.730,
-        "svx":  0.110,
-        "vy":  14.650,
-        "svy":  0.100,
+        "vx":   "-16.730",
+        "svx":   "0.110",
+        "vy":   "14.650",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -8023,10 +8023,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P193",
-        "vx":  -24.450,
-        "svx":  0.120,
-        "vy":  32.570,
-        "svy":  0.120,
+        "vx":   "-24.450",
+        "svx":   "0.120",
+        "vy":   "32.570",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -8036,10 +8036,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P194",
-        "vx":  -21.000,
-        "svx":  0.170,
-        "vy":  28.160,
-        "svy":  0.130,
+        "vx":   "-21.000",
+        "svx":   "0.170",
+        "vy":   "28.160",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -8049,10 +8049,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P195",
-        "vx":  -17.590,
-        "svx":  0.130,
-        "vy":  25.800,
-        "svy":  0.140,
+        "vx":   "-17.590",
+        "svx":   "0.130",
+        "vy":   "25.800",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -8062,10 +8062,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P196",
-        "vx":  -18.800,
-        "svx":  0.110,
-        "vy":  25.010,
-        "svy":  0.100,
+        "vx":   "-18.800",
+        "svx":   "0.110",
+        "vy":   "25.010",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -8075,10 +8075,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P197",
-        "vx":  -17.420,
-        "svx":  0.270,
-        "vy":  25.290,
-        "svy":  0.200,
+        "vx":   "-17.420",
+        "svx":   "0.270",
+        "vy":   "25.290",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -8088,10 +8088,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P198",
-        "vx":  -17.620,
-        "svx":  0.220,
-        "vy":  22.670,
-        "svy":  0.110,
+        "vx":   "-17.620",
+        "svx":   "0.220",
+        "vy":   "22.670",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -8101,10 +8101,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P199",
-        "vx":  -15.920,
-        "svx":  0.180,
-        "vy":  19.420,
-        "svy":  0.180,
+        "vx":   "-15.920",
+        "svx":   "0.180",
+        "vy":   "19.420",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -8114,10 +8114,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P200",
-        "vx":  -15.820,
-        "svx":  0.140,
-        "vy":  18.750,
-        "svy":  0.100,
+        "vx":   "-15.820",
+        "svx":   "0.140",
+        "vy":   "18.750",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -8127,10 +8127,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P201",
-        "vx":  -14.450,
-        "svx":  0.150,
-        "vy":  18.230,
-        "svy":  0.150,
+        "vx":   "-14.450",
+        "svx":   "0.150",
+        "vy":   "18.230",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -8140,10 +8140,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P202",
-        "vx":  -14.690,
-        "svx":  0.180,
-        "vy":  17.350,
-        "svy":  0.120,
+        "vx":   "-14.690",
+        "svx":   "0.180",
+        "vy":   "17.350",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -8153,10 +8153,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P203",
-        "vx":  -13.270,
-        "svx":  0.280,
-        "vy":  15.750,
-        "svy":  0.190,
+        "vx":   "-13.270",
+        "svx":   "0.280",
+        "vy":   "15.750",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -8166,10 +8166,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P204",
-        "vx":  -13.640,
-        "svx":  0.150,
-        "vy":  18.790,
-        "svy":  0.120,
+        "vx":   "-13.640",
+        "svx":   "0.150",
+        "vy":   "18.790",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -8179,10 +8179,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P205",
-        "vx":  -15.160,
-        "svx":  0.220,
-        "vy":  12.490,
-        "svy":  0.360,
+        "vx":   "-15.160",
+        "svx":   "0.220",
+        "vy":   "12.490",
+        "svy":   "0.360",
     },
     "geometry": {
          "type": "Point",
@@ -8192,10 +8192,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P206",
-        "vx":  -13.540,
-        "svx":  0.130,
-        "vy":  14.970,
-        "svy":  0.170,
+        "vx":   "-13.540",
+        "svx":   "0.130",
+        "vy":   "14.970",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -8205,10 +8205,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P207",
-        "vx":  -13.120,
-        "svx":  0.220,
-        "vy":  8.570,
-        "svy":  0.420,
+        "vx":   "-13.120",
+        "svx":   "0.220",
+        "vy":   "8.570",
+        "svy":   "0.420",
     },
     "geometry": {
          "type": "Point",
@@ -8218,10 +8218,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P208",
-        "vx":  -11.570,
-        "svx":  0.140,
-        "vy":  6.420,
-        "svy":  0.120,
+        "vx":   "-11.570",
+        "svx":   "0.140",
+        "vy":   "6.420",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -8231,10 +8231,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P209",
-        "vx":  -27.910,
-        "svx":  0.110,
-        "vy":  33.490,
-        "svy":  0.200,
+        "vx":   "-27.910",
+        "svx":   "0.110",
+        "vy":   "33.490",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -8244,10 +8244,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P210",
-        "vx":  -29.200,
-        "svx":  0.100,
-        "vy":  32.340,
-        "svy":  0.110,
+        "vx":   "-29.200",
+        "svx":   "0.100",
+        "vy":   "32.340",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -8257,10 +8257,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P211",
-        "vx":  -28.540,
-        "svx":  0.170,
-        "vy":  31.580,
-        "svy":  0.210,
+        "vx":   "-28.540",
+        "svx":   "0.170",
+        "vy":   "31.580",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -8270,10 +8270,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P212",
-        "vx":  -27.830,
-        "svx":  0.120,
-        "vy":  31.070,
-        "svy":  0.120,
+        "vx":   "-27.830",
+        "svx":   "0.120",
+        "vy":   "31.070",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -8283,10 +8283,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P213",
-        "vx":  -23.210,
-        "svx":  0.110,
-        "vy":  27.350,
-        "svy":  0.110,
+        "vx":   "-23.210",
+        "svx":   "0.110",
+        "vy":   "27.350",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -8296,10 +8296,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P214",
-        "vx":  -25.790,
-        "svx":  0.270,
-        "vy":  30.250,
-        "svy":  0.200,
+        "vx":   "-25.790",
+        "svx":   "0.270",
+        "vy":   "30.250",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -8309,10 +8309,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P215",
-        "vx":  -23.240,
-        "svx":  0.190,
-        "vy":  26.590,
-        "svy":  0.140,
+        "vx":   "-23.240",
+        "svx":   "0.190",
+        "vy":   "26.590",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -8322,10 +8322,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P216",
-        "vx":  -24.060,
-        "svx":  0.160,
-        "vy":  27.420,
-        "svy":  0.130,
+        "vx":   "-24.060",
+        "svx":   "0.160",
+        "vy":   "27.420",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -8335,10 +8335,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P217",
-        "vx":  -21.410,
-        "svx":  0.140,
-        "vy":  22.270,
-        "svy":  0.130,
+        "vx":   "-21.410",
+        "svx":   "0.140",
+        "vy":   "22.270",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -8348,10 +8348,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P218",
-        "vx":  -21.630,
-        "svx":  0.230,
-        "vy":  22.170,
-        "svy":  0.160,
+        "vx":   "-21.630",
+        "svx":   "0.230",
+        "vy":   "22.170",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -8361,10 +8361,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P219",
-        "vx":  -28.110,
-        "svx":  1.470,
-        "vy":  31.510,
-        "svy":  0.560,
+        "vx":   "-28.110",
+        "svx":   "1.470",
+        "vy":   "31.510",
+        "svy":   "0.560",
     },
     "geometry": {
          "type": "Point",
@@ -8374,10 +8374,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P220",
-        "vx":  -24.810,
-        "svx":  0.210,
-        "vy":  30.250,
-        "svy":  0.160,
+        "vx":   "-24.810",
+        "svx":   "0.210",
+        "vy":   "30.250",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -8387,10 +8387,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P221",
-        "vx":  -23.070,
-        "svx":  0.150,
-        "vy":  26.960,
-        "svy":  0.150,
+        "vx":   "-23.070",
+        "svx":   "0.150",
+        "vy":   "26.960",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -8400,10 +8400,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P222",
-        "vx":  -21.430,
-        "svx":  0.150,
-        "vy":  23.220,
-        "svy":  0.090,
+        "vx":   "-21.430",
+        "svx":   "0.150",
+        "vy":   "23.220",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -8413,10 +8413,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P223",
-        "vx":  -16.320,
-        "svx":  0.160,
-        "vy":  17.910,
-        "svy":  0.140,
+        "vx":   "-16.320",
+        "svx":   "0.160",
+        "vy":   "17.910",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -8426,10 +8426,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P224",
-        "vx":  -16.590,
-        "svx":  0.110,
-        "vy":  18.090,
-        "svy":  0.130,
+        "vx":   "-16.590",
+        "svx":   "0.110",
+        "vy":   "18.090",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -8439,10 +8439,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P225",
-        "vx":  -17.300,
-        "svx":  0.120,
-        "vy":  17.140,
-        "svy":  0.140,
+        "vx":   "-17.300",
+        "svx":   "0.120",
+        "vy":   "17.140",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -8452,10 +8452,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P226",
-        "vx":  -20.500,
-        "svx":  0.530,
-        "vy":  22.960,
-        "svy":  0.420,
+        "vx":   "-20.500",
+        "svx":   "0.530",
+        "vy":   "22.960",
+        "svy":   "0.420",
     },
     "geometry": {
          "type": "Point",
@@ -8465,10 +8465,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P227",
-        "vx":  -13.770,
-        "svx":  0.190,
-        "vy":  11.300,
-        "svy":  0.170,
+        "vx":   "-13.770",
+        "svx":   "0.190",
+        "vy":   "11.300",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -8478,10 +8478,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P228",
-        "vx":  -12.740,
-        "svx":  0.240,
-        "vy":  10.090,
-        "svy":  0.160,
+        "vx":   "-12.740",
+        "svx":   "0.240",
+        "vy":   "10.090",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -8491,10 +8491,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P229",
-        "vx":  -15.750,
-        "svx":  0.110,
-        "vy":  14.780,
-        "svy":  0.130,
+        "vx":   "-15.750",
+        "svx":   "0.110",
+        "vy":   "14.780",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -8504,10 +8504,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P230",
-        "vx":  -11.570,
-        "svx":  0.190,
-        "vy":  9.110,
-        "svy":  0.180,
+        "vx":   "-11.570",
+        "svx":   "0.190",
+        "vy":   "9.110",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -8517,10 +8517,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P231",
-        "vx":  -29.610,
-        "svx":  0.170,
-        "vy":  35.010,
-        "svy":  0.190,
+        "vx":   "-29.610",
+        "svx":   "0.170",
+        "vy":   "35.010",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -8530,10 +8530,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P232",
-        "vx":  -29.120,
-        "svx":  0.120,
-        "vy":  33.860,
-        "svy":  0.110,
+        "vx":   "-29.120",
+        "svx":   "0.120",
+        "vy":   "33.860",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -8543,10 +8543,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P233",
-        "vx":  -18.680,
-        "svx":  0.130,
-        "vy":  24.470,
-        "svy":  0.110,
+        "vx":   "-18.680",
+        "svx":   "0.130",
+        "vy":   "24.470",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -8556,10 +8556,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P234",
-        "vx":  -28.050,
-        "svx":  0.120,
-        "vy":  31.280,
-        "svy":  0.120,
+        "vx":   "-28.050",
+        "svx":   "0.120",
+        "vy":   "31.280",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -8569,10 +8569,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P235",
-        "vx":  -28.240,
-        "svx":  0.200,
-        "vy":  33.570,
-        "svy":  0.160,
+        "vx":   "-28.240",
+        "svx":   "0.200",
+        "vy":   "33.570",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -8582,10 +8582,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P236",
-        "vx":  -22.660,
-        "svx":  0.150,
-        "vy":  24.540,
-        "svy":  0.100,
+        "vx":   "-22.660",
+        "svx":   "0.150",
+        "vy":   "24.540",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -8595,10 +8595,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P237",
-        "vx":  -29.090,
-        "svx":  0.170,
-        "vy":  33.730,
-        "svy":  0.160,
+        "vx":   "-29.090",
+        "svx":   "0.170",
+        "vy":   "33.730",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -8608,10 +8608,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P238",
-        "vx":  -18.600,
-        "svx":  0.330,
-        "vy":  23.820,
-        "svy":  0.180,
+        "vx":   "-18.600",
+        "svx":   "0.330",
+        "vy":   "23.820",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -8621,10 +8621,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P239",
-        "vx":  -21.100,
-        "svx":  0.230,
-        "vy":  21.930,
-        "svy":  0.330,
+        "vx":   "-21.100",
+        "svx":   "0.230",
+        "vy":   "21.930",
+        "svy":   "0.330",
     },
     "geometry": {
          "type": "Point",
@@ -8634,10 +8634,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P240",
-        "vx":  -20.860,
-        "svx":  0.110,
-        "vy":  22.030,
-        "svy":  0.130,
+        "vx":   "-20.860",
+        "svx":   "0.110",
+        "vy":   "22.030",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -8647,10 +8647,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P241",
-        "vx":  -13.360,
-        "svx":  0.210,
-        "vy":  11.070,
-        "svy":  0.120,
+        "vx":   "-13.360",
+        "svx":   "0.210",
+        "vy":   "11.070",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -8660,10 +8660,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P242",
-        "vx":  -20.080,
-        "svx":  0.150,
-        "vy":  21.680,
-        "svy":  0.410,
+        "vx":   "-20.080",
+        "svx":   "0.150",
+        "vy":   "21.680",
+        "svy":   "0.410",
     },
     "geometry": {
          "type": "Point",
@@ -8673,10 +8673,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P243",
-        "vx":  -13.330,
-        "svx":  0.210,
-        "vy":  9.760,
-        "svy":  0.140,
+        "vx":   "-13.330",
+        "svx":   "0.210",
+        "vy":   "9.760",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -8686,10 +8686,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P244",
-        "vx":  -13.980,
-        "svx":  0.130,
-        "vy":  8.970,
-        "svy":  0.110,
+        "vx":   "-13.980",
+        "svx":   "0.130",
+        "vy":   "8.970",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -8699,10 +8699,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P245",
-        "vx":  -11.150,
-        "svx":  0.290,
-        "vy":  8.560,
-        "svy":  0.440,
+        "vx":   "-11.150",
+        "svx":   "0.290",
+        "vy":   "8.560",
+        "svy":   "0.440",
     },
     "geometry": {
          "type": "Point",
@@ -8712,10 +8712,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P247",
-        "vx":  -28.760,
-        "svx":  0.550,
-        "vy":  33.720,
-        "svy":  0.960,
+        "vx":   "-28.760",
+        "svx":   "0.550",
+        "vy":   "33.720",
+        "svy":   "0.960",
     },
     "geometry": {
          "type": "Point",
@@ -8725,10 +8725,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P248",
-        "vx":  -12.040,
-        "svx":  0.120,
-        "vy":  9.500,
-        "svy":  0.150,
+        "vx":   "-12.040",
+        "svx":   "0.120",
+        "vy":   "9.500",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -8738,10 +8738,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P249",
-        "vx":  -11.060,
-        "svx":  0.200,
-        "vy":  8.400,
-        "svy":  0.190,
+        "vx":   "-11.060",
+        "svx":   "0.200",
+        "vy":   "8.400",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -8751,10 +8751,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P250",
-        "vx":  -12.760,
-        "svx":  0.150,
-        "vy":  9.280,
-        "svy":  0.120,
+        "vx":   "-12.760",
+        "svx":   "0.150",
+        "vy":   "9.280",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -8764,10 +8764,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P251",
-        "vx":  -13.350,
-        "svx":  0.130,
-        "vy":  12.660,
-        "svy":  0.120,
+        "vx":   "-13.350",
+        "svx":   "0.130",
+        "vy":   "12.660",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -8777,10 +8777,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P252",
-        "vx":  -12.160,
-        "svx":  0.100,
-        "vy":  7.520,
-        "svy":  0.100,
+        "vx":   "-12.160",
+        "svx":   "0.100",
+        "vy":   "7.520",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -8790,10 +8790,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P253",
-        "vx":  -13.050,
-        "svx":  0.190,
-        "vy":  9.870,
-        "svy":  0.130,
+        "vx":   "-13.050",
+        "svx":   "0.190",
+        "vy":   "9.870",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -8803,10 +8803,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P254",
-        "vx":  -11.670,
-        "svx":  0.140,
-        "vy":  8.560,
-        "svy":  0.120,
+        "vx":   "-11.670",
+        "svx":   "0.140",
+        "vy":   "8.560",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -8816,10 +8816,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P255",
-        "vx":  -12.140,
-        "svx":  0.120,
-        "vy":  8.030,
-        "svy":  0.140,
+        "vx":   "-12.140",
+        "svx":   "0.120",
+        "vy":   "8.030",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -8829,10 +8829,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P256",
-        "vx":  -12.410,
-        "svx":  0.110,
-        "vy":  7.710,
-        "svy":  0.110,
+        "vx":   "-12.410",
+        "svx":   "0.110",
+        "vy":   "7.710",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -8842,10 +8842,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P257",
-        "vx":  -12.360,
-        "svx":  0.110,
-        "vy":  7.800,
-        "svy":  0.140,
+        "vx":   "-12.360",
+        "svx":   "0.110",
+        "vy":   "7.800",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -8855,10 +8855,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P258",
-        "vx":  -11.250,
-        "svx":  0.330,
-        "vy":  7.610,
-        "svy":  0.180,
+        "vx":   "-11.250",
+        "svx":   "0.330",
+        "vy":   "7.610",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -8868,10 +8868,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P259",
-        "vx":  -11.970,
-        "svx":  0.140,
-        "vy":  7.660,
-        "svy":  0.230,
+        "vx":   "-11.970",
+        "svx":   "0.140",
+        "vy":   "7.660",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -8881,10 +8881,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P260",
-        "vx":  -12.300,
-        "svx":  0.220,
-        "vy":  6.900,
-        "svy":  0.250,
+        "vx":   "-12.300",
+        "svx":   "0.220",
+        "vy":   "6.900",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -8894,10 +8894,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P261",
-        "vx":  -13.350,
-        "svx":  0.220,
-        "vy":  13.590,
-        "svy":  0.170,
+        "vx":   "-13.350",
+        "svx":   "0.220",
+        "vy":   "13.590",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -8907,10 +8907,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P262",
-        "vx":  -14.600,
-        "svx":  0.200,
-        "vy":  14.200,
-        "svy":  0.170,
+        "vx":   "-14.600",
+        "svx":   "0.200",
+        "vy":   "14.200",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -8920,10 +8920,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P263",
-        "vx":  -13.380,
-        "svx":  0.150,
-        "vy":  15.230,
-        "svy":  0.280,
+        "vx":   "-13.380",
+        "svx":   "0.150",
+        "vy":   "15.230",
+        "svy":   "0.280",
     },
     "geometry": {
          "type": "Point",
@@ -8933,10 +8933,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P264",
-        "vx":  -12.450,
-        "svx":  0.140,
-        "vy":  10.210,
-        "svy":  0.090,
+        "vx":   "-12.450",
+        "svx":   "0.140",
+        "vy":   "10.210",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -8946,10 +8946,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P265",
-        "vx":  -11.820,
-        "svx":  0.170,
-        "vy":  7.580,
-        "svy":  0.130,
+        "vx":   "-11.820",
+        "svx":   "0.170",
+        "vy":   "7.580",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -8959,10 +8959,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P266",
-        "vx":  -11.990,
-        "svx":  0.110,
-        "vy":  7.660,
-        "svy":  0.110,
+        "vx":   "-11.990",
+        "svx":   "0.110",
+        "vy":   "7.660",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -8972,10 +8972,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P267",
-        "vx":  -10.910,
-        "svx":  0.160,
-        "vy":  7.570,
-        "svy":  0.190,
+        "vx":   "-10.910",
+        "svx":   "0.160",
+        "vy":   "7.570",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -8985,10 +8985,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P268",
-        "vx":  -12.680,
-        "svx":  0.230,
-        "vy":  6.810,
-        "svy":  0.110,
+        "vx":   "-12.680",
+        "svx":   "0.230",
+        "vy":   "6.810",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -8998,10 +8998,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P269",
-        "vx":  -9.780,
-        "svx":  0.210,
-        "vy":  7.510,
-        "svy":  0.160,
+        "vx":   "-9.780",
+        "svx":   "0.210",
+        "vy":   "7.510",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -9011,10 +9011,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P270",
-        "vx":  -11.440,
-        "svx":  0.140,
-        "vy":  6.140,
-        "svy":  0.110,
+        "vx":   "-11.440",
+        "svx":   "0.140",
+        "vy":   "6.140",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -9024,10 +9024,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P271",
-        "vx":  -12.090,
-        "svx":  0.150,
-        "vy":  6.420,
-        "svy":  0.100,
+        "vx":   "-12.090",
+        "svx":   "0.150",
+        "vy":   "6.420",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -9037,10 +9037,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P272",
-        "vx":  -10.480,
-        "svx":  0.190,
-        "vy":  5.530,
-        "svy":  0.130,
+        "vx":   "-10.480",
+        "svx":   "0.190",
+        "vy":   "5.530",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -9050,10 +9050,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P273",
-        "vx":  -12.010,
-        "svx":  0.230,
-        "vy":  7.260,
-        "svy":  0.540,
+        "vx":   "-12.010",
+        "svx":   "0.230",
+        "vy":   "7.260",
+        "svy":   "0.540",
     },
     "geometry": {
          "type": "Point",
@@ -9063,10 +9063,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P274",
-        "vx":  -12.750,
-        "svx":  0.210,
-        "vy":  6.510,
-        "svy":  0.320,
+        "vx":   "-12.750",
+        "svx":   "0.210",
+        "vy":   "6.510",
+        "svy":   "0.320",
     },
     "geometry": {
          "type": "Point",
@@ -9076,10 +9076,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P275",
-        "vx":  -11.710,
-        "svx":  0.140,
-        "vy":  7.110,
-        "svy":  0.110,
+        "vx":   "-11.710",
+        "svx":   "0.140",
+        "vy":   "7.110",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -9089,10 +9089,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P276",
-        "vx":  -11.530,
-        "svx":  0.100,
-        "vy":  6.950,
-        "svy":  0.120,
+        "vx":   "-11.530",
+        "svx":   "0.100",
+        "vy":   "6.950",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -9102,10 +9102,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P277",
-        "vx":  -28.170,
-        "svx":  0.160,
-        "vy":  35.040,
-        "svy":  0.120,
+        "vx":   "-28.170",
+        "svx":   "0.160",
+        "vy":   "35.040",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -9115,10 +9115,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P278",
-        "vx":  -28.590,
-        "svx":  0.320,
-        "vy":  34.350,
-        "svy":  0.200,
+        "vx":   "-28.590",
+        "svx":   "0.320",
+        "vy":   "34.350",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -9128,10 +9128,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P279",
-        "vx":  -29.170,
-        "svx":  0.140,
-        "vy":  33.420,
-        "svy":  0.150,
+        "vx":   "-29.170",
+        "svx":   "0.140",
+        "vy":   "33.420",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -9141,10 +9141,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P280",
-        "vx":  -25.980,
-        "svx":  0.120,
-        "vy":  29.640,
-        "svy":  0.150,
+        "vx":   "-25.980",
+        "svx":   "0.120",
+        "vy":   "29.640",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -9154,10 +9154,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P281",
-        "vx":  -19.860,
-        "svx":  0.520,
-        "vy":  27.330,
-        "svy":  0.250,
+        "vx":   "-19.860",
+        "svx":   "0.520",
+        "vy":   "27.330",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -9167,10 +9167,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P282",
-        "vx":  -17.090,
-        "svx":  0.220,
-        "vy":  21.370,
-        "svy":  0.240,
+        "vx":   "-17.090",
+        "svx":   "0.220",
+        "vy":   "21.370",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -9180,10 +9180,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P283",
-        "vx":  -16.540,
-        "svx":  0.200,
-        "vy":  20.340,
-        "svy":  0.340,
+        "vx":   "-16.540",
+        "svx":   "0.200",
+        "vy":   "20.340",
+        "svy":   "0.340",
     },
     "geometry": {
          "type": "Point",
@@ -9193,10 +9193,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P284",
-        "vx":  -26.080,
-        "svx":  0.540,
-        "vy":  34.020,
-        "svy":  0.780,
+        "vx":   "-26.080",
+        "svx":   "0.540",
+        "vy":   "34.020",
+        "svy":   "0.780",
     },
     "geometry": {
          "type": "Point",
@@ -9206,10 +9206,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P285",
-        "vx":  -12.160,
-        "svx":  0.120,
-        "vy":  12.550,
-        "svy":  0.110,
+        "vx":   "-12.160",
+        "svx":   "0.120",
+        "vy":   "12.550",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -9219,10 +9219,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P286",
-        "vx":  -11.260,
-        "svx":  0.120,
-        "vy":  10.280,
-        "svy":  0.160,
+        "vx":   "-11.260",
+        "svx":   "0.120",
+        "vy":   "10.280",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -9232,10 +9232,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P287",
-        "vx":  -25.290,
-        "svx":  0.650,
-        "vy":  37.010,
-        "svy":  0.720,
+        "vx":   "-25.290",
+        "svx":   "0.650",
+        "vy":   "37.010",
+        "svy":   "0.720",
     },
     "geometry": {
          "type": "Point",
@@ -9245,10 +9245,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P288",
-        "vx":  -27.580,
-        "svx":  0.570,
-        "vy":  33.390,
-        "svy":  0.210,
+        "vx":   "-27.580",
+        "svx":   "0.570",
+        "vy":   "33.390",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -9258,10 +9258,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P289",
-        "vx":  -29.210,
-        "svx":  0.110,
-        "vy":  32.260,
-        "svy":  0.100,
+        "vx":   "-29.210",
+        "svx":   "0.110",
+        "vy":   "32.260",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -9271,10 +9271,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P290",
-        "vx":  -10.430,
-        "svx":  0.300,
-        "vy":  10.160,
-        "svy":  0.170,
+        "vx":   "-10.430",
+        "svx":   "0.300",
+        "vy":   "10.160",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -9284,10 +9284,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P291",
-        "vx":  -26.820,
-        "svx":  0.110,
-        "vy":  32.310,
-        "svy":  0.120,
+        "vx":   "-26.820",
+        "svx":   "0.110",
+        "vy":   "32.310",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -9297,10 +9297,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P292",
-        "vx":  -11.040,
-        "svx":  0.570,
-        "vy":  14.970,
-        "svy":  0.350,
+        "vx":   "-11.040",
+        "svx":   "0.570",
+        "vy":   "14.970",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -9310,10 +9310,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P293",
-        "vx":  -10.570,
-        "svx":  0.140,
-        "vy":  13.100,
-        "svy":  0.150,
+        "vx":   "-10.570",
+        "svx":   "0.140",
+        "vy":   "13.100",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -9323,10 +9323,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P294",
-        "vx":  -10.320,
-        "svx":  0.100,
-        "vy":  12.310,
-        "svy":  0.140,
+        "vx":   "-10.320",
+        "svx":   "0.100",
+        "vy":   "12.310",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -9336,10 +9336,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P295",
-        "vx":  -27.910,
-        "svx":  0.120,
-        "vy":  33.540,
-        "svy":  0.180,
+        "vx":   "-27.910",
+        "svx":   "0.120",
+        "vy":   "33.540",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -9349,10 +9349,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P296",
-        "vx":  -10.660,
-        "svx":  0.120,
-        "vy":  13.710,
-        "svy":  0.210,
+        "vx":   "-10.660",
+        "svx":   "0.120",
+        "vy":   "13.710",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -9362,10 +9362,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P297",
-        "vx":  -24.110,
-        "svx":  0.260,
-        "vy":  31.200,
-        "svy":  0.490,
+        "vx":   "-24.110",
+        "svx":   "0.260",
+        "vy":   "31.200",
+        "svy":   "0.490",
     },
     "geometry": {
          "type": "Point",
@@ -9375,10 +9375,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P298",
-        "vx":  -11.980,
-        "svx":  0.150,
-        "vy":  16.670,
-        "svy":  0.320,
+        "vx":   "-11.980",
+        "svx":   "0.150",
+        "vy":   "16.670",
+        "svy":   "0.320",
     },
     "geometry": {
          "type": "Point",
@@ -9388,10 +9388,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P299",
-        "vx":  -8.580,
-        "svx":  1.510,
-        "vy":  15.630,
-        "svy":  1.660,
+        "vx":   "-8.580",
+        "svx":   "1.510",
+        "vy":   "15.630",
+        "svy":   "1.660",
     },
     "geometry": {
          "type": "Point",
@@ -9401,10 +9401,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P300",
-        "vx":  -6.960,
-        "svx":  0.700,
-        "vy":  13.760,
-        "svy":  0.360,
+        "vx":   "-6.960",
+        "svx":   "0.700",
+        "vy":   "13.760",
+        "svy":   "0.360",
     },
     "geometry": {
          "type": "Point",
@@ -9414,10 +9414,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P301",
-        "vx":  -10.910,
-        "svx":  0.130,
-        "vy":  8.490,
-        "svy":  0.120,
+        "vx":   "-10.910",
+        "svx":   "0.130",
+        "vy":   "8.490",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -9427,10 +9427,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P302",
-        "vx":  -6.900,
-        "svx":  0.450,
-        "vy":  10.630,
-        "svy":  0.200,
+        "vx":   "-6.900",
+        "svx":   "0.450",
+        "vy":   "10.630",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -9440,10 +9440,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P303",
-        "vx":  -11.820,
-        "svx":  0.100,
-        "vy":  8.250,
-        "svy":  0.100,
+        "vx":   "-11.820",
+        "svx":   "0.100",
+        "vy":   "8.250",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -9453,10 +9453,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P304",
-        "vx":  -12.740,
-        "svx":  0.120,
-        "vy":  7.660,
-        "svy":  0.150,
+        "vx":   "-12.740",
+        "svx":   "0.120",
+        "vy":   "7.660",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -9466,10 +9466,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P305",
-        "vx":  -11.580,
-        "svx":  0.100,
-        "vy":  8.030,
-        "svy":  0.130,
+        "vx":   "-11.580",
+        "svx":   "0.100",
+        "vy":   "8.030",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -9479,10 +9479,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P306",
-        "vx":  -11.860,
-        "svx":  0.130,
-        "vy":  7.570,
-        "svy":  0.110,
+        "vx":   "-11.860",
+        "svx":   "0.130",
+        "vy":   "7.570",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -9492,10 +9492,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P307",
-        "vx":  -14.110,
-        "svx":  0.130,
-        "vy":  9.690,
-        "svy":  0.230,
+        "vx":   "-14.110",
+        "svx":   "0.130",
+        "vy":   "9.690",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -9505,10 +9505,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P308",
-        "vx":  -11.570,
-        "svx":  0.230,
-        "vy":  7.600,
-        "svy":  0.230,
+        "vx":   "-11.570",
+        "svx":   "0.230",
+        "vy":   "7.600",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -9518,10 +9518,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P309",
-        "vx":  -11.620,
-        "svx":  0.100,
-        "vy":  7.270,
-        "svy":  0.110,
+        "vx":   "-11.620",
+        "svx":   "0.100",
+        "vy":   "7.270",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -9531,10 +9531,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P310",
-        "vx":  -11.240,
-        "svx":  0.100,
-        "vy":  6.920,
-        "svy":  0.110,
+        "vx":   "-11.240",
+        "svx":   "0.100",
+        "vy":   "6.920",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -9544,10 +9544,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P311",
-        "vx":  -10.560,
-        "svx":  0.510,
-        "vy":  7.330,
-        "svy":  0.350,
+        "vx":   "-10.560",
+        "svx":   "0.510",
+        "vy":   "7.330",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -9557,10 +9557,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P312",
-        "vx":  -24.120,
-        "svx":  0.130,
-        "vy":  23.800,
-        "svy":  0.110,
+        "vx":   "-24.120",
+        "svx":   "0.130",
+        "vy":   "23.800",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -9570,10 +9570,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P313",
-        "vx":  -23.610,
-        "svx":  0.120,
-        "vy":  20.900,
-        "svy":  0.110,
+        "vx":   "-23.610",
+        "svx":   "0.120",
+        "vy":   "20.900",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -9583,10 +9583,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P314",
-        "vx":  -23.700,
-        "svx":  0.110,
-        "vy":  19.110,
-        "svy":  0.090,
+        "vx":   "-23.700",
+        "svx":   "0.110",
+        "vy":   "19.110",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -9596,10 +9596,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P315",
-        "vx":  -22.990,
-        "svx":  0.120,
-        "vy":  19.740,
-        "svy":  0.100,
+        "vx":   "-22.990",
+        "svx":   "0.120",
+        "vy":   "19.740",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -9609,10 +9609,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P316",
-        "vx":  -1.680,
-        "svx":  0.150,
-        "vy":  9.330,
-        "svy":  0.130,
+        "vx":   "-1.680",
+        "svx":   "0.150",
+        "vy":   "9.330",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -9622,10 +9622,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P317",
-        "vx":  -18.670,
-        "svx":  0.220,
-        "vy":  13.900,
-        "svy":  0.120,
+        "vx":   "-18.670",
+        "svx":   "0.220",
+        "vy":   "13.900",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -9635,10 +9635,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P318",
-        "vx":  -19.530,
-        "svx":  0.240,
-        "vy":  14.440,
-        "svy":  0.130,
+        "vx":   "-19.530",
+        "svx":   "0.240",
+        "vy":   "14.440",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -9648,10 +9648,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P319",
-        "vx":  -18.190,
-        "svx":  0.140,
-        "vy":  8.040,
-        "svy":  0.150,
+        "vx":   "-18.190",
+        "svx":   "0.140",
+        "vy":   "8.040",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -9661,10 +9661,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P320",
-        "vx":  -18.340,
-        "svx":  0.310,
-        "vy":  14.260,
-        "svy":  0.210,
+        "vx":   "-18.340",
+        "svx":   "0.310",
+        "vy":   "14.260",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -9674,10 +9674,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P321",
-        "vx":  -15.890,
-        "svx":  0.400,
-        "vy":  15.220,
-        "svy":  0.340,
+        "vx":   "-15.890",
+        "svx":   "0.400",
+        "vy":   "15.220",
+        "svy":   "0.340",
     },
     "geometry": {
          "type": "Point",
@@ -9687,10 +9687,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P322",
-        "vx":  -11.600,
-        "svx":  0.270,
-        "vy":  7.130,
-        "svy":  0.190,
+        "vx":   "-11.600",
+        "svx":   "0.270",
+        "vy":   "7.130",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -9700,10 +9700,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P323",
-        "vx":  32.170,
-        "svx":  26.030,
-        "vy":  28.180,
-        "svy":  8.760,
+        "vx":   "32.170",
+        "svx":   "26.030",
+        "vy":   "28.180",
+        "svy":   "8.760",
     },
     "geometry": {
          "type": "Point",
@@ -9713,10 +9713,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P324",
-        "vx":  -11.960,
-        "svx":  0.190,
-        "vy":  13.270,
-        "svy":  0.100,
+        "vx":   "-11.960",
+        "svx":   "0.190",
+        "vy":   "13.270",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -9726,10 +9726,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P325",
-        "vx":  -2.160,
-        "svx":  0.220,
-        "vy":  10.210,
-        "svy":  0.130,
+        "vx":   "-2.160",
+        "svx":   "0.220",
+        "vy":   "10.210",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -9739,10 +9739,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P326",
-        "vx":  -7.520,
-        "svx":  0.130,
-        "vy":  8.700,
-        "svy":  0.150,
+        "vx":   "-7.520",
+        "svx":   "0.130",
+        "vy":   "8.700",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -9752,10 +9752,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P327",
-        "vx":  -7.760,
-        "svx":  0.480,
-        "vy":  7.900,
-        "svy":  0.150,
+        "vx":   "-7.760",
+        "svx":   "0.480",
+        "vy":   "7.900",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -9765,10 +9765,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P329",
-        "vx":  -14.770,
-        "svx":  0.240,
-        "vy":  12.120,
-        "svy":  0.120,
+        "vx":   "-14.770",
+        "svx":   "0.240",
+        "vy":   "12.120",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -9778,10 +9778,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P330",
-        "vx":  -9.920,
-        "svx":  0.170,
-        "vy":  7.190,
-        "svy":  0.120,
+        "vx":   "-9.920",
+        "svx":   "0.170",
+        "vy":   "7.190",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -9791,10 +9791,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P331",
-        "vx":  -6.800,
-        "svx":  0.210,
-        "vy":  7.480,
-        "svy":  0.140,
+        "vx":   "-6.800",
+        "svx":   "0.210",
+        "vy":   "7.480",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -9804,10 +9804,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P332",
-        "vx":  -7.880,
-        "svx":  0.150,
-        "vy":  7.200,
-        "svy":  0.120,
+        "vx":   "-7.880",
+        "svx":   "0.150",
+        "vy":   "7.200",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -9817,10 +9817,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P333",
-        "vx":  -12.750,
-        "svx":  0.300,
-        "vy":  8.330,
-        "svy":  0.190,
+        "vx":   "-12.750",
+        "svx":   "0.300",
+        "vy":   "8.330",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -9830,10 +9830,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P334",
-        "vx":  -11.560,
-        "svx":  0.180,
-        "vy":  7.090,
-        "svy":  0.300,
+        "vx":   "-11.560",
+        "svx":   "0.180",
+        "vy":   "7.090",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -9843,10 +9843,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P335",
-        "vx":  -10.650,
-        "svx":  0.310,
-        "vy":  7.730,
-        "svy":  0.260,
+        "vx":   "-10.650",
+        "svx":   "0.310",
+        "vy":   "7.730",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -9856,10 +9856,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P336",
-        "vx":  -10.520,
-        "svx":  0.210,
-        "vy":  6.450,
-        "svy":  0.170,
+        "vx":   "-10.520",
+        "svx":   "0.210",
+        "vy":   "6.450",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -9869,10 +9869,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P337",
-        "vx":  -9.210,
-        "svx":  0.300,
-        "vy":  7.350,
-        "svy":  0.280,
+        "vx":   "-9.210",
+        "svx":   "0.300",
+        "vy":   "7.350",
+        "svy":   "0.280",
     },
     "geometry": {
          "type": "Point",
@@ -9882,10 +9882,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P338",
-        "vx":  -8.010,
-        "svx":  0.190,
-        "vy":  6.510,
-        "svy":  0.120,
+        "vx":   "-8.010",
+        "svx":   "0.190",
+        "vy":   "6.510",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -9895,10 +9895,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P339",
-        "vx":  -10.820,
-        "svx":  0.180,
-        "vy":  6.510,
-        "svy":  0.120,
+        "vx":   "-10.820",
+        "svx":   "0.180",
+        "vy":   "6.510",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -9908,10 +9908,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P340",
-        "vx":  -11.640,
-        "svx":  1.230,
-        "vy":  3.460,
-        "svy":  1.470,
+        "vx":   "-11.640",
+        "svx":   "1.230",
+        "vy":   "3.460",
+        "svy":   "1.470",
     },
     "geometry": {
          "type": "Point",
@@ -9921,10 +9921,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P341",
-        "vx":  -8.620,
-        "svx":  0.150,
-        "vy":  6.310,
-        "svy":  0.110,
+        "vx":   "-8.620",
+        "svx":   "0.150",
+        "vy":   "6.310",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -9934,10 +9934,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P343",
-        "vx":  -6.290,
-        "svx":  0.230,
-        "vy":  7.450,
-        "svy":  0.150,
+        "vx":   "-6.290",
+        "svx":   "0.230",
+        "vy":   "7.450",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -9947,10 +9947,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P344",
-        "vx":  -10.850,
-        "svx":  0.150,
-        "vy":  6.180,
-        "svy":  0.110,
+        "vx":   "-10.850",
+        "svx":   "0.150",
+        "vy":   "6.180",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -9960,10 +9960,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P345",
-        "vx":  -10.090,
-        "svx":  0.200,
-        "vy":  6.420,
-        "svy":  0.140,
+        "vx":   "-10.090",
+        "svx":   "0.200",
+        "vy":   "6.420",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -9973,10 +9973,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P346",
-        "vx":  -11.280,
-        "svx":  0.410,
-        "vy":  5.800,
-        "svy":  0.160,
+        "vx":   "-11.280",
+        "svx":   "0.410",
+        "vy":   "5.800",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -9986,10 +9986,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P347",
-        "vx":  -6.930,
-        "svx":  0.130,
-        "vy":  4.110,
-        "svy":  0.110,
+        "vx":   "-6.930",
+        "svx":   "0.130",
+        "vy":   "4.110",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -9999,10 +9999,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P348",
-        "vx":  -8.250,
-        "svx":  0.130,
-        "vy":  5.010,
-        "svy":  0.090,
+        "vx":   "-8.250",
+        "svx":   "0.130",
+        "vy":   "5.010",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -10012,10 +10012,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P349",
-        "vx":  -8.620,
-        "svx":  0.110,
-        "vy":  5.930,
-        "svy":  0.190,
+        "vx":   "-8.620",
+        "svx":   "0.110",
+        "vy":   "5.930",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -10025,10 +10025,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P350",
-        "vx":  -3.820,
-        "svx":  0.180,
-        "vy":  -0.300,
-        "svy":  0.240,
+        "vx":   "-3.820",
+        "svx":   "0.180",
+        "vy":   "-0.300",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -10038,10 +10038,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P351",
-        "vx":  -3.240,
-        "svx":  0.220,
-        "vy":  -0.610,
-        "svy":  0.240,
+        "vx":   "-3.240",
+        "svx":   "0.220",
+        "vy":   "-0.610",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -10051,10 +10051,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P352",
-        "vx":  -3.680,
-        "svx":  0.210,
-        "vy":  -1.140,
-        "svy":  0.160,
+        "vx":   "-3.680",
+        "svx":   "0.210",
+        "vy":   "-1.140",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -10064,10 +10064,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P353",
-        "vx":  -3.420,
-        "svx":  0.130,
-        "vy":  -0.770,
-        "svy":  0.140,
+        "vx":   "-3.420",
+        "svx":   "0.130",
+        "vy":   "-0.770",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -10077,10 +10077,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P354",
-        "vx":  -3.020,
-        "svx":  0.100,
-        "vy":  -0.790,
-        "svy":  0.100,
+        "vx":   "-3.020",
+        "svx":   "0.100",
+        "vy":   "-0.790",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -10090,10 +10090,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P355",
-        "vx":  -2.540,
-        "svx":  0.190,
-        "vy":  -0.450,
-        "svy":  0.180,
+        "vx":   "-2.540",
+        "svx":   "0.190",
+        "vy":   "-0.450",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -10103,10 +10103,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P356",
-        "vx":  -2.760,
-        "svx":  0.110,
-        "vy":  -0.920,
-        "svy":  0.140,
+        "vx":   "-2.760",
+        "svx":   "0.110",
+        "vy":   "-0.920",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -10116,10 +10116,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P357",
-        "vx":  -3.130,
-        "svx":  0.240,
-        "vy":  -0.550,
-        "svy":  0.140,
+        "vx":   "-3.130",
+        "svx":   "0.240",
+        "vy":   "-0.550",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -10129,10 +10129,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P358",
-        "vx":  -1.710,
-        "svx":  0.190,
-        "vy":  -0.010,
-        "svy":  0.110,
+        "vx":   "-1.710",
+        "svx":   "0.190",
+        "vy":   "-0.010",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -10142,10 +10142,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P359",
-        "vx":  -3.310,
-        "svx":  0.130,
-        "vy":  -2.000,
-        "svy":  0.120,
+        "vx":   "-3.310",
+        "svx":   "0.130",
+        "vy":   "-2.000",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -10155,10 +10155,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P360",
-        "vx":  -2.740,
-        "svx":  0.100,
-        "vy":  -2.850,
-        "svy":  0.080,
+        "vx":   "-2.740",
+        "svx":   "0.100",
+        "vy":   "-2.850",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -10168,10 +10168,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P361",
-        "vx":  -3.180,
-        "svx":  0.660,
-        "vy":  -4.590,
-        "svy":  0.440,
+        "vx":   "-3.180",
+        "svx":   "0.660",
+        "vy":   "-4.590",
+        "svy":   "0.440",
     },
     "geometry": {
          "type": "Point",
@@ -10181,10 +10181,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P362",
-        "vx":  1.120,
-        "svx":  0.370,
-        "vy":  9.610,
-        "svy":  0.170,
+        "vx":   "1.120",
+        "svx":   "0.370",
+        "vy":   "9.610",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -10194,10 +10194,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P363",
-        "vx":  0.250,
-        "svx":  0.250,
-        "vy":  8.790,
-        "svy":  0.140,
+        "vx":   "0.250",
+        "svx":   "0.250",
+        "vy":   "8.790",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -10207,10 +10207,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P364",
-        "vx":  4.470,
-        "svx":  0.190,
-        "vy":  11.010,
-        "svy":  0.130,
+        "vx":   "4.470",
+        "svx":   "0.190",
+        "vy":   "11.010",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -10220,10 +10220,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P365",
-        "vx":  3.510,
-        "svx":  0.270,
-        "vy":  9.740,
-        "svy":  0.170,
+        "vx":   "3.510",
+        "svx":   "0.270",
+        "vy":   "9.740",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -10233,10 +10233,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P366",
-        "vx":  3.250,
-        "svx":  0.550,
-        "vy":  8.430,
-        "svy":  0.230,
+        "vx":   "3.250",
+        "svx":   "0.550",
+        "vy":   "8.430",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -10246,10 +10246,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P367",
-        "vx":  6.180,
-        "svx":  0.260,
-        "vy":  9.180,
-        "svy":  0.140,
+        "vx":   "6.180",
+        "svx":   "0.260",
+        "vy":   "9.180",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -10259,10 +10259,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P368",
-        "vx":  -2.760,
-        "svx":  0.160,
-        "vy":  7.530,
-        "svy":  0.130,
+        "vx":   "-2.760",
+        "svx":   "0.160",
+        "vy":   "7.530",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -10272,10 +10272,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P369",
-        "vx":  -1.070,
-        "svx":  0.180,
-        "vy":  6.960,
-        "svy":  0.100,
+        "vx":   "-1.070",
+        "svx":   "0.180",
+        "vy":   "6.960",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -10285,10 +10285,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P370",
-        "vx":  -3.350,
-        "svx":  0.180,
-        "vy":  6.110,
-        "svy":  0.110,
+        "vx":   "-3.350",
+        "svx":   "0.180",
+        "vy":   "6.110",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -10298,10 +10298,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P371",
-        "vx":  -1.050,
-        "svx":  0.200,
-        "vy":  6.240,
-        "svy":  0.100,
+        "vx":   "-1.050",
+        "svx":   "0.200",
+        "vy":   "6.240",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -10311,10 +10311,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P372",
-        "vx":  -1.050,
-        "svx":  0.110,
-        "vy":  0.120,
-        "svy":  0.110,
+        "vx":   "-1.050",
+        "svx":   "0.110",
+        "vy":   "0.120",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -10324,10 +10324,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P373",
-        "vx":  -0.490,
-        "svx":  0.250,
-        "vy":  6.330,
-        "svy":  0.200,
+        "vx":   "-0.490",
+        "svx":   "0.250",
+        "vy":   "6.330",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -10337,10 +10337,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P374",
-        "vx":  2.160,
-        "svx":  0.150,
-        "vy":  7.270,
-        "svy":  0.150,
+        "vx":   "2.160",
+        "svx":   "0.150",
+        "vy":   "7.270",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -10350,10 +10350,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P375",
-        "vx":  3.330,
-        "svx":  0.380,
-        "vy":  7.330,
-        "svy":  0.270,
+        "vx":   "3.330",
+        "svx":   "0.380",
+        "vy":   "7.330",
+        "svy":   "0.270",
     },
     "geometry": {
          "type": "Point",
@@ -10363,10 +10363,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P376",
-        "vx":  2.530,
-        "svx":  0.120,
-        "vy":  6.560,
-        "svy":  0.110,
+        "vx":   "2.530",
+        "svx":   "0.120",
+        "vy":   "6.560",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -10376,10 +10376,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P377",
-        "vx":  0.920,
-        "svx":  0.170,
-        "vy":  5.320,
-        "svy":  0.110,
+        "vx":   "0.920",
+        "svx":   "0.170",
+        "vy":   "5.320",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -10389,10 +10389,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P378",
-        "vx":  2.230,
-        "svx":  0.210,
-        "vy":  5.660,
-        "svy":  0.130,
+        "vx":   "2.230",
+        "svx":   "0.210",
+        "vy":   "5.660",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -10402,10 +10402,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P379",
-        "vx":  1.510,
-        "svx":  0.210,
-        "vy":  5.100,
-        "svy":  0.120,
+        "vx":   "1.510",
+        "svx":   "0.210",
+        "vy":   "5.100",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -10415,10 +10415,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P380",
-        "vx":  -4.010,
-        "svx":  0.130,
-        "vy":  4.600,
-        "svy":  0.090,
+        "vx":   "-4.010",
+        "svx":   "0.130",
+        "vy":   "4.600",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -10428,10 +10428,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P381",
-        "vx":  -1.910,
-        "svx":  0.160,
-        "vy":  2.410,
-        "svy":  0.110,
+        "vx":   "-1.910",
+        "svx":   "0.160",
+        "vy":   "2.410",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -10441,10 +10441,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P382",
-        "vx":  -2.470,
-        "svx":  0.150,
-        "vy":  4.750,
-        "svy":  0.160,
+        "vx":   "-2.470",
+        "svx":   "0.150",
+        "vy":   "4.750",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -10454,10 +10454,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P383",
-        "vx":  0.980,
-        "svx":  0.240,
-        "vy":  4.620,
-        "svy":  0.250,
+        "vx":   "0.980",
+        "svx":   "0.240",
+        "vy":   "4.620",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -10467,10 +10467,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P384",
-        "vx":  1.930,
-        "svx":  0.310,
-        "vy":  5.130,
-        "svy":  0.220,
+        "vx":   "1.930",
+        "svx":   "0.310",
+        "vy":   "5.130",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -10480,10 +10480,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P385",
-        "vx":  0.270,
-        "svx":  0.160,
-        "vy":  3.500,
-        "svy":  0.200,
+        "vx":   "0.270",
+        "svx":   "0.160",
+        "vy":   "3.500",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -10493,10 +10493,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P386",
-        "vx":  -1.860,
-        "svx":  0.120,
-        "vy":  0.920,
-        "svy":  0.120,
+        "vx":   "-1.860",
+        "svx":   "0.120",
+        "vy":   "0.920",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -10506,10 +10506,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P387",
-        "vx":  0.590,
-        "svx":  0.160,
-        "vy":  2.590,
-        "svy":  0.180,
+        "vx":   "0.590",
+        "svx":   "0.160",
+        "vy":   "2.590",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -10519,10 +10519,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P388",
-        "vx":  -4.340,
-        "svx":  0.110,
-        "vy":  3.000,
-        "svy":  0.090,
+        "vx":   "-4.340",
+        "svx":   "0.110",
+        "vy":   "3.000",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -10532,10 +10532,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P389",
-        "vx":  -1.960,
-        "svx":  0.110,
-        "vy":  -2.160,
-        "svy":  0.930,
+        "vx":   "-1.960",
+        "svx":   "0.110",
+        "vy":   "-2.160",
+        "svy":   "0.930",
     },
     "geometry": {
          "type": "Point",
@@ -10545,10 +10545,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P390",
-        "vx":  -3.060,
-        "svx":  0.140,
-        "vy":  0.810,
-        "svy":  0.120,
+        "vx":   "-3.060",
+        "svx":   "0.140",
+        "vy":   "0.810",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -10558,10 +10558,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P391",
-        "vx":  -2.830,
-        "svx":  0.210,
-        "vy":  1.570,
-        "svy":  0.310,
+        "vx":   "-2.830",
+        "svx":   "0.210",
+        "vy":   "1.570",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -10571,10 +10571,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P392",
-        "vx":  -2.790,
-        "svx":  0.110,
-        "vy":  0.160,
-        "svy":  0.160,
+        "vx":   "-2.790",
+        "svx":   "0.110",
+        "vy":   "0.160",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -10584,10 +10584,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P393",
-        "vx":  -2.320,
-        "svx":  0.260,
-        "vy":  -0.090,
-        "svy":  0.140,
+        "vx":   "-2.320",
+        "svx":   "0.260",
+        "vy":   "-0.090",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -10597,10 +10597,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P394",
-        "vx":  -1.430,
-        "svx":  0.110,
-        "vy":  0.450,
-        "svy":  0.110,
+        "vx":   "-1.430",
+        "svx":   "0.110",
+        "vy":   "0.450",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -10610,10 +10610,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P395",
-        "vx":  6.220,
-        "svx":  0.310,
-        "vy":  8.320,
-        "svy":  0.160,
+        "vx":   "6.220",
+        "svx":   "0.310",
+        "vy":   "8.320",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -10623,10 +10623,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P396",
-        "vx":  5.020,
-        "svx":  0.460,
-        "vy":  9.060,
-        "svy":  0.150,
+        "vx":   "5.020",
+        "svx":   "0.460",
+        "vy":   "9.060",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -10636,10 +10636,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P397",
-        "vx":  6.870,
-        "svx":  0.420,
-        "vy":  8.240,
-        "svy":  0.150,
+        "vx":   "6.870",
+        "svx":   "0.420",
+        "vy":   "8.240",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -10649,10 +10649,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P398",
-        "vx":  8.890,
-        "svx":  0.210,
-        "vy":  8.090,
-        "svy":  0.140,
+        "vx":   "8.890",
+        "svx":   "0.210",
+        "vy":   "8.090",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -10662,10 +10662,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P399",
-        "vx":  7.570,
-        "svx":  0.530,
-        "vy":  6.730,
-        "svy":  0.440,
+        "vx":   "7.570",
+        "svx":   "0.530",
+        "vy":   "6.730",
+        "svy":   "0.440",
     },
     "geometry": {
          "type": "Point",
@@ -10675,10 +10675,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P400",
-        "vx":  7.680,
-        "svx":  0.960,
-        "vy":  6.120,
-        "svy":  0.710,
+        "vx":   "7.680",
+        "svx":   "0.960",
+        "vy":   "6.120",
+        "svy":   "0.710",
     },
     "geometry": {
          "type": "Point",
@@ -10688,10 +10688,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P401",
-        "vx":  13.290,
-        "svx":  0.130,
-        "vy":  9.250,
-        "svy":  0.100,
+        "vx":   "13.290",
+        "svx":   "0.130",
+        "vy":   "9.250",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -10701,10 +10701,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P402",
-        "vx":  12.250,
-        "svx":  0.240,
-        "vy":  9.460,
-        "svy":  0.140,
+        "vx":   "12.250",
+        "svx":   "0.240",
+        "vy":   "9.460",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -10714,10 +10714,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P403",
-        "vx":  9.390,
-        "svx":  0.250,
-        "vy":  9.070,
-        "svy":  0.420,
+        "vx":   "9.390",
+        "svx":   "0.250",
+        "vy":   "9.070",
+        "svy":   "0.420",
     },
     "geometry": {
          "type": "Point",
@@ -10727,10 +10727,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P404",
-        "vx":  3.770,
-        "svx":  0.130,
-        "vy":  7.210,
-        "svy":  0.150,
+        "vx":   "3.770",
+        "svx":   "0.130",
+        "vy":   "7.210",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -10740,10 +10740,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P405",
-        "vx":  5.500,
-        "svx":  0.170,
-        "vy":  7.430,
-        "svy":  0.140,
+        "vx":   "5.500",
+        "svx":   "0.170",
+        "vy":   "7.430",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -10753,10 +10753,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P406",
-        "vx":  2.580,
-        "svx":  0.140,
-        "vy":  5.990,
-        "svy":  0.170,
+        "vx":   "2.580",
+        "svx":   "0.140",
+        "vy":   "5.990",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -10766,10 +10766,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P407",
-        "vx":  11.130,
-        "svx":  0.260,
-        "vy":  8.120,
-        "svy":  0.110,
+        "vx":   "11.130",
+        "svx":   "0.260",
+        "vy":   "8.120",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -10779,10 +10779,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P408",
-        "vx":  4.260,
-        "svx":  0.150,
-        "vy":  6.670,
-        "svy":  0.180,
+        "vx":   "4.260",
+        "svx":   "0.150",
+        "vy":   "6.670",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -10792,10 +10792,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P409",
-        "vx":  3.980,
-        "svx":  0.140,
-        "vy":  6.440,
-        "svy":  0.190,
+        "vx":   "3.980",
+        "svx":   "0.140",
+        "vy":   "6.440",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -10805,10 +10805,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P410",
-        "vx":  2.430,
-        "svx":  0.470,
-        "vy":  7.680,
-        "svy":  0.320,
+        "vx":   "2.430",
+        "svx":   "0.470",
+        "vy":   "7.680",
+        "svy":   "0.320",
     },
     "geometry": {
          "type": "Point",
@@ -10818,10 +10818,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P411",
-        "vx":  3.550,
-        "svx":  0.300,
-        "vy":  6.600,
-        "svy":  0.290,
+        "vx":   "3.550",
+        "svx":   "0.300",
+        "vy":   "6.600",
+        "svy":   "0.290",
     },
     "geometry": {
          "type": "Point",
@@ -10831,10 +10831,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P412",
-        "vx":  2.360,
-        "svx":  0.230,
-        "vy":  5.250,
-        "svy":  0.100,
+        "vx":   "2.360",
+        "svx":   "0.230",
+        "vy":   "5.250",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -10844,10 +10844,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P413",
-        "vx":  -0.270,
-        "svx":  0.150,
-        "vy":  0.960,
-        "svy":  0.150,
+        "vx":   "-0.270",
+        "svx":   "0.150",
+        "vy":   "0.960",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -10857,10 +10857,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P414",
-        "vx":  3.280,
-        "svx":  0.230,
-        "vy":  5.170,
-        "svy":  0.110,
+        "vx":   "3.280",
+        "svx":   "0.230",
+        "vy":   "5.170",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -10870,10 +10870,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P415",
-        "vx":  7.060,
-        "svx":  0.220,
-        "vy":  7.600,
-        "svy":  0.130,
+        "vx":   "7.060",
+        "svx":   "0.220",
+        "vy":   "7.600",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -10883,10 +10883,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P416",
-        "vx":  1.470,
-        "svx":  0.190,
-        "vy":  2.950,
-        "svy":  0.410,
+        "vx":   "1.470",
+        "svx":   "0.190",
+        "vy":   "2.950",
+        "svy":   "0.410",
     },
     "geometry": {
          "type": "Point",
@@ -10896,10 +10896,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P417",
-        "vx":  4.180,
-        "svx":  0.150,
-        "vy":  6.130,
-        "svy":  0.140,
+        "vx":   "4.180",
+        "svx":   "0.150",
+        "vy":   "6.130",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -10909,10 +10909,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P418",
-        "vx":  5.300,
-        "svx":  0.260,
-        "vy":  5.740,
-        "svy":  0.170,
+        "vx":   "5.300",
+        "svx":   "0.260",
+        "vy":   "5.740",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -10922,10 +10922,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P419",
-        "vx":  6.030,
-        "svx":  0.540,
-        "vy":  5.710,
-        "svy":  0.300,
+        "vx":   "6.030",
+        "svx":   "0.540",
+        "vy":   "5.710",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -10935,10 +10935,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P420",
-        "vx":  3.940,
-        "svx":  0.200,
-        "vy":  4.780,
-        "svy":  0.220,
+        "vx":   "3.940",
+        "svx":   "0.200",
+        "vy":   "4.780",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -10948,10 +10948,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P421",
-        "vx":  3.110,
-        "svx":  0.370,
-        "vy":  4.180,
-        "svy":  0.210,
+        "vx":   "3.110",
+        "svx":   "0.370",
+        "vy":   "4.180",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -10961,10 +10961,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P422",
-        "vx":  -0.490,
-        "svx":  0.100,
-        "vy":  -0.150,
-        "svy":  0.110,
+        "vx":   "-0.490",
+        "svx":   "0.100",
+        "vy":   "-0.150",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -10974,10 +10974,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P423",
-        "vx":  3.790,
-        "svx":  0.170,
-        "vy":  4.820,
-        "svy":  0.120,
+        "vx":   "3.790",
+        "svx":   "0.170",
+        "vy":   "4.820",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -10987,10 +10987,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P424",
-        "vx":  4.760,
-        "svx":  0.420,
-        "vy":  3.710,
-        "svy":  0.290,
+        "vx":   "4.760",
+        "svx":   "0.420",
+        "vy":   "3.710",
+        "svy":   "0.290",
     },
     "geometry": {
          "type": "Point",
@@ -11000,10 +11000,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P425",
-        "vx":  3.230,
-        "svx":  0.660,
-        "vy":  4.800,
-        "svy":  0.240,
+        "vx":   "3.230",
+        "svx":   "0.660",
+        "vy":   "4.800",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -11013,10 +11013,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P426",
-        "vx":  3.050,
-        "svx":  0.230,
-        "vy":  2.890,
-        "svy":  0.140,
+        "vx":   "3.050",
+        "svx":   "0.230",
+        "vy":   "2.890",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -11026,10 +11026,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P427",
-        "vx":  1.940,
-        "svx":  0.230,
-        "vy":  4.810,
-        "svy":  0.090,
+        "vx":   "1.940",
+        "svx":   "0.230",
+        "vy":   "4.810",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11039,10 +11039,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P428",
-        "vx":  19.540,
-        "svx":  5.540,
-        "vy":  -8.740,
-        "svy":  3.130,
+        "vx":   "19.540",
+        "svx":   "5.540",
+        "vy":   "-8.740",
+        "svy":   "3.130",
     },
     "geometry": {
          "type": "Point",
@@ -11052,10 +11052,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P429",
-        "vx":  1.100,
-        "svx":  0.170,
-        "vy":  4.180,
-        "svy":  0.090,
+        "vx":   "1.100",
+        "svx":   "0.170",
+        "vy":   "4.180",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11065,10 +11065,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P430",
-        "vx":  5.030,
-        "svx":  0.180,
-        "vy":  5.970,
-        "svy":  0.180,
+        "vx":   "5.030",
+        "svx":   "0.180",
+        "vy":   "5.970",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -11078,10 +11078,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P431",
-        "vx":  2.130,
-        "svx":  0.420,
-        "vy":  3.770,
-        "svy":  0.150,
+        "vx":   "2.130",
+        "svx":   "0.420",
+        "vy":   "3.770",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -11091,10 +11091,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P432",
-        "vx":  1.320,
-        "svx":  0.110,
-        "vy":  2.810,
-        "svy":  0.090,
+        "vx":   "1.320",
+        "svx":   "0.110",
+        "vy":   "2.810",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11104,10 +11104,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P433",
-        "vx":  -1.970,
-        "svx":  0.170,
-        "vy":  1.620,
-        "svy":  0.140,
+        "vx":   "-1.970",
+        "svx":   "0.170",
+        "vy":   "1.620",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -11117,10 +11117,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P434",
-        "vx":  0.660,
-        "svx":  0.160,
-        "vy":  2.120,
-        "svy":  0.410,
+        "vx":   "0.660",
+        "svx":   "0.160",
+        "vy":   "2.120",
+        "svy":   "0.410",
     },
     "geometry": {
          "type": "Point",
@@ -11130,10 +11130,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P435",
-        "vx":  5.640,
-        "svx":  0.440,
-        "vy":  4.990,
-        "svy":  0.300,
+        "vx":   "5.640",
+        "svx":   "0.440",
+        "vy":   "4.990",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -11143,10 +11143,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P436",
-        "vx":  3.940,
-        "svx":  0.180,
-        "vy":  4.010,
-        "svy":  0.130,
+        "vx":   "3.940",
+        "svx":   "0.180",
+        "vy":   "4.010",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -11156,10 +11156,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P437",
-        "vx":  3.130,
-        "svx":  0.330,
-        "vy":  2.920,
-        "svy":  0.150,
+        "vx":   "3.130",
+        "svx":   "0.330",
+        "vy":   "2.920",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -11169,10 +11169,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P438",
-        "vx":  2.790,
-        "svx":  0.180,
-        "vy":  2.730,
-        "svy":  0.120,
+        "vx":   "2.790",
+        "svx":   "0.180",
+        "vy":   "2.730",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -11182,10 +11182,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P439",
-        "vx":  3.550,
-        "svx":  0.170,
-        "vy":  3.230,
-        "svy":  0.140,
+        "vx":   "3.550",
+        "svx":   "0.170",
+        "vy":   "3.230",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -11195,10 +11195,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P440",
-        "vx":  2.060,
-        "svx":  0.260,
-        "vy":  2.680,
-        "svy":  0.170,
+        "vx":   "2.060",
+        "svx":   "0.260",
+        "vy":   "2.680",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -11208,10 +11208,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P441",
-        "vx":  1.610,
-        "svx":  0.220,
-        "vy":  1.840,
-        "svy":  0.340,
+        "vx":   "1.610",
+        "svx":   "0.220",
+        "vy":   "1.840",
+        "svy":   "0.340",
     },
     "geometry": {
          "type": "Point",
@@ -11221,10 +11221,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P442",
-        "vx":  1.240,
-        "svx":  0.150,
-        "vy":  1.590,
-        "svy":  0.150,
+        "vx":   "1.240",
+        "svx":   "0.150",
+        "vy":   "1.590",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -11234,10 +11234,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P443",
-        "vx":  1.260,
-        "svx":  0.250,
-        "vy":  1.990,
-        "svy":  0.290,
+        "vx":   "1.260",
+        "svx":   "0.250",
+        "vy":   "1.990",
+        "svy":   "0.290",
     },
     "geometry": {
          "type": "Point",
@@ -11247,10 +11247,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P444",
-        "vx":  0.690,
-        "svx":  0.110,
-        "vy":  1.970,
-        "svy":  0.130,
+        "vx":   "0.690",
+        "svx":   "0.110",
+        "vy":   "1.970",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -11260,10 +11260,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P445",
-        "vx":  -0.430,
-        "svx":  0.100,
-        "vy":  2.100,
-        "svy":  0.090,
+        "vx":   "-0.430",
+        "svx":   "0.100",
+        "vy":   "2.100",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11273,10 +11273,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P446",
-        "vx":  3.910,
-        "svx":  0.400,
-        "vy":  5.850,
-        "svy":  0.160,
+        "vx":   "3.910",
+        "svx":   "0.400",
+        "vy":   "5.850",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -11286,10 +11286,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P447",
-        "vx":  -0.990,
-        "svx":  0.130,
-        "vy":  0.750,
-        "svy":  0.120,
+        "vx":   "-0.990",
+        "svx":   "0.130",
+        "vy":   "0.750",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -11299,10 +11299,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P448",
-        "vx":  -0.340,
-        "svx":  0.090,
-        "vy":  1.310,
-        "svy":  0.090,
+        "vx":   "-0.340",
+        "svx":   "0.090",
+        "vy":   "1.310",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11312,10 +11312,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P449",
-        "vx":  -0.630,
-        "svx":  0.110,
-        "vy":  1.200,
-        "svy":  0.090,
+        "vx":   "-0.630",
+        "svx":   "0.110",
+        "vy":   "1.200",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11325,10 +11325,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P450",
-        "vx":  -0.570,
-        "svx":  0.100,
-        "vy":  1.290,
-        "svy":  0.080,
+        "vx":   "-0.570",
+        "svx":   "0.100",
+        "vy":   "1.290",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -11338,10 +11338,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P451",
-        "vx":  -0.580,
-        "svx":  0.090,
-        "vy":  0.670,
-        "svy":  0.090,
+        "vx":   "-0.580",
+        "svx":   "0.090",
+        "vy":   "0.670",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11351,10 +11351,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P452",
-        "vx":  -0.220,
-        "svx":  0.110,
-        "vy":  0.530,
-        "svy":  0.110,
+        "vx":   "-0.220",
+        "svx":   "0.110",
+        "vy":   "0.530",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -11364,10 +11364,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P453",
-        "vx":  -0.380,
-        "svx":  0.090,
-        "vy":  0.180,
-        "svy":  0.090,
+        "vx":   "-0.380",
+        "svx":   "0.090",
+        "vy":   "0.180",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11377,10 +11377,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P454",
-        "vx":  -0.450,
-        "svx":  0.100,
-        "vy":  0.420,
-        "svy":  0.100,
+        "vx":   "-0.450",
+        "svx":   "0.100",
+        "vy":   "0.420",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -11390,10 +11390,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P455",
-        "vx":  -1.960,
-        "svx":  0.110,
-        "vy":  -1.480,
-        "svy":  0.140,
+        "vx":   "-1.960",
+        "svx":   "0.110",
+        "vy":   "-1.480",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -11403,10 +11403,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P456",
-        "vx":  -0.270,
-        "svx":  0.140,
-        "vy":  1.290,
-        "svy":  0.240,
+        "vx":   "-0.270",
+        "svx":   "0.140",
+        "vy":   "1.290",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -11416,10 +11416,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P457",
-        "vx":  -1.580,
-        "svx":  0.160,
-        "vy":  1.200,
-        "svy":  0.180,
+        "vx":   "-1.580",
+        "svx":   "0.160",
+        "vy":   "1.200",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -11429,10 +11429,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P458",
-        "vx":  -2.540,
-        "svx":  0.290,
-        "vy":  -2.270,
-        "svy":  0.130,
+        "vx":   "-2.540",
+        "svx":   "0.290",
+        "vy":   "-2.270",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -11442,10 +11442,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P459",
-        "vx":  -3.230,
-        "svx":  0.380,
-        "vy":  -2.170,
-        "svy":  0.200,
+        "vx":   "-3.230",
+        "svx":   "0.380",
+        "vy":   "-2.170",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -11455,10 +11455,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P460",
-        "vx":  -0.400,
-        "svx":  0.110,
-        "vy":  -0.160,
-        "svy":  0.110,
+        "vx":   "-0.400",
+        "svx":   "0.110",
+        "vy":   "-0.160",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -11468,10 +11468,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P461",
-        "vx":  -0.480,
-        "svx":  0.100,
-        "vy":  -0.360,
-        "svy":  0.100,
+        "vx":   "-0.480",
+        "svx":   "0.100",
+        "vy":   "-0.360",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -11481,10 +11481,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P462",
-        "vx":  -4.610,
-        "svx":  0.120,
-        "vy":  0.980,
-        "svy":  0.120,
+        "vx":   "-4.610",
+        "svx":   "0.120",
+        "vy":   "0.980",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -11494,10 +11494,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P463",
-        "vx":  -6.110,
-        "svx":  0.130,
-        "vy":  3.940,
-        "svy":  0.110,
+        "vx":   "-6.110",
+        "svx":   "0.130",
+        "vy":   "3.940",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -11507,10 +11507,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P464",
-        "vx":  -7.100,
-        "svx":  0.100,
-        "vy":  4.520,
-        "svy":  0.090,
+        "vx":   "-7.100",
+        "svx":   "0.100",
+        "vy":   "4.520",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11520,10 +11520,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P465",
-        "vx":  -10.620,
-        "svx":  0.390,
-        "vy":  8.530,
-        "svy":  0.290,
+        "vx":   "-10.620",
+        "svx":   "0.390",
+        "vy":   "8.530",
+        "svy":   "0.290",
     },
     "geometry": {
          "type": "Point",
@@ -11533,10 +11533,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P466",
-        "vx":  -7.710,
-        "svx":  0.150,
-        "vy":  3.340,
-        "svy":  0.280,
+        "vx":   "-7.710",
+        "svx":   "0.150",
+        "vy":   "3.340",
+        "svy":   "0.280",
     },
     "geometry": {
          "type": "Point",
@@ -11546,10 +11546,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P467",
-        "vx":  -8.480,
-        "svx":  0.190,
-        "vy":  7.340,
-        "svy":  0.100,
+        "vx":   "-8.480",
+        "svx":   "0.190",
+        "vy":   "7.340",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -11559,10 +11559,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P468",
-        "vx":  -8.510,
-        "svx":  0.150,
-        "vy":  4.960,
-        "svy":  0.100,
+        "vx":   "-8.510",
+        "svx":   "0.150",
+        "vy":   "4.960",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -11572,10 +11572,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P469",
-        "vx":  -7.080,
-        "svx":  0.120,
-        "vy":  3.010,
-        "svy":  0.110,
+        "vx":   "-7.080",
+        "svx":   "0.120",
+        "vy":   "3.010",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -11585,10 +11585,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P470",
-        "vx":  -14.770,
-        "svx":  0.100,
-        "vy":  14.330,
-        "svy":  0.090,
+        "vx":   "-14.770",
+        "svx":   "0.100",
+        "vy":   "14.330",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11598,10 +11598,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P471",
-        "vx":  -26.500,
-        "svx":  0.110,
-        "vy":  26.140,
-        "svy":  0.110,
+        "vx":   "-26.500",
+        "svx":   "0.110",
+        "vy":   "26.140",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -11611,10 +11611,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P472",
-        "vx":  -28.760,
-        "svx":  0.090,
-        "vy":  26.780,
-        "svy":  0.090,
+        "vx":   "-28.760",
+        "svx":   "0.090",
+        "vy":   "26.780",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11624,10 +11624,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P473",
-        "vx":  -29.000,
-        "svx":  0.100,
-        "vy":  26.960,
-        "svy":  0.090,
+        "vx":   "-29.000",
+        "svx":   "0.100",
+        "vy":   "26.960",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11637,10 +11637,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P474",
-        "vx":  -27.410,
-        "svx":  0.090,
-        "vy":  26.350,
-        "svy":  0.090,
+        "vx":   "-27.410",
+        "svx":   "0.090",
+        "vy":   "26.350",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11650,10 +11650,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P475",
-        "vx":  -29.880,
-        "svx":  0.130,
-        "vy":  28.710,
-        "svy":  0.120,
+        "vx":   "-29.880",
+        "svx":   "0.130",
+        "vy":   "28.710",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -11663,10 +11663,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P476",
-        "vx":  -26.910,
-        "svx":  0.100,
-        "vy":  25.780,
-        "svy":  0.100,
+        "vx":   "-26.910",
+        "svx":   "0.100",
+        "vy":   "25.780",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -11676,10 +11676,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P477",
-        "vx":  -25.340,
-        "svx":  0.110,
-        "vy":  25.110,
-        "svy":  0.110,
+        "vx":   "-25.340",
+        "svx":   "0.110",
+        "vy":   "25.110",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -11689,10 +11689,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P478",
-        "vx":  -27.550,
-        "svx":  0.100,
-        "vy":  26.220,
-        "svy":  0.120,
+        "vx":   "-27.550",
+        "svx":   "0.100",
+        "vy":   "26.220",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -11702,10 +11702,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P479",
-        "vx":  -23.930,
-        "svx":  0.100,
-        "vy":  22.820,
-        "svy":  0.100,
+        "vx":   "-23.930",
+        "svx":   "0.100",
+        "vy":   "22.820",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -11715,10 +11715,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P480",
-        "vx":  -27.510,
-        "svx":  0.090,
-        "vy":  24.600,
-        "svy":  0.090,
+        "vx":   "-27.510",
+        "svx":   "0.090",
+        "vy":   "24.600",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11728,10 +11728,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P481",
-        "vx":  -25.870,
-        "svx":  0.150,
-        "vy":  24.340,
-        "svy":  0.160,
+        "vx":   "-25.870",
+        "svx":   "0.150",
+        "vy":   "24.340",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -11741,10 +11741,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P482",
-        "vx":  -26.370,
-        "svx":  0.090,
-        "vy":  24.440,
-        "svy":  0.090,
+        "vx":   "-26.370",
+        "svx":   "0.090",
+        "vy":   "24.440",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11754,10 +11754,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P483",
-        "vx":  -27.470,
-        "svx":  0.090,
-        "vy":  25.450,
-        "svy":  0.090,
+        "vx":   "-27.470",
+        "svx":   "0.090",
+        "vy":   "25.450",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11767,10 +11767,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P484",
-        "vx":  -24.580,
-        "svx":  0.100,
-        "vy":  22.790,
-        "svy":  0.090,
+        "vx":   "-24.580",
+        "svx":   "0.100",
+        "vy":   "22.790",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11780,10 +11780,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P485",
-        "vx":  -25.930,
-        "svx":  0.120,
-        "vy":  22.400,
-        "svy":  0.140,
+        "vx":   "-25.930",
+        "svx":   "0.120",
+        "vy":   "22.400",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -11793,10 +11793,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P486",
-        "vx":  -23.890,
-        "svx":  0.100,
-        "vy":  21.540,
-        "svy":  0.090,
+        "vx":   "-23.890",
+        "svx":   "0.100",
+        "vy":   "21.540",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -11806,10 +11806,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P487",
-        "vx":  -22.670,
-        "svx":  0.130,
-        "vy":  19.680,
-        "svy":  0.130,
+        "vx":   "-22.670",
+        "svx":   "0.130",
+        "vy":   "19.680",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -11819,10 +11819,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P488",
-        "vx":  -20.770,
-        "svx":  0.130,
-        "vy":  17.820,
-        "svy":  0.120,
+        "vx":   "-20.770",
+        "svx":   "0.130",
+        "vy":   "17.820",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -11832,10 +11832,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P489",
-        "vx":  -18.370,
-        "svx":  0.140,
-        "vy":  15.030,
-        "svy":  0.150,
+        "vx":   "-18.370",
+        "svx":   "0.140",
+        "vy":   "15.030",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -11845,10 +11845,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P490",
-        "vx":  -18.490,
-        "svx":  0.150,
-        "vy":  17.160,
-        "svy":  0.130,
+        "vx":   "-18.490",
+        "svx":   "0.150",
+        "vy":   "17.160",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -11858,10 +11858,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P491",
-        "vx":  -15.730,
-        "svx":  0.100,
-        "vy":  14.030,
-        "svy":  0.110,
+        "vx":   "-15.730",
+        "svx":   "0.100",
+        "vy":   "14.030",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -11871,10 +11871,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P492",
-        "vx":  -25.300,
-        "svx":  0.310,
-        "vy":  24.370,
-        "svy":  0.220,
+        "vx":   "-25.300",
+        "svx":   "0.310",
+        "vy":   "24.370",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -11884,10 +11884,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P493",
-        "vx":  -22.160,
-        "svx":  0.140,
-        "vy":  21.660,
-        "svy":  0.130,
+        "vx":   "-22.160",
+        "svx":   "0.140",
+        "vy":   "21.660",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -11897,10 +11897,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P494",
-        "vx":  -23.400,
-        "svx":  0.240,
-        "vy":  25.710,
-        "svy":  0.240,
+        "vx":   "-23.400",
+        "svx":   "0.240",
+        "vy":   "25.710",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -11910,10 +11910,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P495",
-        "vx":  -11.850,
-        "svx":  0.100,
-        "vy":  15.410,
-        "svy":  0.100,
+        "vx":   "-11.850",
+        "svx":   "0.100",
+        "vy":   "15.410",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -11923,10 +11923,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P496",
-        "vx":  -26.130,
-        "svx":  0.310,
-        "vy":  29.180,
-        "svy":  0.380,
+        "vx":   "-26.130",
+        "svx":   "0.310",
+        "vy":   "29.180",
+        "svy":   "0.380",
     },
     "geometry": {
          "type": "Point",
@@ -11936,10 +11936,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P497",
-        "vx":  -17.120,
-        "svx":  0.110,
-        "vy":  22.660,
-        "svy":  0.140,
+        "vx":   "-17.120",
+        "svx":   "0.110",
+        "vy":   "22.660",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -11949,10 +11949,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P498",
-        "vx":  -14.570,
-        "svx":  0.110,
-        "vy":  20.080,
-        "svy":  0.120,
+        "vx":   "-14.570",
+        "svx":   "0.110",
+        "vy":   "20.080",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -11962,10 +11962,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P499",
-        "vx":  -6.530,
-        "svx":  0.120,
-        "vy":  4.730,
-        "svy":  0.110,
+        "vx":   "-6.530",
+        "svx":   "0.120",
+        "vy":   "4.730",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -11975,10 +11975,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P500",
-        "vx":  -5.530,
-        "svx":  0.160,
-        "vy":  8.310,
-        "svy":  0.130,
+        "vx":   "-5.530",
+        "svx":   "0.160",
+        "vy":   "8.310",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -11988,10 +11988,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P501",
-        "vx":  -3.700,
-        "svx":  0.140,
-        "vy":  5.460,
-        "svy":  0.130,
+        "vx":   "-3.700",
+        "svx":   "0.140",
+        "vy":   "5.460",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -12001,10 +12001,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P502",
-        "vx":  -4.960,
-        "svx":  0.100,
-        "vy":  3.660,
-        "svy":  0.100,
+        "vx":   "-4.960",
+        "svx":   "0.100",
+        "vy":   "3.660",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -12014,10 +12014,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P503",
-        "vx":  -19.080,
-        "svx":  0.130,
-        "vy":  20.470,
-        "svy":  0.130,
+        "vx":   "-19.080",
+        "svx":   "0.130",
+        "vy":   "20.470",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -12027,10 +12027,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P504",
-        "vx":  -8.860,
-        "svx":  0.100,
-        "vy":  4.140,
-        "svy":  0.100,
+        "vx":   "-8.860",
+        "svx":   "0.100",
+        "vy":   "4.140",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -12040,10 +12040,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P505",
-        "vx":  -5.930,
-        "svx":  0.160,
-        "vy":  2.870,
-        "svy":  0.180,
+        "vx":   "-5.930",
+        "svx":   "0.160",
+        "vy":   "2.870",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -12053,10 +12053,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P506",
-        "vx":  -7.110,
-        "svx":  0.110,
-        "vy":  4.190,
-        "svy":  0.110,
+        "vx":   "-7.110",
+        "svx":   "0.110",
+        "vy":   "4.190",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -12066,10 +12066,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P507",
-        "vx":  -10.630,
-        "svx":  0.100,
-        "vy":  -1.950,
-        "svy":  0.120,
+        "vx":   "-10.630",
+        "svx":   "0.100",
+        "vy":   "-1.950",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -12079,10 +12079,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P508",
-        "vx":  -5.030,
-        "svx":  0.100,
-        "vy":  1.890,
-        "svy":  0.100,
+        "vx":   "-5.030",
+        "svx":   "0.100",
+        "vy":   "1.890",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -12092,10 +12092,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P509",
-        "vx":  -2.120,
-        "svx":  0.100,
-        "vy":  2.580,
-        "svy":  0.140,
+        "vx":   "-2.120",
+        "svx":   "0.100",
+        "vy":   "2.580",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -12105,10 +12105,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P510",
-        "vx":  -4.320,
-        "svx":  0.110,
-        "vy":  1.750,
-        "svy":  0.110,
+        "vx":   "-4.320",
+        "svx":   "0.110",
+        "vy":   "1.750",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -12118,10 +12118,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P511",
-        "vx":  -4.380,
-        "svx":  0.100,
-        "vy":  0.400,
-        "svy":  0.110,
+        "vx":   "-4.380",
+        "svx":   "0.100",
+        "vy":   "0.400",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -12131,10 +12131,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P512",
-        "vx":  -11.750,
-        "svx":  0.270,
-        "vy":  8.140,
-        "svy":  0.280,
+        "vx":   "-11.750",
+        "svx":   "0.270",
+        "vy":   "8.140",
+        "svy":   "0.280",
     },
     "geometry": {
          "type": "Point",
@@ -12144,10 +12144,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P513",
-        "vx":  -30.950,
-        "svx":  0.640,
-        "vy":  38.880,
-        "svy":  1.070,
+        "vx":   "-30.950",
+        "svx":   "0.640",
+        "vy":   "38.880",
+        "svy":   "1.070",
     },
     "geometry": {
          "type": "Point",
@@ -12157,10 +12157,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P514",
-        "vx":  -30.340,
-        "svx":  0.110,
-        "vy":  32.490,
-        "svy":  0.120,
+        "vx":   "-30.340",
+        "svx":   "0.110",
+        "vy":   "32.490",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -12170,10 +12170,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P515",
-        "vx":  -31.070,
-        "svx":  0.100,
-        "vy":  31.390,
-        "svy":  0.120,
+        "vx":   "-31.070",
+        "svx":   "0.100",
+        "vy":   "31.390",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -12183,10 +12183,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P516",
-        "vx":  -29.210,
-        "svx":  0.170,
-        "vy":  32.140,
-        "svy":  0.320,
+        "vx":   "-29.210",
+        "svx":   "0.170",
+        "vy":   "32.140",
+        "svy":   "0.320",
     },
     "geometry": {
          "type": "Point",
@@ -12196,10 +12196,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P517",
-        "vx":  -24.340,
-        "svx":  0.180,
-        "vy":  20.800,
-        "svy":  0.180,
+        "vx":   "-24.340",
+        "svx":   "0.180",
+        "vy":   "20.800",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -12209,10 +12209,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P518",
-        "vx":  -33.300,
-        "svx":  0.160,
-        "vy":  29.280,
-        "svy":  0.300,
+        "vx":   "-33.300",
+        "svx":   "0.160",
+        "vy":   "29.280",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -12222,10 +12222,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P519",
-        "vx":  -31.820,
-        "svx":  0.160,
-        "vy":  29.180,
-        "svy":  0.150,
+        "vx":   "-31.820",
+        "svx":   "0.160",
+        "vy":   "29.180",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -12235,10 +12235,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P520",
-        "vx":  -31.070,
-        "svx":  0.150,
-        "vy":  26.140,
-        "svy":  0.250,
+        "vx":   "-31.070",
+        "svx":   "0.150",
+        "vy":   "26.140",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -12248,10 +12248,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P521",
-        "vx":  -29.630,
-        "svx":  0.230,
-        "vy":  27.350,
-        "svy":  0.130,
+        "vx":   "-29.630",
+        "svx":   "0.230",
+        "vy":   "27.350",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -12261,10 +12261,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P522",
-        "vx":  -20.690,
-        "svx":  0.170,
-        "vy":  19.400,
-        "svy":  0.180,
+        "vx":   "-20.690",
+        "svx":   "0.170",
+        "vy":   "19.400",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -12274,10 +12274,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P523",
-        "vx":  -29.820,
-        "svx":  0.100,
-        "vy":  34.950,
-        "svy":  0.110,
+        "vx":   "-29.820",
+        "svx":   "0.100",
+        "vy":   "34.950",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -12287,10 +12287,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P524",
-        "vx":  -29.680,
-        "svx":  0.180,
-        "vy":  33.420,
-        "svy":  0.170,
+        "vx":   "-29.680",
+        "svx":   "0.180",
+        "vy":   "33.420",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -12300,10 +12300,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P525",
-        "vx":  -29.110,
-        "svx":  0.120,
-        "vy":  34.680,
-        "svy":  0.100,
+        "vx":   "-29.110",
+        "svx":   "0.120",
+        "vy":   "34.680",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -12313,10 +12313,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P526",
-        "vx":  -29.110,
-        "svx":  0.260,
-        "vy":  32.860,
-        "svy":  0.130,
+        "vx":   "-29.110",
+        "svx":   "0.260",
+        "vy":   "32.860",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -12326,10 +12326,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P527",
-        "vx":  -26.690,
-        "svx":  0.140,
-        "vy":  31.090,
-        "svy":  0.130,
+        "vx":   "-26.690",
+        "svx":   "0.140",
+        "vy":   "31.090",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -12339,10 +12339,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P528",
-        "vx":  -28.210,
-        "svx":  0.110,
-        "vy":  32.900,
-        "svy":  0.110,
+        "vx":   "-28.210",
+        "svx":   "0.110",
+        "vy":   "32.900",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -12352,10 +12352,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P529",
-        "vx":  -26.990,
-        "svx":  0.120,
-        "vy":  30.150,
-        "svy":  0.200,
+        "vx":   "-26.990",
+        "svx":   "0.120",
+        "vy":   "30.150",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -12365,10 +12365,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P530",
-        "vx":  -26.670,
-        "svx":  0.130,
-        "vy":  31.090,
-        "svy":  0.160,
+        "vx":   "-26.670",
+        "svx":   "0.130",
+        "vy":   "31.090",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -12378,10 +12378,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P531",
-        "vx":  -26.430,
-        "svx":  0.120,
-        "vy":  31.430,
-        "svy":  0.110,
+        "vx":   "-26.430",
+        "svx":   "0.120",
+        "vy":   "31.430",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -12391,10 +12391,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P532",
-        "vx":  -23.490,
-        "svx":  0.130,
-        "vy":  26.590,
-        "svy":  0.230,
+        "vx":   "-23.490",
+        "svx":   "0.130",
+        "vy":   "26.590",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -12404,10 +12404,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P533",
-        "vx":  -23.470,
-        "svx":  0.120,
-        "vy":  28.430,
-        "svy":  0.110,
+        "vx":   "-23.470",
+        "svx":   "0.120",
+        "vy":   "28.430",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -12417,10 +12417,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P534",
-        "vx":  -28.370,
-        "svx":  0.150,
-        "vy":  34.530,
-        "svy":  0.130,
+        "vx":   "-28.370",
+        "svx":   "0.150",
+        "vy":   "34.530",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -12430,10 +12430,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P535",
-        "vx":  -26.810,
-        "svx":  0.200,
-        "vy":  30.290,
-        "svy":  0.400,
+        "vx":   "-26.810",
+        "svx":   "0.200",
+        "vy":   "30.290",
+        "svy":   "0.400",
     },
     "geometry": {
          "type": "Point",
@@ -12443,10 +12443,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P536",
-        "vx":  -26.370,
-        "svx":  0.220,
-        "vy":  28.500,
-        "svy":  0.340,
+        "vx":   "-26.370",
+        "svx":   "0.220",
+        "vy":   "28.500",
+        "svy":   "0.340",
     },
     "geometry": {
          "type": "Point",
@@ -12456,10 +12456,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P537",
-        "vx":  -23.970,
-        "svx":  0.160,
-        "vy":  26.070,
-        "svy":  0.370,
+        "vx":   "-23.970",
+        "svx":   "0.160",
+        "vy":   "26.070",
+        "svy":   "0.370",
     },
     "geometry": {
          "type": "Point",
@@ -12469,10 +12469,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P538",
-        "vx":  -22.550,
-        "svx":  0.100,
-        "vy":  23.470,
-        "svy":  0.110,
+        "vx":   "-22.550",
+        "svx":   "0.100",
+        "vy":   "23.470",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -12482,10 +12482,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P539",
-        "vx":  -17.760,
-        "svx":  0.160,
-        "vy":  20.410,
-        "svy":  0.260,
+        "vx":   "-17.760",
+        "svx":   "0.160",
+        "vy":   "20.410",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -12495,10 +12495,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P540",
-        "vx":  -13.820,
-        "svx":  0.110,
-        "vy":  14.900,
-        "svy":  0.180,
+        "vx":   "-13.820",
+        "svx":   "0.110",
+        "vy":   "14.900",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -12508,10 +12508,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P541",
-        "vx":  -14.680,
-        "svx":  0.130,
-        "vy":  18.260,
-        "svy":  0.210,
+        "vx":   "-14.680",
+        "svx":   "0.130",
+        "vy":   "18.260",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -12521,10 +12521,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P542",
-        "vx":  -22.910,
-        "svx":  0.130,
-        "vy":  26.500,
-        "svy":  0.140,
+        "vx":   "-22.910",
+        "svx":   "0.130",
+        "vy":   "26.500",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -12534,10 +12534,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P543",
-        "vx":  -17.680,
-        "svx":  0.200,
-        "vy":  18.930,
-        "svy":  0.480,
+        "vx":   "-17.680",
+        "svx":   "0.200",
+        "vy":   "18.930",
+        "svy":   "0.480",
     },
     "geometry": {
          "type": "Point",
@@ -12547,10 +12547,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P544",
-        "vx":  -12.940,
-        "svx":  0.820,
-        "vy":  12.060,
-        "svy":  0.300,
+        "vx":   "-12.940",
+        "svx":   "0.820",
+        "vy":   "12.060",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -12560,10 +12560,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P545",
-        "vx":  -20.950,
-        "svx":  1.770,
-        "vy":  11.420,
-        "svy":  0.950,
+        "vx":   "-20.950",
+        "svx":   "1.770",
+        "vy":   "11.420",
+        "svy":   "0.950",
     },
     "geometry": {
          "type": "Point",
@@ -12573,10 +12573,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P546",
-        "vx":  -12.160,
-        "svx":  0.110,
-        "vy":  15.670,
-        "svy":  0.130,
+        "vx":   "-12.160",
+        "svx":   "0.110",
+        "vy":   "15.670",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -12586,10 +12586,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P547",
-        "vx":  -11.570,
-        "svx":  0.180,
-        "vy":  13.680,
-        "svy":  0.380,
+        "vx":   "-11.570",
+        "svx":   "0.180",
+        "vy":   "13.680",
+        "svy":   "0.380",
     },
     "geometry": {
          "type": "Point",
@@ -12599,10 +12599,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P548",
-        "vx":  -30.840,
-        "svx":  0.200,
-        "vy":  26.640,
-        "svy":  0.200,
+        "vx":   "-30.840",
+        "svx":   "0.200",
+        "vy":   "26.640",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -12612,10 +12612,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P549",
-        "vx":  -29.270,
-        "svx":  0.110,
-        "vy":  23.760,
-        "svy":  0.120,
+        "vx":   "-29.270",
+        "svx":   "0.110",
+        "vy":   "23.760",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -12625,10 +12625,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P550",
-        "vx":  -26.960,
-        "svx":  0.120,
-        "vy":  21.550,
-        "svy":  0.140,
+        "vx":   "-26.960",
+        "svx":   "0.120",
+        "vy":   "21.550",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -12638,10 +12638,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P551",
-        "vx":  -22.610,
-        "svx":  0.120,
-        "vy":  19.120,
-        "svy":  0.150,
+        "vx":   "-22.610",
+        "svx":   "0.120",
+        "vy":   "19.120",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -12651,10 +12651,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P552",
-        "vx":  -21.930,
-        "svx":  0.130,
-        "vy":  25.290,
-        "svy":  0.190,
+        "vx":   "-21.930",
+        "svx":   "0.130",
+        "vy":   "25.290",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -12664,10 +12664,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P553",
-        "vx":  -20.100,
-        "svx":  0.100,
-        "vy":  17.270,
-        "svy":  0.090,
+        "vx":   "-20.100",
+        "svx":   "0.100",
+        "vy":   "17.270",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -12677,10 +12677,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P554",
-        "vx":  -22.200,
-        "svx":  0.120,
-        "vy":  17.850,
-        "svy":  0.150,
+        "vx":   "-22.200",
+        "svx":   "0.120",
+        "vy":   "17.850",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -12690,10 +12690,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P555",
-        "vx":  -21.080,
-        "svx":  0.190,
-        "vy":  19.970,
-        "svy":  0.220,
+        "vx":   "-21.080",
+        "svx":   "0.190",
+        "vy":   "19.970",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -12703,10 +12703,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P556",
-        "vx":  -16.840,
-        "svx":  0.140,
-        "vy":  16.910,
-        "svy":  0.190,
+        "vx":   "-16.840",
+        "svx":   "0.140",
+        "vy":   "16.910",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -12716,10 +12716,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P557",
-        "vx":  -15.190,
-        "svx":  0.130,
-        "vy":  14.190,
-        "svy":  0.100,
+        "vx":   "-15.190",
+        "svx":   "0.130",
+        "vy":   "14.190",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -12729,10 +12729,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P558",
-        "vx":  -13.820,
-        "svx":  0.100,
-        "vy":  12.410,
-        "svy":  0.100,
+        "vx":   "-13.820",
+        "svx":   "0.100",
+        "vy":   "12.410",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -12742,10 +12742,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P559",
-        "vx":  -15.870,
-        "svx":  0.090,
-        "vy":  16.050,
-        "svy":  0.100,
+        "vx":   "-15.870",
+        "svx":   "0.090",
+        "vy":   "16.050",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -12755,10 +12755,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P560",
-        "vx":  -15.520,
-        "svx":  0.100,
-        "vy":  16.140,
-        "svy":  0.100,
+        "vx":   "-15.520",
+        "svx":   "0.100",
+        "vy":   "16.140",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -12768,10 +12768,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P561",
-        "vx":  -18.970,
-        "svx":  0.340,
-        "vy":  20.500,
-        "svy":  0.150,
+        "vx":   "-18.970",
+        "svx":   "0.340",
+        "vy":   "20.500",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -12781,10 +12781,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P562",
-        "vx":  -11.660,
-        "svx":  0.090,
-        "vy":  13.640,
-        "svy":  0.090,
+        "vx":   "-11.660",
+        "svx":   "0.090",
+        "vy":   "13.640",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -12794,10 +12794,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P563",
-        "vx":  -11.990,
-        "svx":  0.410,
-        "vy":  9.200,
-        "svy":  0.750,
+        "vx":   "-11.990",
+        "svx":   "0.410",
+        "vy":   "9.200",
+        "svy":   "0.750",
     },
     "geometry": {
          "type": "Point",
@@ -12807,10 +12807,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P564",
-        "vx":  -13.530,
-        "svx":  1.210,
-        "vy":  13.200,
-        "svy":  2.200,
+        "vx":   "-13.530",
+        "svx":   "1.210",
+        "vy":   "13.200",
+        "svy":   "2.200",
     },
     "geometry": {
          "type": "Point",
@@ -12820,10 +12820,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P565",
-        "vx":  -13.190,
-        "svx":  0.420,
-        "vy":  10.220,
-        "svy":  0.310,
+        "vx":   "-13.190",
+        "svx":   "0.420",
+        "vy":   "10.220",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -12833,10 +12833,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P566",
-        "vx":  -12.430,
-        "svx":  0.090,
-        "vy":  8.620,
-        "svy":  0.120,
+        "vx":   "-12.430",
+        "svx":   "0.090",
+        "vy":   "8.620",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -12846,10 +12846,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P567",
-        "vx":  -12.930,
-        "svx":  0.100,
-        "vy":  10.290,
-        "svy":  0.120,
+        "vx":   "-12.930",
+        "svx":   "0.100",
+        "vy":   "10.290",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -12859,10 +12859,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P568",
-        "vx":  -10.530,
-        "svx":  0.210,
-        "vy":  11.290,
-        "svy":  0.110,
+        "vx":   "-10.530",
+        "svx":   "0.210",
+        "vy":   "11.290",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -12872,10 +12872,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P569",
-        "vx":  -11.160,
-        "svx":  0.110,
-        "vy":  10.510,
-        "svy":  0.100,
+        "vx":   "-11.160",
+        "svx":   "0.110",
+        "vy":   "10.510",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -12885,10 +12885,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P570",
-        "vx":  -11.180,
-        "svx":  0.120,
-        "vy":  9.650,
-        "svy":  0.100,
+        "vx":   "-11.180",
+        "svx":   "0.120",
+        "vy":   "9.650",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -12898,10 +12898,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P571",
-        "vx":  -10.870,
-        "svx":  0.100,
-        "vy":  9.260,
-        "svy":  0.110,
+        "vx":   "-10.870",
+        "svx":   "0.100",
+        "vy":   "9.260",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -12911,10 +12911,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P572",
-        "vx":  -10.550,
-        "svx":  0.100,
-        "vy":  9.050,
-        "svy":  0.100,
+        "vx":   "-10.550",
+        "svx":   "0.100",
+        "vy":   "9.050",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -12924,10 +12924,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P573",
-        "vx":  -10.640,
-        "svx":  0.250,
-        "vy":  8.560,
-        "svy":  0.140,
+        "vx":   "-10.640",
+        "svx":   "0.250",
+        "vy":   "8.560",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -12937,10 +12937,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P574",
-        "vx":  -21.100,
-        "svx":  0.340,
-        "vy":  18.780,
-        "svy":  0.270,
+        "vx":   "-21.100",
+        "svx":   "0.340",
+        "vy":   "18.780",
+        "svy":   "0.270",
     },
     "geometry": {
          "type": "Point",
@@ -12950,10 +12950,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P575",
-        "vx":  -23.560,
-        "svx":  0.340,
-        "vy":  17.600,
-        "svy":  0.390,
+        "vx":   "-23.560",
+        "svx":   "0.340",
+        "vy":   "17.600",
+        "svy":   "0.390",
     },
     "geometry": {
          "type": "Point",
@@ -12963,10 +12963,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P576",
-        "vx":  -25.490,
-        "svx":  0.700,
-        "vy":  36.980,
-        "svy":  0.530,
+        "vx":   "-25.490",
+        "svx":   "0.700",
+        "vy":   "36.980",
+        "svy":   "0.530",
     },
     "geometry": {
          "type": "Point",
@@ -12976,10 +12976,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P577",
-        "vx":  -16.520,
-        "svx":  0.110,
-        "vy":  15.410,
-        "svy":  0.090,
+        "vx":   "-16.520",
+        "svx":   "0.110",
+        "vy":   "15.410",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -12989,10 +12989,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P578",
-        "vx":  -21.090,
-        "svx":  0.350,
-        "vy":  24.000,
-        "svy":  0.250,
+        "vx":   "-21.090",
+        "svx":   "0.350",
+        "vy":   "24.000",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -13002,10 +13002,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P579",
-        "vx":  -10.610,
-        "svx":  0.100,
-        "vy":  13.210,
-        "svy":  0.100,
+        "vx":   "-10.610",
+        "svx":   "0.100",
+        "vy":   "13.210",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -13015,10 +13015,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P580",
-        "vx":  -7.650,
-        "svx":  0.110,
-        "vy":  6.270,
-        "svy":  0.120,
+        "vx":   "-7.650",
+        "svx":   "0.110",
+        "vy":   "6.270",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -13028,10 +13028,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P581",
-        "vx":  -16.050,
-        "svx":  0.100,
-        "vy":  15.670,
-        "svy":  0.100,
+        "vx":   "-16.050",
+        "svx":   "0.100",
+        "vy":   "15.670",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -13041,10 +13041,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P582",
-        "vx":  -13.520,
-        "svx":  0.120,
-        "vy":  13.280,
-        "svy":  0.140,
+        "vx":   "-13.520",
+        "svx":   "0.120",
+        "vy":   "13.280",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -13054,10 +13054,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P583",
-        "vx":  -9.970,
-        "svx":  0.090,
-        "vy":  11.830,
-        "svy":  0.090,
+        "vx":   "-9.970",
+        "svx":   "0.090",
+        "vy":   "11.830",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -13067,10 +13067,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P584",
-        "vx":  -17.950,
-        "svx":  0.090,
-        "vy":  18.980,
-        "svy":  0.090,
+        "vx":   "-17.950",
+        "svx":   "0.090",
+        "vy":   "18.980",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -13080,10 +13080,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P585",
-        "vx":  -11.580,
-        "svx":  0.130,
-        "vy":  13.780,
-        "svy":  0.210,
+        "vx":   "-11.580",
+        "svx":   "0.130",
+        "vy":   "13.780",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -13093,10 +13093,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P586",
-        "vx":  -13.570,
-        "svx":  0.100,
-        "vy":  13.110,
-        "svy":  0.100,
+        "vx":   "-13.570",
+        "svx":   "0.100",
+        "vy":   "13.110",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -13106,10 +13106,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P587",
-        "vx":  -24.290,
-        "svx":  0.190,
-        "vy":  20.380,
-        "svy":  0.140,
+        "vx":   "-24.290",
+        "svx":   "0.190",
+        "vy":   "20.380",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -13119,10 +13119,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P588",
-        "vx":  -11.060,
-        "svx":  0.100,
-        "vy":  11.330,
-        "svy":  0.110,
+        "vx":   "-11.060",
+        "svx":   "0.100",
+        "vy":   "11.330",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -13132,10 +13132,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P589",
-        "vx":  -12.330,
-        "svx":  0.130,
-        "vy":  11.830,
-        "svy":  0.110,
+        "vx":   "-12.330",
+        "svx":   "0.130",
+        "vy":   "11.830",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -13145,10 +13145,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P590",
-        "vx":  -8.970,
-        "svx":  0.140,
-        "vy":  9.950,
-        "svy":  0.130,
+        "vx":   "-8.970",
+        "svx":   "0.140",
+        "vy":   "9.950",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -13158,10 +13158,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P591",
-        "vx":  -10.200,
-        "svx":  0.090,
-        "vy":  12.500,
-        "svy":  0.090,
+        "vx":   "-10.200",
+        "svx":   "0.090",
+        "vy":   "12.500",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -13171,10 +13171,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P592",
-        "vx":  -8.100,
-        "svx":  0.120,
-        "vy":  9.020,
-        "svy":  0.120,
+        "vx":   "-8.100",
+        "svx":   "0.120",
+        "vy":   "9.020",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -13184,10 +13184,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P593",
-        "vx":  -7.200,
-        "svx":  0.120,
-        "vy":  7.860,
-        "svy":  0.110,
+        "vx":   "-7.200",
+        "svx":   "0.120",
+        "vy":   "7.860",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -13197,10 +13197,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P594",
-        "vx":  -8.050,
-        "svx":  0.100,
-        "vy":  5.860,
-        "svy":  0.120,
+        "vx":   "-8.050",
+        "svx":   "0.100",
+        "vy":   "5.860",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -13210,10 +13210,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P595",
-        "vx":  -8.470,
-        "svx":  0.100,
-        "vy":  7.210,
-        "svy":  0.090,
+        "vx":   "-8.470",
+        "svx":   "0.100",
+        "vy":   "7.210",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -13223,10 +13223,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P596",
-        "vx":  -5.680,
-        "svx":  0.110,
-        "vy":  2.660,
-        "svy":  0.120,
+        "vx":   "-5.680",
+        "svx":   "0.110",
+        "vy":   "2.660",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -13236,10 +13236,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P597",
-        "vx":  -5.460,
-        "svx":  0.140,
-        "vy":  3.630,
-        "svy":  0.160,
+        "vx":   "-5.460",
+        "svx":   "0.140",
+        "vy":   "3.630",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -13249,10 +13249,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P598",
-        "vx":  -12.020,
-        "svx":  0.150,
-        "vy":  14.140,
-        "svy":  0.130,
+        "vx":   "-12.020",
+        "svx":   "0.150",
+        "vy":   "14.140",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -13262,10 +13262,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P599",
-        "vx":  -9.120,
-        "svx":  0.100,
-        "vy":  12.680,
-        "svy":  0.100,
+        "vx":   "-9.120",
+        "svx":   "0.100",
+        "vy":   "12.680",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -13275,10 +13275,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P600",
-        "vx":  -10.070,
-        "svx":  0.100,
-        "vy":  9.350,
-        "svy":  0.090,
+        "vx":   "-10.070",
+        "svx":   "0.100",
+        "vy":   "9.350",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -13288,10 +13288,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P601",
-        "vx":  -7.260,
-        "svx":  0.100,
-        "vy":  5.700,
-        "svy":  0.110,
+        "vx":   "-7.260",
+        "svx":   "0.100",
+        "vy":   "5.700",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -13301,10 +13301,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P602",
-        "vx":  -16.090,
-        "svx":  0.190,
-        "vy":  19.500,
-        "svy":  0.260,
+        "vx":   "-16.090",
+        "svx":   "0.190",
+        "vy":   "19.500",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -13314,10 +13314,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P603",
-        "vx":  -4.500,
-        "svx":  0.130,
-        "vy":  0.640,
-        "svy":  0.150,
+        "vx":   "-4.500",
+        "svx":   "0.130",
+        "vy":   "0.640",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -13327,10 +13327,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P604",
-        "vx":  -7.960,
-        "svx":  0.190,
-        "vy":  5.140,
-        "svy":  0.160,
+        "vx":   "-7.960",
+        "svx":   "0.190",
+        "vy":   "5.140",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -13340,10 +13340,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P605",
-        "vx":  -23.460,
-        "svx":  0.180,
-        "vy":  19.930,
-        "svy":  0.150,
+        "vx":   "-23.460",
+        "svx":   "0.180",
+        "vy":   "19.930",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -13353,10 +13353,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P606",
-        "vx":  -12.350,
-        "svx":  0.100,
-        "vy":  11.470,
-        "svy":  0.110,
+        "vx":   "-12.350",
+        "svx":   "0.100",
+        "vy":   "11.470",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -13366,10 +13366,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P607",
-        "vx":  -7.120,
-        "svx":  0.100,
-        "vy":  3.270,
-        "svy":  0.110,
+        "vx":   "-7.120",
+        "svx":   "0.100",
+        "vy":   "3.270",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -13379,10 +13379,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P608",
-        "vx":  -5.020,
-        "svx":  0.140,
-        "vy":  1.500,
-        "svy":  0.150,
+        "vx":   "-5.020",
+        "svx":   "0.140",
+        "vy":   "1.500",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -13392,10 +13392,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P609",
-        "vx":  -13.310,
-        "svx":  0.170,
-        "vy":  15.800,
-        "svy":  0.140,
+        "vx":   "-13.310",
+        "svx":   "0.170",
+        "vy":   "15.800",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -13405,10 +13405,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P610",
-        "vx":  -3.610,
-        "svx":  0.100,
-        "vy":  0.780,
-        "svy":  0.110,
+        "vx":   "-3.610",
+        "svx":   "0.100",
+        "vy":   "0.780",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -13418,10 +13418,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P611",
-        "vx":  -4.220,
-        "svx":  0.110,
-        "vy":  -0.040,
-        "svy":  0.120,
+        "vx":   "-4.220",
+        "svx":   "0.110",
+        "vy":   "-0.040",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -13431,10 +13431,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P612",
-        "vx":  -18.870,
-        "svx":  0.110,
-        "vy":  16.730,
-        "svy":  0.130,
+        "vx":   "-18.870",
+        "svx":   "0.110",
+        "vy":   "16.730",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -13444,10 +13444,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P613",
-        "vx":  -15.470,
-        "svx":  0.220,
-        "vy":  13.600,
-        "svy":  0.290,
+        "vx":   "-15.470",
+        "svx":   "0.220",
+        "vy":   "13.600",
+        "svy":   "0.290",
     },
     "geometry": {
          "type": "Point",
@@ -13457,10 +13457,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P614",
-        "vx":  -3.700,
-        "svx":  0.120,
-        "vy":  -0.120,
-        "svy":  0.120,
+        "vx":   "-3.700",
+        "svx":   "0.120",
+        "vy":   "-0.120",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -13470,10 +13470,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P615",
-        "vx":  -6.830,
-        "svx":  0.100,
-        "vy":  4.940,
-        "svy":  0.140,
+        "vx":   "-6.830",
+        "svx":   "0.100",
+        "vy":   "4.940",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -13483,10 +13483,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P616",
-        "vx":  -10.310,
-        "svx":  0.120,
-        "vy":  10.060,
-        "svy":  0.110,
+        "vx":   "-10.310",
+        "svx":   "0.120",
+        "vy":   "10.060",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -13496,10 +13496,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P617",
-        "vx":  -5.530,
-        "svx":  0.100,
-        "vy":  2.460,
-        "svy":  0.140,
+        "vx":   "-5.530",
+        "svx":   "0.100",
+        "vy":   "2.460",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -13509,10 +13509,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P618",
-        "vx":  -4.990,
-        "svx":  0.100,
-        "vy":  0.260,
-        "svy":  0.100,
+        "vx":   "-4.990",
+        "svx":   "0.100",
+        "vy":   "0.260",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -13522,10 +13522,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P619",
-        "vx":  -4.470,
-        "svx":  0.180,
-        "vy":  -0.770,
-        "svy":  0.260,
+        "vx":   "-4.470",
+        "svx":   "0.180",
+        "vy":   "-0.770",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -13535,10 +13535,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P620",
-        "vx":  -4.460,
-        "svx":  0.140,
-        "vy":  -0.140,
-        "svy":  0.200,
+        "vx":   "-4.460",
+        "svx":   "0.140",
+        "vy":   "-0.140",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -13548,10 +13548,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P621",
-        "vx":  -3.990,
-        "svx":  0.090,
-        "vy":  -0.500,
-        "svy":  0.150,
+        "vx":   "-3.990",
+        "svx":   "0.090",
+        "vy":   "-0.500",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -13561,10 +13561,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P622",
-        "vx":  -3.820,
-        "svx":  0.100,
-        "vy":  0.020,
-        "svy":  0.090,
+        "vx":   "-3.820",
+        "svx":   "0.100",
+        "vy":   "0.020",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -13574,10 +13574,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P623",
-        "vx":  -3.670,
-        "svx":  0.090,
-        "vy":  0.270,
-        "svy":  0.090,
+        "vx":   "-3.670",
+        "svx":   "0.090",
+        "vy":   "0.270",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -13587,10 +13587,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P625",
-        "vx":  -3.600,
-        "svx":  0.120,
-        "vy":  -0.080,
-        "svy":  0.130,
+        "vx":   "-3.600",
+        "svx":   "0.120",
+        "vy":   "-0.080",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -13600,10 +13600,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P626",
-        "vx":  -3.900,
-        "svx":  0.090,
-        "vy":  -0.800,
-        "svy":  0.180,
+        "vx":   "-3.900",
+        "svx":   "0.090",
+        "vy":   "-0.800",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -13613,10 +13613,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P627",
-        "vx":  -6.300,
-        "svx":  0.130,
-        "vy":  4.150,
-        "svy":  0.130,
+        "vx":   "-6.300",
+        "svx":   "0.130",
+        "vy":   "4.150",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -13626,10 +13626,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P628",
-        "vx":  -13.530,
-        "svx":  0.320,
-        "vy":  12.930,
-        "svy":  0.350,
+        "vx":   "-13.530",
+        "svx":   "0.320",
+        "vy":   "12.930",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -13639,10 +13639,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P629",
-        "vx":  -11.130,
-        "svx":  0.160,
-        "vy":  7.900,
-        "svy":  0.130,
+        "vx":   "-11.130",
+        "svx":   "0.160",
+        "vy":   "7.900",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -13652,10 +13652,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P630",
-        "vx":  -9.510,
-        "svx":  573.940,
-        "vy":  7.900,
-        "svy":  0.730,
+        "vx":   "-9.510",
+        "svx":   "573.940",
+        "vy":   "7.900",
+        "svy":   "0.730",
     },
     "geometry": {
          "type": "Point",
@@ -13665,10 +13665,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P631",
-        "vx":  -10.050,
-        "svx":  0.290,
-        "vy":  5.780,
-        "svy":  0.720,
+        "vx":   "-10.050",
+        "svx":   "0.290",
+        "vy":   "5.780",
+        "svy":   "0.720",
     },
     "geometry": {
          "type": "Point",
@@ -13678,10 +13678,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P632",
-        "vx":  -11.360,
-        "svx":  0.280,
-        "vy":  8.970,
-        "svy":  0.110,
+        "vx":   "-11.360",
+        "svx":   "0.280",
+        "vy":   "8.970",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -13691,10 +13691,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P633",
-        "vx":  -10.760,
-        "svx":  0.270,
-        "vy":  8.560,
-        "svy":  0.230,
+        "vx":   "-10.760",
+        "svx":   "0.270",
+        "vy":   "8.560",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -13704,10 +13704,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P634",
-        "vx":  -9.650,
-        "svx":  0.240,
-        "vy":  8.060,
-        "svy":  0.150,
+        "vx":   "-9.650",
+        "svx":   "0.240",
+        "vy":   "8.060",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -13717,10 +13717,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P635",
-        "vx":  -11.680,
-        "svx":  0.280,
-        "vy":  9.200,
-        "svy":  0.120,
+        "vx":   "-11.680",
+        "svx":   "0.280",
+        "vy":   "9.200",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -13730,10 +13730,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P636",
-        "vx":  -12.040,
-        "svx":  0.240,
-        "vy":  8.050,
-        "svy":  0.110,
+        "vx":   "-12.040",
+        "svx":   "0.240",
+        "vy":   "8.050",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -13743,10 +13743,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P637",
-        "vx":  -11.500,
-        "svx":  0.270,
-        "vy":  8.090,
-        "svy":  0.180,
+        "vx":   "-11.500",
+        "svx":   "0.270",
+        "vy":   "8.090",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -13756,10 +13756,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P638",
-        "vx":  -10.880,
-        "svx":  0.240,
-        "vy":  7.290,
-        "svy":  0.490,
+        "vx":   "-10.880",
+        "svx":   "0.240",
+        "vy":   "7.290",
+        "svy":   "0.490",
     },
     "geometry": {
          "type": "Point",
@@ -13769,10 +13769,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P639",
-        "vx":  -8.710,
-        "svx":  0.220,
-        "vy":  7.130,
-        "svy":  0.220,
+        "vx":   "-8.710",
+        "svx":   "0.220",
+        "vy":   "7.130",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -13782,10 +13782,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P640",
-        "vx":  -9.630,
-        "svx":  0.130,
-        "vy":  8.450,
-        "svy":  0.130,
+        "vx":   "-9.630",
+        "svx":   "0.130",
+        "vy":   "8.450",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -13795,10 +13795,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P641",
-        "vx":  -8.740,
-        "svx":  0.200,
-        "vy":  7.690,
-        "svy":  0.220,
+        "vx":   "-8.740",
+        "svx":   "0.200",
+        "vy":   "7.690",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -13808,10 +13808,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P642",
-        "vx":  -10.360,
-        "svx":  0.380,
-        "vy":  5.530,
-        "svy":  0.690,
+        "vx":   "-10.360",
+        "svx":   "0.380",
+        "vy":   "5.530",
+        "svy":   "0.690",
     },
     "geometry": {
          "type": "Point",
@@ -13821,10 +13821,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P643",
-        "vx":  -8.150,
-        "svx":  0.150,
-        "vy":  5.960,
-        "svy":  0.170,
+        "vx":   "-8.150",
+        "svx":   "0.150",
+        "vy":   "5.960",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -13834,10 +13834,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P644",
-        "vx":  -10.070,
-        "svx":  0.390,
-        "vy":  5.740,
-        "svy":  0.250,
+        "vx":   "-10.070",
+        "svx":   "0.390",
+        "vy":   "5.740",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -13847,10 +13847,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P645",
-        "vx":  -8.960,
-        "svx":  0.420,
-        "vy":  6.100,
-        "svy":  0.170,
+        "vx":   "-8.960",
+        "svx":   "0.420",
+        "vy":   "6.100",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -13860,10 +13860,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P646",
-        "vx":  -8.260,
-        "svx":  0.270,
-        "vy":  7.140,
-        "svy":  0.150,
+        "vx":   "-8.260",
+        "svx":   "0.270",
+        "vy":   "7.140",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -13873,10 +13873,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P647",
-        "vx":  -8.390,
-        "svx":  0.260,
-        "vy":  6.960,
-        "svy":  0.180,
+        "vx":   "-8.390",
+        "svx":   "0.260",
+        "vy":   "6.960",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -13886,10 +13886,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P648",
-        "vx":  -10.940,
-        "svx":  0.180,
-        "vy":  8.550,
-        "svy":  0.140,
+        "vx":   "-10.940",
+        "svx":   "0.180",
+        "vy":   "8.550",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -13899,10 +13899,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P649",
-        "vx":  -7.160,
-        "svx":  0.130,
-        "vy":  7.250,
-        "svy":  0.120,
+        "vx":   "-7.160",
+        "svx":   "0.130",
+        "vy":   "7.250",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -13912,10 +13912,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P650",
-        "vx":  -6.420,
-        "svx":  0.120,
-        "vy":  5.790,
-        "svy":  0.110,
+        "vx":   "-6.420",
+        "svx":   "0.120",
+        "vy":   "5.790",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -13925,10 +13925,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P651",
-        "vx":  -7.010,
-        "svx":  0.100,
-        "vy":  5.010,
-        "svy":  0.120,
+        "vx":   "-7.010",
+        "svx":   "0.100",
+        "vy":   "5.010",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -13938,10 +13938,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P652",
-        "vx":  -6.610,
-        "svx":  0.180,
-        "vy":  3.870,
-        "svy":  0.230,
+        "vx":   "-6.610",
+        "svx":   "0.180",
+        "vy":   "3.870",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -13951,10 +13951,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P653",
-        "vx":  -6.740,
-        "svx":  0.140,
-        "vy":  5.370,
-        "svy":  0.100,
+        "vx":   "-6.740",
+        "svx":   "0.140",
+        "vy":   "5.370",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -13964,10 +13964,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P654",
-        "vx":  -11.190,
-        "svx":  0.310,
-        "vy":  8.150,
-        "svy":  0.140,
+        "vx":   "-11.190",
+        "svx":   "0.310",
+        "vy":   "8.150",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -13977,10 +13977,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P655",
-        "vx":  -6.380,
-        "svx":  0.250,
-        "vy":  4.330,
-        "svy":  0.620,
+        "vx":   "-6.380",
+        "svx":   "0.250",
+        "vy":   "4.330",
+        "svy":   "0.620",
     },
     "geometry": {
          "type": "Point",
@@ -13990,10 +13990,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P656",
-        "vx":  -6.610,
-        "svx":  0.190,
-        "vy":  2.010,
-        "svy":  0.650,
+        "vx":   "-6.610",
+        "svx":   "0.190",
+        "vy":   "2.010",
+        "svy":   "0.650",
     },
     "geometry": {
          "type": "Point",
@@ -14003,10 +14003,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P657",
-        "vx":  -5.700,
-        "svx":  0.150,
-        "vy":  5.120,
-        "svy":  0.130,
+        "vx":   "-5.700",
+        "svx":   "0.150",
+        "vy":   "5.120",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -14016,10 +14016,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P658",
-        "vx":  -5.380,
-        "svx":  0.130,
-        "vy":  4.860,
-        "svy":  0.150,
+        "vx":   "-5.380",
+        "svx":   "0.130",
+        "vy":   "4.860",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -14029,10 +14029,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P659",
-        "vx":  -5.870,
-        "svx":  0.300,
-        "vy":  4.830,
-        "svy":  0.230,
+        "vx":   "-5.870",
+        "svx":   "0.300",
+        "vy":   "4.830",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -14042,10 +14042,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P660",
-        "vx":  -7.470,
-        "svx":  0.400,
-        "vy":  5.120,
-        "svy":  0.210,
+        "vx":   "-7.470",
+        "svx":   "0.400",
+        "vy":   "5.120",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -14055,10 +14055,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P661",
-        "vx":  -5.480,
-        "svx":  0.150,
-        "vy":  5.070,
-        "svy":  0.130,
+        "vx":   "-5.480",
+        "svx":   "0.150",
+        "vy":   "5.070",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -14068,10 +14068,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P663",
-        "vx":  -5.040,
-        "svx":  0.220,
-        "vy":  4.840,
-        "svy":  0.210,
+        "vx":   "-5.040",
+        "svx":   "0.220",
+        "vy":   "4.840",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -14081,10 +14081,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P664",
-        "vx":  -6.860,
-        "svx":  1.010,
-        "vy":  7.240,
-        "svy":  1.920,
+        "vx":   "-6.860",
+        "svx":   "1.010",
+        "vy":   "7.240",
+        "svy":   "1.920",
     },
     "geometry": {
          "type": "Point",
@@ -14094,10 +14094,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P665",
-        "vx":  -6.750,
-        "svx":  0.200,
-        "vy":  6.500,
-        "svy":  0.790,
+        "vx":   "-6.750",
+        "svx":   "0.200",
+        "vy":   "6.500",
+        "svy":   "0.790",
     },
     "geometry": {
          "type": "Point",
@@ -14107,10 +14107,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P666",
-        "vx":  -6.620,
-        "svx":  0.220,
-        "vy":  6.530,
-        "svy":  0.530,
+        "vx":   "-6.620",
+        "svx":   "0.220",
+        "vy":   "6.530",
+        "svy":   "0.530",
     },
     "geometry": {
          "type": "Point",
@@ -14120,10 +14120,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P667",
-        "vx":  -12.000,
-        "svx":  1.110,
-        "vy":  6.440,
-        "svy":  5.200,
+        "vx":   "-12.000",
+        "svx":   "1.110",
+        "vy":   "6.440",
+        "svy":   "5.200",
     },
     "geometry": {
          "type": "Point",
@@ -14133,10 +14133,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P668",
-        "vx":  -10.330,
-        "svx":  0.510,
-        "vy":  3.160,
-        "svy":  0.150,
+        "vx":   "-10.330",
+        "svx":   "0.510",
+        "vy":   "3.160",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -14146,10 +14146,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P669",
-        "vx":  -7.970,
-        "svx":  0.320,
-        "vy":  5.540,
-        "svy":  0.360,
+        "vx":   "-7.970",
+        "svx":   "0.320",
+        "vy":   "5.540",
+        "svy":   "0.360",
     },
     "geometry": {
          "type": "Point",
@@ -14159,10 +14159,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P670",
-        "vx":  -7.850,
-        "svx":  0.240,
-        "vy":  3.920,
-        "svy":  0.210,
+        "vx":   "-7.850",
+        "svx":   "0.240",
+        "vy":   "3.920",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -14172,10 +14172,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P671",
-        "vx":  -12.680,
-        "svx":  0.560,
-        "vy":  6.660,
-        "svy":  0.610,
+        "vx":   "-12.680",
+        "svx":   "0.560",
+        "vy":   "6.660",
+        "svy":   "0.610",
     },
     "geometry": {
          "type": "Point",
@@ -14185,10 +14185,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P672",
-        "vx":  -5.680,
-        "svx":  0.100,
-        "vy":  3.970,
-        "svy":  0.100,
+        "vx":   "-5.680",
+        "svx":   "0.100",
+        "vy":   "3.970",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -14198,10 +14198,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P673",
-        "vx":  -4.470,
-        "svx":  0.180,
-        "vy":  4.860,
-        "svy":  0.120,
+        "vx":   "-4.470",
+        "svx":   "0.180",
+        "vy":   "4.860",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -14211,10 +14211,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P674",
-        "vx":  -7.000,
-        "svx":  0.110,
-        "vy":  3.760,
-        "svy":  0.110,
+        "vx":   "-7.000",
+        "svx":   "0.110",
+        "vy":   "3.760",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -14224,10 +14224,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P675",
-        "vx":  -3.900,
-        "svx":  0.110,
-        "vy":  -1.020,
-        "svy":  0.110,
+        "vx":   "-3.900",
+        "svx":   "0.110",
+        "vy":   "-1.020",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -14237,10 +14237,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P676",
-        "vx":  -2.150,
-        "svx":  0.110,
-        "vy":  -3.370,
-        "svy":  0.210,
+        "vx":   "-2.150",
+        "svx":   "0.110",
+        "vy":   "-3.370",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -14250,10 +14250,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P677",
-        "vx":  -3.860,
-        "svx":  0.100,
-        "vy":  -1.070,
-        "svy":  0.090,
+        "vx":   "-3.860",
+        "svx":   "0.100",
+        "vy":   "-1.070",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -14263,10 +14263,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P678",
-        "vx":  -3.310,
-        "svx":  0.100,
-        "vy":  -1.370,
-        "svy":  0.100,
+        "vx":   "-3.310",
+        "svx":   "0.100",
+        "vy":   "-1.370",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -14276,10 +14276,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P679",
-        "vx":  -2.930,
-        "svx":  0.170,
-        "vy":  -0.870,
-        "svy":  0.150,
+        "vx":   "-2.930",
+        "svx":   "0.170",
+        "vy":   "-0.870",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -14289,10 +14289,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P680",
-        "vx":  -1.710,
-        "svx":  0.180,
-        "vy":  -2.920,
-        "svy":  0.130,
+        "vx":   "-1.710",
+        "svx":   "0.180",
+        "vy":   "-2.920",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -14302,10 +14302,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P681",
-        "vx":  -1.540,
-        "svx":  0.290,
-        "vy":  -1.520,
-        "svy":  0.120,
+        "vx":   "-1.540",
+        "svx":   "0.290",
+        "vy":   "-1.520",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -14315,10 +14315,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P682",
-        "vx":  -1.980,
-        "svx":  0.150,
-        "vy":  -0.340,
-        "svy":  0.160,
+        "vx":   "-1.980",
+        "svx":   "0.150",
+        "vy":   "-0.340",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -14328,10 +14328,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P683",
-        "vx":  -3.150,
-        "svx":  0.100,
-        "vy":  -2.390,
-        "svy":  0.200,
+        "vx":   "-3.150",
+        "svx":   "0.100",
+        "vy":   "-2.390",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -14341,10 +14341,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P684",
-        "vx":  -2.660,
-        "svx":  0.100,
-        "vy":  -1.920,
-        "svy":  0.090,
+        "vx":   "-2.660",
+        "svx":   "0.100",
+        "vy":   "-1.920",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -14354,10 +14354,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P685",
-        "vx":  -2.890,
-        "svx":  0.160,
-        "vy":  -1.990,
-        "svy":  0.120,
+        "vx":   "-2.890",
+        "svx":   "0.160",
+        "vy":   "-1.990",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -14367,10 +14367,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P686",
-        "vx":  -3.330,
-        "svx":  0.230,
-        "vy":  -3.320,
-        "svy":  0.210,
+        "vx":   "-3.330",
+        "svx":   "0.230",
+        "vy":   "-3.320",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -14380,10 +14380,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P687",
-        "vx":  2.860,
-        "svx":  0.280,
-        "vy":  4.620,
-        "svy":  0.210,
+        "vx":   "2.860",
+        "svx":   "0.280",
+        "vy":   "4.620",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -14393,10 +14393,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P688",
-        "vx":  1.170,
-        "svx":  0.460,
-        "vy":  7.380,
-        "svy":  0.350,
+        "vx":   "1.170",
+        "svx":   "0.460",
+        "vy":   "7.380",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -14406,10 +14406,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P689",
-        "vx":  1.800,
-        "svx":  0.280,
-        "vy":  4.520,
-        "svy":  0.110,
+        "vx":   "1.800",
+        "svx":   "0.280",
+        "vy":   "4.520",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -14419,10 +14419,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P690",
-        "vx":  0.220,
-        "svx":  0.390,
-        "vy":  4.310,
-        "svy":  0.230,
+        "vx":   "0.220",
+        "svx":   "0.390",
+        "vy":   "4.310",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -14432,10 +14432,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P691",
-        "vx":  1.430,
-        "svx":  0.280,
-        "vy":  5.460,
-        "svy":  0.150,
+        "vx":   "1.430",
+        "svx":   "0.280",
+        "vy":   "5.460",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -14445,10 +14445,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P692",
-        "vx":  5.530,
-        "svx":  0.410,
-        "vy":  2.390,
-        "svy":  0.350,
+        "vx":   "5.530",
+        "svx":   "0.410",
+        "vy":   "2.390",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -14458,10 +14458,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P693",
-        "vx":  4.560,
-        "svx":  0.280,
-        "vy":  3.600,
-        "svy":  0.260,
+        "vx":   "4.560",
+        "svx":   "0.280",
+        "vy":   "3.600",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -14471,10 +14471,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P694",
-        "vx":  3.750,
-        "svx":  0.380,
-        "vy":  6.360,
-        "svy":  0.160,
+        "vx":   "3.750",
+        "svx":   "0.380",
+        "vy":   "6.360",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -14484,10 +14484,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P695",
-        "vx":  -1.300,
-        "svx":  0.410,
-        "vy":  5.810,
-        "svy":  0.490,
+        "vx":   "-1.300",
+        "svx":   "0.410",
+        "vy":   "5.810",
+        "svy":   "0.490",
     },
     "geometry": {
          "type": "Point",
@@ -14497,10 +14497,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P696",
-        "vx":  2.640,
-        "svx":  0.460,
-        "vy":  5.350,
-        "svy":  0.300,
+        "vx":   "2.640",
+        "svx":   "0.460",
+        "vy":   "5.350",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -14510,10 +14510,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P697",
-        "vx":  -2.650,
-        "svx":  1.470,
-        "vy":  9.120,
-        "svy":  1.190,
+        "vx":   "-2.650",
+        "svx":   "1.470",
+        "vy":   "9.120",
+        "svy":   "1.190",
     },
     "geometry": {
          "type": "Point",
@@ -14523,10 +14523,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P698",
-        "vx":  2.620,
-        "svx":  0.250,
-        "vy":  3.750,
-        "svy":  0.150,
+        "vx":   "2.620",
+        "svx":   "0.250",
+        "vy":   "3.750",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -14536,10 +14536,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P699",
-        "vx":  -2.160,
-        "svx":  1.850,
-        "vy":  -6.950,
-        "svy":  2.400,
+        "vx":   "-2.160",
+        "svx":   "1.850",
+        "vy":   "-6.950",
+        "svy":   "2.400",
     },
     "geometry": {
          "type": "Point",
@@ -14549,10 +14549,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P700",
-        "vx":  1.870,
-        "svx":  0.360,
-        "vy":  3.780,
-        "svy":  0.140,
+        "vx":   "1.870",
+        "svx":   "0.360",
+        "vy":   "3.780",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -14562,10 +14562,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P701",
-        "vx":  2.960,
-        "svx":  0.340,
-        "vy":  3.950,
-        "svy":  0.130,
+        "vx":   "2.960",
+        "svx":   "0.340",
+        "vy":   "3.950",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -14575,10 +14575,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P702",
-        "vx":  3.060,
-        "svx":  0.350,
-        "vy":  4.430,
-        "svy":  0.420,
+        "vx":   "3.060",
+        "svx":   "0.350",
+        "vy":   "4.430",
+        "svy":   "0.420",
     },
     "geometry": {
          "type": "Point",
@@ -14588,10 +14588,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P703",
-        "vx":  3.620,
-        "svx":  0.380,
-        "vy":  1.220,
-        "svy":  0.270,
+        "vx":   "3.620",
+        "svx":   "0.380",
+        "vy":   "1.220",
+        "svy":   "0.270",
     },
     "geometry": {
          "type": "Point",
@@ -14601,10 +14601,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P704",
-        "vx":  3.510,
-        "svx":  0.920,
-        "vy":  6.290,
-        "svy":  0.530,
+        "vx":   "3.510",
+        "svx":   "0.920",
+        "vy":   "6.290",
+        "svy":   "0.530",
     },
     "geometry": {
          "type": "Point",
@@ -14614,10 +14614,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P705",
-        "vx":  1.450,
-        "svx":  0.630,
-        "vy":  4.460,
-        "svy":  0.310,
+        "vx":   "1.450",
+        "svx":   "0.630",
+        "vy":   "4.460",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -14627,10 +14627,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P706",
-        "vx":  -1.560,
-        "svx":  0.100,
-        "vy":  -1.040,
-        "svy":  0.100,
+        "vx":   "-1.560",
+        "svx":   "0.100",
+        "vy":   "-1.040",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -14640,10 +14640,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P707",
-        "vx":  -2.550,
-        "svx":  0.160,
-        "vy":  -1.620,
-        "svy":  0.170,
+        "vx":   "-2.550",
+        "svx":   "0.160",
+        "vy":   "-1.620",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -14653,10 +14653,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P708",
-        "vx":  -6.040,
-        "svx":  1.100,
-        "vy":  -7.720,
-        "svy":  1.130,
+        "vx":   "-6.040",
+        "svx":   "1.100",
+        "vy":   "-7.720",
+        "svy":   "1.130",
     },
     "geometry": {
          "type": "Point",
@@ -14666,10 +14666,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P709",
-        "vx":  -1.440,
-        "svx":  0.110,
-        "vy":  -0.760,
-        "svy":  0.180,
+        "vx":   "-1.440",
+        "svx":   "0.110",
+        "vy":   "-0.760",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -14679,10 +14679,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P710",
-        "vx":  -3.400,
-        "svx":  0.200,
-        "vy":  -0.610,
-        "svy":  0.280,
+        "vx":   "-3.400",
+        "svx":   "0.200",
+        "vy":   "-0.610",
+        "svy":   "0.280",
     },
     "geometry": {
          "type": "Point",
@@ -14692,10 +14692,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P711",
-        "vx":  3.390,
-        "svx":  0.820,
-        "vy":  0.590,
-        "svy":  0.190,
+        "vx":   "3.390",
+        "svx":   "0.820",
+        "vy":   "0.590",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -14705,10 +14705,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P712",
-        "vx":  -2.120,
-        "svx":  0.410,
-        "vy":  0.390,
-        "svy":  0.160,
+        "vx":   "-2.120",
+        "svx":   "0.410",
+        "vy":   "0.390",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -14718,10 +14718,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P713",
-        "vx":  -2.620,
-        "svx":  0.800,
-        "vy":  -0.080,
-        "svy":  0.700,
+        "vx":   "-2.620",
+        "svx":   "0.800",
+        "vy":   "-0.080",
+        "svy":   "0.700",
     },
     "geometry": {
          "type": "Point",
@@ -14731,10 +14731,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P714",
-        "vx":  -1.040,
-        "svx":  0.370,
-        "vy":  0.480,
-        "svy":  0.330,
+        "vx":   "-1.040",
+        "svx":   "0.370",
+        "vy":   "0.480",
+        "svy":   "0.330",
     },
     "geometry": {
          "type": "Point",
@@ -14744,10 +14744,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P715",
-        "vx":  -1.490,
-        "svx":  0.110,
-        "vy":  -0.220,
-        "svy":  0.100,
+        "vx":   "-1.490",
+        "svx":   "0.110",
+        "vy":   "-0.220",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -14757,10 +14757,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P716",
-        "vx":  -5.980,
-        "svx":  0.610,
-        "vy":  0.030,
-        "svy":  0.230,
+        "vx":   "-5.980",
+        "svx":   "0.610",
+        "vy":   "0.030",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -14770,10 +14770,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P717",
-        "vx":  -1.040,
-        "svx":  0.150,
-        "vy":  -0.410,
-        "svy":  0.130,
+        "vx":   "-1.040",
+        "svx":   "0.150",
+        "vy":   "-0.410",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -14783,10 +14783,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P718",
-        "vx":  -1.690,
-        "svx":  0.140,
-        "vy":  -0.520,
-        "svy":  0.110,
+        "vx":   "-1.690",
+        "svx":   "0.140",
+        "vy":   "-0.520",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -14796,10 +14796,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P719",
-        "vx":  -1.320,
-        "svx":  0.110,
-        "vy":  -0.890,
-        "svy":  0.110,
+        "vx":   "-1.320",
+        "svx":   "0.110",
+        "vy":   "-0.890",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -14809,10 +14809,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P720",
-        "vx":  -1.240,
-        "svx":  0.100,
-        "vy":  -0.200,
-        "svy":  0.110,
+        "vx":   "-1.240",
+        "svx":   "0.100",
+        "vy":   "-0.200",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -14822,10 +14822,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P721",
-        "vx":  -0.750,
-        "svx":  0.100,
-        "vy":  -0.430,
-        "svy":  0.130,
+        "vx":   "-0.750",
+        "svx":   "0.100",
+        "vy":   "-0.430",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -14835,10 +14835,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P722",
-        "vx":  -0.800,
-        "svx":  0.100,
-        "vy":  -0.580,
-        "svy":  0.100,
+        "vx":   "-0.800",
+        "svx":   "0.100",
+        "vy":   "-0.580",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -14848,10 +14848,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P723",
-        "vx":  -10.540,
-        "svx":  0.680,
-        "vy":  7.380,
-        "svy":  0.240,
+        "vx":   "-10.540",
+        "svx":   "0.680",
+        "vy":   "7.380",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -14861,10 +14861,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P724",
-        "vx":  -9.710,
-        "svx":  0.390,
-        "vy":  6.210,
-        "svy":  0.150,
+        "vx":   "-9.710",
+        "svx":   "0.390",
+        "vy":   "6.210",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -14874,10 +14874,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P725",
-        "vx":  -11.060,
-        "svx":  0.100,
-        "vy":  8.820,
-        "svy":  0.100,
+        "vx":   "-11.060",
+        "svx":   "0.100",
+        "vy":   "8.820",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -14887,10 +14887,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P726",
-        "vx":  -7.510,
-        "svx":  0.120,
-        "vy":  4.140,
-        "svy":  0.100,
+        "vx":   "-7.510",
+        "svx":   "0.120",
+        "vy":   "4.140",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -14900,10 +14900,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P727",
-        "vx":  -9.840,
-        "svx":  0.190,
-        "vy":  6.270,
-        "svy":  0.150,
+        "vx":   "-9.840",
+        "svx":   "0.190",
+        "vy":   "6.270",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -14913,10 +14913,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P728",
-        "vx":  -2.420,
-        "svx":  0.240,
-        "vy":  -0.430,
-        "svy":  0.200,
+        "vx":   "-2.420",
+        "svx":   "0.240",
+        "vy":   "-0.430",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -14926,10 +14926,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P729",
-        "vx":  -30.350,
-        "svx":  0.320,
-        "vy":  29.280,
-        "svy":  0.290,
+        "vx":   "-30.350",
+        "svx":   "0.320",
+        "vy":   "29.280",
+        "svy":   "0.290",
     },
     "geometry": {
          "type": "Point",
@@ -14939,10 +14939,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P730",
-        "vx":  -6.400,
-        "svx":  0.130,
-        "vy":  3.760,
-        "svy":  0.110,
+        "vx":   "-6.400",
+        "svx":   "0.130",
+        "vy":   "3.760",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -14952,10 +14952,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P731",
-        "vx":  -5.950,
-        "svx":  0.140,
-        "vy":  3.680,
-        "svy":  0.110,
+        "vx":   "-5.950",
+        "svx":   "0.140",
+        "vy":   "3.680",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -14965,10 +14965,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P732",
-        "vx":  1.190,
-        "svx":  0.320,
-        "vy":  8.550,
-        "svy":  0.510,
+        "vx":   "1.190",
+        "svx":   "0.320",
+        "vy":   "8.550",
+        "svy":   "0.510",
     },
     "geometry": {
          "type": "Point",
@@ -14978,10 +14978,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P733",
-        "vx":  2.600,
-        "svx":  0.240,
-        "vy":  11.540,
-        "svy":  0.170,
+        "vx":   "2.600",
+        "svx":   "0.240",
+        "vy":   "11.540",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -14991,10 +14991,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P734",
-        "vx":  0.490,
-        "svx":  0.200,
-        "vy":  10.390,
-        "svy":  0.150,
+        "vx":   "0.490",
+        "svx":   "0.200",
+        "vy":   "10.390",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -15004,10 +15004,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P735",
-        "vx":  -2.470,
-        "svx":  0.300,
-        "vy":  6.720,
-        "svy":  0.270,
+        "vx":   "-2.470",
+        "svx":   "0.300",
+        "vy":   "6.720",
+        "svy":   "0.270",
     },
     "geometry": {
          "type": "Point",
@@ -15017,10 +15017,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P736",
-        "vx":  -3.460,
-        "svx":  0.160,
-        "vy":  4.580,
-        "svy":  0.130,
+        "vx":   "-3.460",
+        "svx":   "0.160",
+        "vy":   "4.580",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -15030,10 +15030,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P737",
-        "vx":  -3.380,
-        "svx":  0.260,
-        "vy":  5.420,
-        "svy":  0.180,
+        "vx":   "-3.380",
+        "svx":   "0.260",
+        "vy":   "5.420",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -15043,10 +15043,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P738",
-        "vx":  -4.250,
-        "svx":  0.130,
-        "vy":  2.030,
-        "svy":  0.130,
+        "vx":   "-4.250",
+        "svx":   "0.130",
+        "vy":   "2.030",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -15056,10 +15056,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P739",
-        "vx":  -3.980,
-        "svx":  0.170,
-        "vy":  0.930,
-        "svy":  0.150,
+        "vx":   "-3.980",
+        "svx":   "0.170",
+        "vy":   "0.930",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -15069,10 +15069,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P740",
-        "vx":  -19.480,
-        "svx":  0.220,
-        "vy":  18.420,
-        "svy":  0.150,
+        "vx":   "-19.480",
+        "svx":   "0.220",
+        "vy":   "18.420",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -15082,10 +15082,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P741",
-        "vx":  -18.540,
-        "svx":  0.220,
-        "vy":  18.910,
-        "svy":  0.260,
+        "vx":   "-18.540",
+        "svx":   "0.220",
+        "vy":   "18.910",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -15095,10 +15095,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P742",
-        "vx":  -22.360,
-        "svx":  0.260,
-        "vy":  21.250,
-        "svy":  0.250,
+        "vx":   "-22.360",
+        "svx":   "0.260",
+        "vy":   "21.250",
+        "svy":   "0.250",
     },
     "geometry": {
          "type": "Point",
@@ -15108,10 +15108,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P744",
-        "vx":  -14.080,
-        "svx":  0.280,
-        "vy":  21.500,
-        "svy":  0.210,
+        "vx":   "-14.080",
+        "svx":   "0.280",
+        "vy":   "21.500",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -15121,10 +15121,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P775",
-        "vx":  2.210,
-        "svx":  1.190,
-        "vy":  -6.790,
-        "svy":  1.210,
+        "vx":   "2.210",
+        "svx":   "1.190",
+        "vy":   "-6.790",
+        "svy":   "1.210",
     },
     "geometry": {
          "type": "Point",
@@ -15134,10 +15134,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P776",
-        "vx":  -0.860,
-        "svx":  0.320,
-        "vy":  -0.720,
-        "svy":  0.310,
+        "vx":   "-0.860",
+        "svx":   "0.320",
+        "vy":   "-0.720",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -15147,10 +15147,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P777",
-        "vx":  -1.630,
-        "svx":  0.260,
-        "vy":  0.350,
-        "svy":  0.200,
+        "vx":   "-1.630",
+        "svx":   "0.260",
+        "vy":   "0.350",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -15160,10 +15160,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P778",
-        "vx":  -1.290,
-        "svx":  0.300,
-        "vy":  -0.070,
-        "svy":  0.220,
+        "vx":   "-1.290",
+        "svx":   "0.300",
+        "vy":   "-0.070",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -15173,10 +15173,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P779",
-        "vx":  -1.670,
-        "svx":  0.300,
-        "vy":  -0.290,
-        "svy":  0.240,
+        "vx":   "-1.670",
+        "svx":   "0.300",
+        "vy":   "-0.290",
+        "svy":   "0.240",
     },
     "geometry": {
          "type": "Point",
@@ -15186,10 +15186,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P780",
-        "vx":  15.520,
-        "svx":  0.610,
-        "vy":  4.220,
-        "svy":  0.630,
+        "vx":   "15.520",
+        "svx":   "0.610",
+        "vy":   "4.220",
+        "svy":   "0.630",
     },
     "geometry": {
          "type": "Point",
@@ -15199,10 +15199,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P781",
-        "vx":  -11.710,
-        "svx":  0.170,
-        "vy":  7.930,
-        "svy":  0.180,
+        "vx":   "-11.710",
+        "svx":   "0.170",
+        "vy":   "7.930",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -15212,10 +15212,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P782",
-        "vx":  -17.630,
-        "svx":  0.140,
-        "vy":  21.410,
-        "svy":  0.160,
+        "vx":   "-17.630",
+        "svx":   "0.140",
+        "vy":   "21.410",
+        "svy":   "0.160",
     },
     "geometry": {
          "type": "Point",
@@ -15225,10 +15225,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P783",
-        "vx":  -2.330,
-        "svx":  0.190,
-        "vy":  -0.150,
-        "svy":  0.130,
+        "vx":   "-2.330",
+        "svx":   "0.190",
+        "vy":   "-0.150",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -15238,10 +15238,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P784",
-        "vx":  -6.290,
-        "svx":  0.710,
-        "vy":  5.570,
-        "svy":  0.180,
+        "vx":   "-6.290",
+        "svx":   "0.710",
+        "vy":   "5.570",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -15251,10 +15251,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P786",
-        "vx":  -1.110,
-        "svx":  0.480,
-        "vy":  10.130,
-        "svy":  0.300,
+        "vx":   "-1.110",
+        "svx":   "0.480",
+        "vy":   "10.130",
+        "svy":   "0.300",
     },
     "geometry": {
          "type": "Point",
@@ -15264,10 +15264,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P787",
-        "vx":  -28.300,
-        "svx":  0.230,
-        "vy":  33.120,
-        "svy":  0.170,
+        "vx":   "-28.300",
+        "svx":   "0.230",
+        "vy":   "33.120",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -15277,10 +15277,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P788",
-        "vx":  -31.290,
-        "svx":  1.890,
-        "vy":  33.710,
-        "svy":  0.400,
+        "vx":   "-31.290",
+        "svx":   "1.890",
+        "vy":   "33.710",
+        "svy":   "0.400",
     },
     "geometry": {
          "type": "Point",
@@ -15290,10 +15290,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P789",
-        "vx":  -12.140,
-        "svx":  0.380,
-        "vy":  16.710,
-        "svy":  0.410,
+        "vx":   "-12.140",
+        "svx":   "0.380",
+        "vy":   "16.710",
+        "svy":   "0.410",
     },
     "geometry": {
          "type": "Point",
@@ -15303,10 +15303,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P790",
-        "vx":  -25.430,
-        "svx":  0.310,
-        "vy":  31.180,
-        "svy":  0.260,
+        "vx":   "-25.430",
+        "svx":   "0.310",
+        "vy":   "31.180",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -15316,10 +15316,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P791",
-        "vx":  49.530,
-        "svx":  5.660,
-        "vy":  -16.520,
-        "svy":  1.050,
+        "vx":   "49.530",
+        "svx":   "5.660",
+        "vy":   "-16.520",
+        "svy":   "1.050",
     },
     "geometry": {
          "type": "Point",
@@ -15329,10 +15329,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P792",
-        "vx":  3.510,
-        "svx":  0.920,
-        "vy":  6.290,
-        "svy":  0.530,
+        "vx":   "3.510",
+        "svx":   "0.920",
+        "vy":   "6.290",
+        "svy":   "0.530",
     },
     "geometry": {
          "type": "Point",
@@ -15342,10 +15342,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P793",
-        "vx":  -6.460,
-        "svx":  0.720,
-        "vy":  8.010,
-        "svy":  0.260,
+        "vx":   "-6.460",
+        "svx":   "0.720",
+        "vy":   "8.010",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -15355,10 +15355,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P794",
-        "vx":  -9.250,
-        "svx":  0.760,
-        "vy":  5.410,
-        "svy":  1.040,
+        "vx":   "-9.250",
+        "svx":   "0.760",
+        "vy":   "5.410",
+        "svy":   "1.040",
     },
     "geometry": {
          "type": "Point",
@@ -15368,10 +15368,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P795",
-        "vx":  -1.960,
-        "svx":  0.600,
-        "vy":  2.200,
-        "svy":  0.660,
+        "vx":   "-1.960",
+        "svx":   "0.600",
+        "vy":   "2.200",
+        "svy":   "0.660",
     },
     "geometry": {
          "type": "Point",
@@ -15381,10 +15381,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P796",
-        "vx":  -3.760,
-        "svx":  1.890,
-        "vy":  0.710,
-        "svy":  1.730,
+        "vx":   "-3.760",
+        "svx":   "1.890",
+        "vy":   "0.710",
+        "svy":   "1.730",
     },
     "geometry": {
          "type": "Point",
@@ -15394,10 +15394,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P797",
-        "vx":  3.430,
-        "svx":  14.280,
-        "vy":  18.340,
-        "svy":  13.060,
+        "vx":   "3.430",
+        "svx":   "14.280",
+        "vy":   "18.340",
+        "svy":   "13.060",
     },
     "geometry": {
          "type": "Point",
@@ -15407,10 +15407,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P798",
-        "vx":  -3.820,
-        "svx":  1.890,
-        "vy":  4.430,
-        "svy":  1.980,
+        "vx":   "-3.820",
+        "svx":   "1.890",
+        "vy":   "4.430",
+        "svy":   "1.980",
     },
     "geometry": {
          "type": "Point",
@@ -15420,10 +15420,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P799",
-        "vx":  -37.130,
-        "svx":  1.660,
-        "vy":  38.940,
-        "svy":  1.670,
+        "vx":   "-37.130",
+        "svx":   "1.660",
+        "vy":   "38.940",
+        "svy":   "1.670",
     },
     "geometry": {
          "type": "Point",
@@ -15433,10 +15433,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "P800",
-        "vx":  -35.220,
-        "svx":  1.790,
-        "vy":  38.410,
-        "svy":  1.800,
+        "vx":   "-35.220",
+        "svx":   "1.790",
+        "vy":   "38.410",
+        "svy":   "1.800",
     },
     "geometry": {
          "type": "Point",
@@ -15446,10 +15446,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PABH",
-        "vx":  13.220,
-        "svx":  0.100,
-        "vy":  10.880,
-        "svy":  0.100,
+        "vx":   "13.220",
+        "svx":   "0.100",
+        "vy":   "10.880",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -15459,10 +15459,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PALX",
-        "vx":  12.900,
-        "svx":  1.430,
-        "vy":  29.890,
-        "svy":  1.410,
+        "vx":   "12.900",
+        "svx":   "1.430",
+        "vy":   "29.890",
+        "svy":   "1.410",
     },
     "geometry": {
          "type": "Point",
@@ -15472,10 +15472,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PBHR",
-        "vx":  -22.240,
-        "svx":  1.380,
-        "vy":  34.990,
-        "svy":  1.400,
+        "vx":   "-22.240",
+        "svx":   "1.380",
+        "vy":   "34.990",
+        "svy":   "1.400",
     },
     "geometry": {
          "type": "Point",
@@ -15485,10 +15485,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PBOC",
-        "vx":  -1.750,
-        "svx":  0.150,
-        "vy":  -0.600,
-        "svy":  0.230,
+        "vx":   "-1.750",
+        "svx":   "0.150",
+        "vy":   "-0.600",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -15498,10 +15498,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PBPP",
-        "vx":  -18.410,
-        "svx":  0.090,
-        "vy":  17.090,
-        "svy":  0.080,
+        "vx":   "-18.410",
+        "svx":   "0.090",
+        "vy":   "17.090",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -15511,10 +15511,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PCLN",
-        "vx":  -109.000,
-        "svx":  14.200,
-        "vy":  108.610,
-        "svy":  52.840,
+        "vx":   "-109.000",
+        "svx":   "14.200",
+        "vy":   "108.610",
+        "svy":   "52.840",
     },
     "geometry": {
          "type": "Point",
@@ -15524,10 +15524,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PCOL",
-        "vx":  2.850,
-        "svx":  0.140,
-        "vy":  3.760,
-        "svy":  0.120,
+        "vx":   "2.850",
+        "svx":   "0.140",
+        "vy":   "3.760",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -15537,10 +15537,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PHLB",
-        "vx":  -10.670,
-        "svx":  0.090,
-        "vy":  12.820,
-        "svy":  0.090,
+        "vx":   "-10.670",
+        "svx":   "0.090",
+        "vy":   "12.820",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -15550,10 +15550,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PIE1",
-        "vx":  -1.090,
-        "svx":  0.100,
-        "vy":  0.360,
-        "svy":  0.130,
+        "vx":   "-1.090",
+        "svx":   "0.100",
+        "vy":   "0.360",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -15563,10 +15563,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PIN1",
-        "vx":  -17.200,
-        "svx":  0.380,
-        "vy":  17.060,
-        "svy":  0.370,
+        "vx":   "-17.200",
+        "svx":   "0.380",
+        "vy":   "17.060",
+        "svy":   "0.370",
     },
     "geometry": {
          "type": "Point",
@@ -15576,10 +15576,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PIN2",
-        "vx":  -17.700,
-        "svx":  0.570,
-        "vy":  17.140,
-        "svy":  1.690,
+        "vx":   "-17.700",
+        "svx":   "0.570",
+        "vy":   "17.140",
+        "svy":   "1.690",
     },
     "geometry": {
          "type": "Point",
@@ -15589,10 +15589,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PJZX",
-        "vx":  -36.060,
-        "svx":  1.970,
-        "vy":  38.970,
-        "svy":  1.970,
+        "vx":   "-36.060",
+        "svx":   "1.970",
+        "vy":   "38.970",
+        "svy":   "1.970",
     },
     "geometry": {
          "type": "Point",
@@ -15602,10 +15602,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PKRD",
-        "vx":  -27.370,
-        "svx":  0.240,
-        "vy":  23.210,
-        "svy":  0.190,
+        "vx":   "-27.370",
+        "svx":   "0.240",
+        "vy":   "23.210",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -15615,10 +15615,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PLPX",
-        "vx":  16.960,
-        "svx":  1.350,
-        "vy":  35.620,
-        "svy":  1.340,
+        "vx":   "16.960",
+        "svx":   "1.350",
+        "vy":   "35.620",
+        "svy":   "1.340",
     },
     "geometry": {
          "type": "Point",
@@ -15628,10 +15628,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PLTX",
-        "vx":  -29.060,
-        "svx":  1.400,
-        "vy":  53.520,
-        "svy":  1.380,
+        "vx":   "-29.060",
+        "svx":   "1.400",
+        "vy":   "53.520",
+        "svy":   "1.380",
     },
     "geometry": {
          "type": "Point",
@@ -15641,10 +15641,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PMOB",
-        "vx":  -26.530,
-        "svx":  0.540,
-        "vy":  26.410,
-        "svy":  0.550,
+        "vx":   "-26.530",
+        "svx":   "0.540",
+        "vy":   "26.410",
+        "svy":   "0.550",
     },
     "geometry": {
          "type": "Point",
@@ -15654,10 +15654,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "POMM",
-        "vx":  -21.840,
-        "svx":  0.170,
-        "vy":  25.230,
-        "svy":  0.180,
+        "vx":   "-21.840",
+        "svx":   "0.170",
+        "vy":   "25.230",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -15667,10 +15667,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PPBF",
-        "vx":  -22.860,
-        "svx":  0.120,
-        "vy":  22.930,
-        "svy":  0.080,
+        "vx":   "-22.860",
+        "svx":   "0.120",
+        "vy":   "22.930",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -15680,10 +15680,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PRKC",
-        "vx":  -49.130,
-        "svx":  11.030,
-        "vy":  -15.890,
-        "svy":  7.400,
+        "vx":   "-49.130",
+        "svx":   "11.030",
+        "vy":   "-15.890",
+        "svy":   "7.400",
     },
     "geometry": {
          "type": "Point",
@@ -15693,10 +15693,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PSAP",
-        "vx":  -14.770,
-        "svx":  0.500,
-        "vy":  16.230,
-        "svy":  0.360,
+        "vx":   "-14.770",
+        "svx":   "0.500",
+        "vy":   "16.230",
+        "svy":   "0.360",
     },
     "geometry": {
          "type": "Point",
@@ -15706,10 +15706,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PSDM",
-        "vx":  -25.310,
-        "svx":  0.280,
-        "vy":  23.000,
-        "svy":  0.470,
+        "vx":   "-25.310",
+        "svx":   "0.280",
+        "vy":   "23.000",
+        "svy":   "0.470",
     },
     "geometry": {
          "type": "Point",
@@ -15719,10 +15719,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PSTX",
-        "vx":  17.290,
-        "svx":  1.500,
-        "vy":  36.250,
-        "svy":  1.470,
+        "vx":   "17.290",
+        "svx":   "1.500",
+        "vy":   "36.250",
+        "svy":   "1.470",
     },
     "geometry": {
          "type": "Point",
@@ -15732,10 +15732,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PTEX",
-        "vx":  -42.790,
-        "svx":  10.980,
-        "vy":  15.310,
-        "svy":  11.440,
+        "vx":   "-42.790",
+        "svx":   "10.980",
+        "vy":   "15.310",
+        "svy":   "11.440",
     },
     "geometry": {
          "type": "Point",
@@ -15745,10 +15745,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PTSG",
-        "vx":  1.860,
-        "svx":  0.220,
-        "vy":  11.030,
-        "svy":  0.170,
+        "vx":   "1.860",
+        "svx":   "0.220",
+        "vy":   "11.030",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -15758,10 +15758,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PUPU",
-        "vx":  3.040,
-        "svx":  0.230,
-        "vy":  1.320,
-        "svy":  0.330,
+        "vx":   "3.040",
+        "svx":   "0.230",
+        "vy":   "1.320",
+        "svy":   "0.330",
     },
     "geometry": {
          "type": "Point",
@@ -15771,10 +15771,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PVE3",
-        "vx":  -28.890,
-        "svx":  0.230,
-        "vy":  30.130,
-        "svy":  0.200,
+        "vx":   "-28.890",
+        "svx":   "0.230",
+        "vy":   "30.130",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -15784,10 +15784,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PVHS",
-        "vx":  -28.930,
-        "svx":  1.260,
-        "vy":  30.080,
-        "svy":  0.350,
+        "vx":   "-28.930",
+        "svx":   "1.260",
+        "vy":   "30.080",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -15797,10 +15797,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "PVRS",
-        "vx":  -28.890,
-        "svx":  0.100,
-        "vy":  28.840,
-        "svy":  0.100,
+        "vx":   "-28.890",
+        "svx":   "0.100",
+        "vy":   "28.840",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -15810,10 +15810,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "QCY2",
-        "vx":  -29.290,
-        "svx":  0.120,
-        "vy":  33.260,
-        "svy":  0.170,
+        "vx":   "-29.290",
+        "svx":   "0.120",
+        "vy":   "33.260",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -15823,10 +15823,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "QCYN",
-        "vx":  -31.790,
-        "svx":  0.870,
-        "vy":  34.640,
-        "svy":  1.410,
+        "vx":   "-31.790",
+        "svx":   "0.870",
+        "vy":   "34.640",
+        "svy":   "1.410",
     },
     "geometry": {
          "type": "Point",
@@ -15836,10 +15836,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "QHTP",
-        "vx":  -17.430,
-        "svx":  0.200,
-        "vy":  18.690,
-        "svy":  0.260,
+        "vx":   "-17.430",
+        "svx":   "0.200",
+        "vy":   "18.690",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -15849,10 +15849,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "RAMT",
-        "vx":  -8.910,
-        "svx":  0.120,
-        "vy":  10.900,
-        "svy":  0.100,
+        "vx":   "-8.910",
+        "svx":   "0.120",
+        "vy":   "10.900",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -15862,10 +15862,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "RCA2",
-        "vx":  -31.120,
-        "svx":  0.090,
-        "vy":  28.800,
-        "svy":  0.150,
+        "vx":   "-31.120",
+        "svx":   "0.090",
+        "vy":   "28.800",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -15875,10 +15875,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "RDMT",
-        "vx":  -10.140,
-        "svx":  0.130,
-        "vy":  7.980,
-        "svy":  0.090,
+        "vx":   "-10.140",
+        "svx":   "0.130",
+        "vy":   "7.980",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -15888,10 +15888,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "REDM",
-        "vx":  -1.120,
-        "svx":  0.080,
-        "vy":  2.680,
-        "svy":  0.100,
+        "vx":   "-1.120",
+        "svx":   "0.080",
+        "vy":   "2.680",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -15901,10 +15901,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "RESO",
-        "vx":  -0.560,
-        "svx":  0.230,
-        "vy":  -0.390,
-        "svy":  0.290,
+        "vx":   "-0.560",
+        "svx":   "0.230",
+        "vy":   "-0.390",
+        "svy":   "0.290",
     },
     "geometry": {
          "type": "Point",
@@ -15914,10 +15914,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "RG17",
-        "vx":  0.750,
-        "svx":  0.550,
-        "vy":  -3.890,
-        "svy":  0.740,
+        "vx":   "0.750",
+        "svx":   "0.550",
+        "vy":   "-3.890",
+        "svy":   "0.740",
     },
     "geometry": {
          "type": "Point",
@@ -15927,10 +15927,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "RHCL",
-        "vx":  -27.350,
-        "svx":  0.110,
-        "vy":  24.150,
-        "svy":  0.140,
+        "vx":   "-27.350",
+        "svx":   "0.110",
+        "vy":   "24.150",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -15940,10 +15940,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "RNCH",
-        "vx":  -22.990,
-        "svx":  0.470,
-        "vy":  30.000,
-        "svy":  0.140,
+        "vx":   "-22.990",
+        "svx":   "0.470",
+        "vy":   "30.000",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -15953,10 +15953,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "ROCK",
-        "vx":  -26.710,
-        "svx":  0.250,
-        "vy":  28.670,
-        "svy":  0.200,
+        "vx":   "-26.710",
+        "svx":   "0.250",
+        "vy":   "28.670",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -15966,10 +15966,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "RSTP",
-        "vx":  -12.530,
-        "svx":  0.090,
-        "vy":  14.790,
-        "svy":  0.090,
+        "vx":   "-12.530",
+        "svx":   "0.090",
+        "vy":   "14.790",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -15979,10 +15979,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "RSVY",
-        "vx":  -28.210,
-        "svx":  0.090,
-        "vy":  23.020,
-        "svy":  0.100,
+        "vx":   "-28.210",
+        "svx":   "0.090",
+        "vy":   "23.020",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -15992,10 +15992,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "RTHS",
-        "vx":  -21.160,
-        "svx":  0.340,
-        "vy":  21.870,
-        "svy":  0.310,
+        "vx":   "-21.160",
+        "svx":   "0.340",
+        "vy":   "21.870",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -16005,10 +16005,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "RUBY",
-        "vx":  -4.410,
-        "svx":  0.090,
-        "vy":  -0.380,
-        "svy":  0.080,
+        "vx":   "-4.410",
+        "svx":   "0.090",
+        "vy":   "-0.380",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -16018,10 +16018,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "S300",
-        "vx":  -12.780,
-        "svx":  0.210,
-        "vy":  8.700,
-        "svy":  0.280,
+        "vx":   "-12.780",
+        "svx":   "0.210",
+        "vy":   "8.700",
+        "svy":   "0.280",
     },
     "geometry": {
          "type": "Point",
@@ -16031,10 +16031,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SACY",
-        "vx":  -37.030,
-        "svx":  6.910,
-        "vy":  15.690,
-        "svy":  4.840,
+        "vx":   "-37.030",
+        "svx":   "6.910",
+        "vy":   "15.690",
+        "svy":   "4.840",
     },
     "geometry": {
          "type": "Point",
@@ -16044,10 +16044,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SBCC",
-        "vx":  -27.480,
-        "svx":  0.100,
-        "vy":  27.150,
-        "svy":  0.090,
+        "vx":   "-27.480",
+        "svx":   "0.100",
+        "vy":   "27.150",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -16057,10 +16057,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SC00",
-        "vx":  0.340,
-        "svx":  0.100,
-        "vy":  1.510,
-        "svy":  0.090,
+        "vx":   "0.340",
+        "svx":   "0.100",
+        "vy":   "1.510",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -16070,10 +16070,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SC01",
-        "vx":  -1.630,
-        "svx":  0.090,
-        "vy":  -0.870,
-        "svy":  0.110,
+        "vx":   "-1.630",
+        "svx":   "0.090",
+        "vy":   "-0.870",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -16083,10 +16083,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SC02",
-        "vx":  3.380,
-        "svx":  0.130,
-        "vy":  2.960,
-        "svy":  0.120,
+        "vx":   "3.380",
+        "svx":   "0.130",
+        "vy":   "2.960",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -16096,10 +16096,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SC03",
-        "vx":  8.100,
-        "svx":  0.210,
-        "vy":  4.560,
-        "svy":  0.170,
+        "vx":   "8.100",
+        "svx":   "0.210",
+        "vy":   "4.560",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -16109,10 +16109,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SC04",
-        "vx":  4.230,
-        "svx":  0.120,
-        "vy":  3.680,
-        "svy":  0.120,
+        "vx":   "4.230",
+        "svx":   "0.120",
+        "vy":   "3.680",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -16122,10 +16122,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SCH2",
-        "vx":  1.780,
-        "svx":  0.140,
-        "vy":  0.630,
-        "svy":  0.180,
+        "vx":   "1.780",
+        "svx":   "0.140",
+        "vy":   "0.630",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -16135,10 +16135,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SCIA",
-        "vx":  -13.150,
-        "svx":  0.090,
-        "vy":  13.270,
-        "svy":  0.090,
+        "vx":   "-13.150",
+        "svx":   "0.090",
+        "vy":   "13.270",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -16148,10 +16148,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SCIP",
-        "vx":  -31.370,
-        "svx":  0.290,
-        "vy":  33.020,
-        "svy":  0.360,
+        "vx":   "-31.370",
+        "svx":   "0.290",
+        "vy":   "33.020",
+        "svy":   "0.360",
     },
     "geometry": {
          "type": "Point",
@@ -16161,10 +16161,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SDHL",
-        "vx":  -5.590,
-        "svx":  0.090,
-        "vy":  7.100,
-        "svy":  0.090,
+        "vx":   "-5.590",
+        "svx":   "0.090",
+        "vy":   "7.100",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -16174,10 +16174,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SEAT",
-        "vx":  3.220,
-        "svx":  0.140,
-        "vy":  3.010,
-        "svy":  0.090,
+        "vx":   "3.220",
+        "svx":   "0.140",
+        "vy":   "3.010",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -16187,10 +16187,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SEDR",
-        "vx":  2.540,
-        "svx":  0.120,
-        "vy":  2.240,
-        "svy":  0.110,
+        "vx":   "2.540",
+        "svx":   "0.120",
+        "vy":   "2.240",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -16200,10 +16200,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SELD",
-        "vx":  -0.230,
-        "svx":  0.370,
-        "vy":  -9.940,
-        "svy":  0.260,
+        "vx":   "-0.230",
+        "svx":   "0.370",
+        "vy":   "-9.940",
+        "svy":   "0.260",
     },
     "geometry": {
          "type": "Point",
@@ -16213,10 +16213,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SFDM",
-        "vx":  -26.330,
-        "svx":  0.090,
-        "vy":  22.720,
-        "svy":  0.100,
+        "vx":   "-26.330",
+        "svx":   "0.090",
+        "vy":   "22.720",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -16226,10 +16226,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SG27",
-        "vx":  -1.240,
-        "svx":  0.240,
-        "vy":  -4.490,
-        "svy":  0.310,
+        "vx":   "-1.240",
+        "svx":   "0.240",
+        "vy":   "-4.490",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -16239,10 +16239,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SGDM",
-        "vx":  -23.840,
-        "svx":  0.670,
-        "vy":  20.710,
-        "svy":  0.950,
+        "vx":   "-23.840",
+        "svx":   "0.670",
+        "vy":   "20.710",
+        "svy":   "0.950",
     },
     "geometry": {
          "type": "Point",
@@ -16252,10 +16252,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SHIN",
-        "vx":  -7.040,
-        "svx":  0.090,
-        "vy":  3.660,
-        "svy":  0.090,
+        "vx":   "-7.040",
+        "svx":   "0.090",
+        "vy":   "3.660",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -16265,10 +16265,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SHLD",
-        "vx":  -4.120,
-        "svx":  0.140,
-        "vy":  1.630,
-        "svy":  0.110,
+        "vx":   "-4.120",
+        "svx":   "0.140",
+        "vy":   "1.630",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -16278,10 +16278,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SHOS",
-        "vx":  -4.370,
-        "svx":  0.080,
-        "vy":  0.520,
-        "svy":  0.080,
+        "vx":   "-4.370",
+        "svx":   "0.080",
+        "vy":   "0.520",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -16291,10 +16291,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SILK",
-        "vx":  -28.190,
-        "svx":  0.290,
-        "vy":  23.020,
-        "svy":  0.190,
+        "vx":   "-28.190",
+        "svx":   "0.290",
+        "vy":   "23.020",
+        "svy":   "0.190",
     },
     "geometry": {
          "type": "Point",
@@ -16304,10 +16304,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SIO3",
-        "vx":  -29.240,
-        "svx":  0.450,
-        "vy":  28.330,
-        "svy":  0.630,
+        "vx":   "-29.240",
+        "svx":   "0.450",
+        "vy":   "28.330",
+        "svy":   "0.630",
     },
     "geometry": {
          "type": "Point",
@@ -16317,10 +16317,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SIO5",
-        "vx":  -29.560,
-        "svx":  0.510,
-        "vy":  29.370,
-        "svy":  0.510,
+        "vx":   "-29.560",
+        "svx":   "0.510",
+        "vy":   "29.370",
+        "svy":   "0.510",
     },
     "geometry": {
          "type": "Point",
@@ -16330,10 +16330,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SKYB",
-        "vx":  -24.040,
-        "svx":  0.250,
-        "vy":  20.220,
-        "svy":  0.150,
+        "vx":   "-24.040",
+        "svx":   "0.250",
+        "vy":   "20.220",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -16343,10 +16343,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SLAC",
-        "vx":  -24.110,
-        "svx":  0.120,
-        "vy":  27.280,
-        "svy":  0.100,
+        "vx":   "-24.110",
+        "svx":   "0.120",
+        "vy":   "27.280",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -16356,10 +16356,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SLID",
-        "vx":  -9.410,
-        "svx":  0.250,
-        "vy":  5.630,
-        "svy":  0.180,
+        "vx":   "-9.410",
+        "svx":   "0.250",
+        "vy":   "5.630",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -16369,10 +16369,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SLMS",
-        "vx":  -13.540,
-        "svx":  0.110,
-        "vy":  15.130,
-        "svy":  0.100,
+        "vx":   "-13.540",
+        "svx":   "0.110",
+        "vy":   "15.130",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -16382,10 +16382,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SMEL",
-        "vx":  -3.880,
-        "svx":  0.090,
-        "vy":  -0.460,
-        "svy":  0.080,
+        "vx":   "-3.880",
+        "svx":   "0.090",
+        "vy":   "-0.460",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -16395,10 +16395,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SMM1",
-        "vx":  -1748.310,
-        "svx":  7.710,
-        "vy":  172.260,
-        "svy":  1.350,
+        "vx":   "-1748.310",
+        "svx":   "7.710",
+        "vy":   "172.260",
+        "svy":   "1.350",
     },
     "geometry": {
          "type": "Point",
@@ -16408,10 +16408,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SNHS",
-        "vx":  -27.200,
-        "svx":  0.440,
-        "vy":  25.720,
-        "svy":  0.850,
+        "vx":   "-27.200",
+        "svx":   "0.440",
+        "vy":   "25.720",
+        "svy":   "0.850",
     },
     "geometry": {
          "type": "Point",
@@ -16421,10 +16421,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SNI1",
-        "vx":  -33.330,
-        "svx":  0.140,
-        "vy":  33.080,
-        "svy":  0.120,
+        "vx":   "-33.330",
+        "svx":   "0.140",
+        "vy":   "33.080",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -16434,10 +16434,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SOMT",
-        "vx":  -29.150,
-        "svx":  0.100,
-        "vy":  28.770,
-        "svy":  0.200,
+        "vx":   "-29.150",
+        "svx":   "0.100",
+        "vy":   "28.770",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -16447,10 +16447,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SPIC",
-        "vx":  -3.410,
-        "svx":  0.090,
-        "vy":  -0.110,
-        "svy":  0.080,
+        "vx":   "-3.410",
+        "svx":   "0.090",
+        "vy":   "-0.110",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -16460,10 +16460,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SPK1",
-        "vx":  -28.610,
-        "svx":  0.350,
-        "vy":  29.100,
-        "svy":  0.270,
+        "vx":   "-28.610",
+        "svx":   "0.350",
+        "vy":   "29.100",
+        "svy":   "0.270",
     },
     "geometry": {
          "type": "Point",
@@ -16473,10 +16473,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SPMS",
-        "vx":  -26.050,
-        "svx":  0.090,
-        "vy":  23.300,
-        "svy":  0.100,
+        "vx":   "-26.050",
+        "svx":   "0.090",
+        "vy":   "23.300",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -16486,10 +16486,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SPMX",
-        "vx":  -31.720,
-        "svx":  2.130,
-        "vy":  30.960,
-        "svy":  1.570,
+        "vx":   "-31.720",
+        "svx":   "2.130",
+        "vy":   "30.960",
+        "svy":   "1.570",
     },
     "geometry": {
          "type": "Point",
@@ -16499,10 +16499,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SRS1",
-        "vx":  -31.650,
-        "svx":  0.100,
-        "vy":  34.500,
-        "svy":  0.090,
+        "vx":   "-31.650",
+        "svx":   "0.100",
+        "vy":   "34.500",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -16512,10 +16512,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "STJO",
-        "vx":  0.540,
-        "svx":  0.110,
-        "vy":  0.350,
-        "svy":  0.120,
+        "vx":   "0.540",
+        "svx":   "0.110",
+        "vy":   "0.350",
+        "svy":   "0.120",
     },
     "geometry": {
          "type": "Point",
@@ -16525,10 +16525,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "STMB",
-        "vx":  -4.020,
-        "svx":  2.330,
-        "vy":  -5.150,
-        "svy":  6.640,
+        "vx":   "-4.020",
+        "svx":   "2.330",
+        "vy":   "-5.150",
+        "svy":   "6.640",
     },
     "geometry": {
          "type": "Point",
@@ -16538,10 +16538,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SUMM",
-        "vx":  -1686.080,
-        "svx":  0.520,
-        "vy":  103.110,
-        "svy":  1.090,
+        "vx":   "-1686.080",
+        "svx":   "0.520",
+        "vy":   "103.110",
+        "svy":   "1.090",
     },
     "geometry": {
          "type": "Point",
@@ -16551,10 +16551,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "SUTB",
-        "vx":  -11.020,
-        "svx":  0.120,
-        "vy":  6.420,
-        "svy":  0.170,
+        "vx":   "-11.020",
+        "svx":   "0.120",
+        "vy":   "6.420",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -16564,10 +16564,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TABL",
-        "vx":  -18.910,
-        "svx":  0.310,
-        "vy":  18.570,
-        "svy":  0.520,
+        "vx":   "-18.910",
+        "svx":   "0.310",
+        "vy":   "18.570",
+        "svy":   "0.520",
     },
     "geometry": {
          "type": "Point",
@@ -16577,10 +16577,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TBLP",
-        "vx":  -13.920,
-        "svx":  0.160,
-        "vy":  17.440,
-        "svy":  0.170,
+        "vx":   "-13.920",
+        "svx":   "0.160",
+        "vy":   "17.440",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -16590,10 +16590,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TCSG",
-        "vx":  2.070,
-        "svx":  1.250,
-        "vy":  -5.250,
-        "svy":  1.300,
+        "vx":   "2.070",
+        "svx":   "1.250",
+        "vy":   "-5.250",
+        "svy":   "1.300",
     },
     "geometry": {
          "type": "Point",
@@ -16603,10 +16603,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "THCP",
-        "vx":  -12.490,
-        "svx":  0.090,
-        "vy":  12.020,
-        "svy":  0.080,
+        "vx":   "-12.490",
+        "svx":   "0.090",
+        "vy":   "12.020",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -16616,10 +16616,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "THU3",
-        "vx":  -1.860,
-        "svx":  0.120,
-        "vy":  0.470,
-        "svy":  0.170,
+        "vx":   "-1.860",
+        "svx":   "0.120",
+        "vy":   "0.470",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -16629,10 +16629,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TJRN",
-        "vx":  -31.600,
-        "svx":  0.090,
-        "vy":  32.570,
-        "svy":  0.090,
+        "vx":   "-31.600",
+        "svx":   "0.090",
+        "vy":   "32.570",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -16642,10 +16642,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TMAP",
-        "vx":  -14.090,
-        "svx":  0.390,
-        "vy":  13.240,
-        "svy":  0.570,
+        "vx":   "-14.090",
+        "svx":   "0.390",
+        "vy":   "13.240",
+        "svy":   "0.570",
     },
     "geometry": {
          "type": "Point",
@@ -16655,10 +16655,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TOIY",
-        "vx":  -4.350,
-        "svx":  0.080,
-        "vy":  0.110,
-        "svy":  0.090,
+        "vx":   "-4.350",
+        "svx":   "0.080",
+        "vy":   "0.110",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -16668,10 +16668,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TONO",
-        "vx":  -4.720,
-        "svx":  0.080,
-        "vy":  0.550,
-        "svy":  0.080,
+        "vx":   "-4.720",
+        "svx":   "0.080",
+        "vy":   "0.550",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -16681,10 +16681,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TORP",
-        "vx":  -28.370,
-        "svx":  0.280,
-        "vy":  29.530,
-        "svy":  0.210,
+        "vx":   "-28.370",
+        "svx":   "0.280",
+        "vy":   "29.530",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -16694,10 +16694,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TOST",
-        "vx":  -28.240,
-        "svx":  0.100,
-        "vy":  29.160,
-        "svy":  0.280,
+        "vx":   "-28.240",
+        "svx":   "0.100",
+        "vy":   "29.160",
+        "svy":   "0.280",
     },
     "geometry": {
          "type": "Point",
@@ -16707,10 +16707,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TPW2",
-        "vx":  6.930,
-        "svx":  0.190,
-        "vy":  7.270,
-        "svy":  0.130,
+        "vx":   "6.930",
+        "svx":   "0.190",
+        "vy":   "7.270",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",
@@ -16720,10 +16720,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TRAK",
-        "vx":  -27.090,
-        "svx":  0.370,
-        "vy":  29.030,
-        "svy":  0.310,
+        "vx":   "-27.090",
+        "svx":   "0.370",
+        "vy":   "29.030",
+        "svy":   "0.310",
     },
     "geometry": {
          "type": "Point",
@@ -16733,10 +16733,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TRND",
-        "vx":  2.610,
-        "svx":  0.170,
-        "vy":  15.680,
-        "svy":  0.140,
+        "vx":   "2.610",
+        "svx":   "0.170",
+        "vy":   "15.680",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -16746,10 +16746,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TSWY",
-        "vx":  -2.530,
-        "svx":  0.080,
-        "vy":  -0.990,
-        "svy":  0.080,
+        "vx":   "-2.530",
+        "svx":   "0.080",
+        "vy":   "-0.990",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -16759,10 +16759,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TUF1",
-        "vx":  -3.060,
-        "svx":  1.860,
-        "vy":  -7.570,
-        "svy":  2.400,
+        "vx":   "-3.060",
+        "svx":   "1.860",
+        "vy":   "-7.570",
+        "svy":   "2.400",
     },
     "geometry": {
          "type": "Point",
@@ -16772,10 +16772,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TUNG",
-        "vx":  -6.070,
-        "svx":  0.100,
-        "vy":  1.500,
-        "svy":  0.090,
+        "vx":   "-6.070",
+        "svx":   "0.100",
+        "vy":   "1.500",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -16785,10 +16785,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TWHL",
-        "vx":  4.010,
-        "svx":  0.140,
-        "vy":  4.750,
-        "svy":  0.100,
+        "vx":   "4.010",
+        "svx":   "0.140",
+        "vy":   "4.750",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -16798,10 +16798,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "TWMS",
-        "vx":  -23.910,
-        "svx":  0.330,
-        "vy":  24.510,
-        "svy":  0.690,
+        "vx":   "-23.910",
+        "svx":   "0.330",
+        "vy":   "24.510",
+        "svy":   "0.690",
     },
     "geometry": {
          "type": "Point",
@@ -16811,10 +16811,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "UCLP",
-        "vx":  -27.180,
-        "svx":  0.270,
-        "vy":  26.790,
-        "svy":  0.180,
+        "vx":   "-27.180",
+        "svx":   "0.270",
+        "vy":   "26.790",
+        "svy":   "0.180",
     },
     "geometry": {
          "type": "Point",
@@ -16824,10 +16824,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "UCSB",
-        "vx":  -29.930,
-        "svx":  0.640,
-        "vy":  30.780,
-        "svy":  0.350,
+        "vx":   "-29.930",
+        "svx":   "0.640",
+        "vy":   "30.780",
+        "svy":   "0.350",
     },
     "geometry": {
          "type": "Point",
@@ -16837,10 +16837,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "UPSA",
-        "vx":  -6.950,
-        "svx":  0.080,
-        "vy":  2.420,
-        "svy":  0.080,
+        "vx":   "-6.950",
+        "svx":   "0.080",
+        "vy":   "2.420",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -16850,10 +16850,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "USC1",
-        "vx":  -26.880,
-        "svx":  0.200,
-        "vy":  26.720,
-        "svy":  0.430,
+        "vx":   "-26.880",
+        "svx":   "0.200",
+        "vy":   "26.720",
+        "svy":   "0.430",
     },
     "geometry": {
          "type": "Point",
@@ -16863,10 +16863,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "USGC",
-        "vx":  -24.550,
-        "svx":  0.090,
-        "vy":  23.210,
-        "svy":  0.090,
+        "vx":   "-24.550",
+        "svx":   "0.090",
+        "vy":   "23.210",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -16876,10 +16876,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "USLO",
-        "vx":  -28.810,
-        "svx":  0.130,
-        "vy":  33.510,
-        "svy":  0.140,
+        "vx":   "-28.810",
+        "svx":   "0.130",
+        "vy":   "33.510",
+        "svy":   "0.140",
     },
     "geometry": {
          "type": "Point",
@@ -16889,10 +16889,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "VCST",
-        "vx":  -24.400,
-        "svx":  0.200,
-        "vy":  23.330,
-        "svy":  0.280,
+        "vx":   "-24.400",
+        "svx":   "0.200",
+        "vy":   "23.330",
+        "svy":   "0.280",
     },
     "geometry": {
          "type": "Point",
@@ -16902,10 +16902,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "VDCY",
-        "vx":  -26.430,
-        "svx":  0.120,
-        "vy":  23.200,
-        "svy":  0.080,
+        "vx":   "-26.430",
+        "svx":   "0.120",
+        "vy":   "23.200",
+        "svy":   "0.080",
     },
     "geometry": {
          "type": "Point",
@@ -16915,10 +16915,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "VIMT",
-        "vx":  -28.150,
-        "svx":  0.160,
-        "vy":  26.650,
-        "svy":  0.110,
+        "vx":   "-28.150",
+        "svx":   "0.160",
+        "vy":   "26.650",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -16928,10 +16928,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "VNCO",
-        "vx":  -31.530,
-        "svx":  0.200,
-        "vy":  28.380,
-        "svy":  0.210,
+        "vx":   "-31.530",
+        "svx":   "0.200",
+        "vy":   "28.380",
+        "svy":   "0.210",
     },
     "geometry": {
          "type": "Point",
@@ -16941,10 +16941,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "VNCX",
-        "vx":  -26.490,
-        "svx":  0.090,
-        "vy":  23.620,
-        "svy":  0.100,
+        "vx":   "-26.490",
+        "svx":   "0.090",
+        "vy":   "23.620",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -16954,10 +16954,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "VNDP",
-        "vx":  -32.290,
-        "svx":  0.090,
-        "vy":  33.840,
-        "svy":  0.090,
+        "vx":   "-32.290",
+        "svx":   "0.090",
+        "vy":   "33.840",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -16967,10 +16967,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "VNPS",
-        "vx":  -20.810,
-        "svx":  0.300,
-        "vy":  19.840,
-        "svy":  0.390,
+        "vx":   "-20.810",
+        "svx":   "0.300",
+        "vy":   "19.840",
+        "svy":   "0.390",
     },
     "geometry": {
          "type": "Point",
@@ -16980,10 +16980,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "VTIS",
-        "vx":  -28.690,
-        "svx":  0.300,
-        "vy":  29.670,
-        "svy":  0.320,
+        "vx":   "-28.690",
+        "svx":   "0.300",
+        "vy":   "29.670",
+        "svy":   "0.320",
     },
     "geometry": {
          "type": "Point",
@@ -16993,10 +16993,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WCHS",
-        "vx":  -26.710,
-        "svx":  0.510,
-        "vy":  24.460,
-        "svy":  1.000,
+        "vx":   "-26.710",
+        "svx":   "0.510",
+        "vy":   "24.460",
+        "svy":   "1.000",
     },
     "geometry": {
          "type": "Point",
@@ -17006,10 +17006,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WEIR",
-        "vx":  -12.800,
-        "svx":  9.590,
-        "vy":  11.820,
-        "svy":  14.130,
+        "vx":   "-12.800",
+        "svx":   "9.590",
+        "vy":   "11.820",
+        "svy":   "14.130",
     },
     "geometry": {
          "type": "Point",
@@ -17019,10 +17019,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WES2",
-        "vx":  0.630,
-        "svx":  0.120,
-        "vy":  -0.640,
-        "svy":  0.110,
+        "vx":   "0.630",
+        "svx":   "0.120",
+        "vy":   "-0.640",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -17032,10 +17032,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WGPP",
-        "vx":  -17.350,
-        "svx":  0.080,
-        "vy":  15.760,
-        "svy":  0.110,
+        "vx":   "-17.350",
+        "svx":   "0.080",
+        "vy":   "15.760",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -17045,10 +17045,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WHC1",
-        "vx":  -26.420,
-        "svx":  0.350,
-        "vy":  26.800,
-        "svy":  0.590,
+        "vx":   "-26.420",
+        "svx":   "0.350",
+        "vy":   "26.800",
+        "svy":   "0.590",
     },
     "geometry": {
          "type": "Point",
@@ -17058,10 +17058,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WHYT",
-        "vx":  -27.370,
-        "svx":  0.480,
-        "vy":  28.080,
-        "svy":  0.370,
+        "vx":   "-27.370",
+        "svx":   "0.480",
+        "vy":   "28.080",
+        "svy":   "0.370",
     },
     "geometry": {
          "type": "Point",
@@ -17071,10 +17071,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WIDC",
-        "vx":  -11.810,
-        "svx":  0.360,
-        "vy":  13.210,
-        "svy":  0.440,
+        "vx":   "-11.810",
+        "svx":   "0.360",
+        "vy":   "13.210",
+        "svy":   "0.440",
     },
     "geometry": {
          "type": "Point",
@@ -17084,10 +17084,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WIKR",
-        "vx":  -2.860,
-        "svx":  0.500,
-        "vy":  -5.300,
-        "svy":  0.450,
+        "vx":   "-2.860",
+        "svx":   "0.500",
+        "vy":   "-5.300",
+        "svy":   "0.450",
     },
     "geometry": {
          "type": "Point",
@@ -17097,10 +17097,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WILL",
-        "vx":  -0.900,
-        "svx":  0.120,
-        "vy":  0.160,
-        "svy":  0.090,
+        "vx":   "-0.900",
+        "svx":   "0.120",
+        "vy":   "0.160",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -17110,10 +17110,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WIN2",
-        "vx":  -20.710,
-        "svx":  0.280,
-        "vy":  22.870,
-        "svy":  0.200,
+        "vx":   "-20.710",
+        "svx":   "0.280",
+        "vy":   "22.870",
+        "svy":   "0.200",
     },
     "geometry": {
          "type": "Point",
@@ -17123,10 +17123,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WINT",
-        "vx":  -20.490,
-        "svx":  0.110,
-        "vy":  22.690,
-        "svy":  0.100,
+        "vx":   "-20.490",
+        "svx":   "0.110",
+        "vy":   "22.690",
+        "svy":   "0.100",
     },
     "geometry": {
          "type": "Point",
@@ -17136,10 +17136,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WKPK",
-        "vx":  -24.020,
-        "svx":  0.110,
-        "vy":  20.430,
-        "svy":  0.110,
+        "vx":   "-24.020",
+        "svx":   "0.110",
+        "vy":   "20.430",
+        "svy":   "0.110",
     },
     "geometry": {
          "type": "Point",
@@ -17149,10 +17149,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WLSN",
-        "vx":  -25.290,
-        "svx":  0.560,
-        "vy":  20.950,
-        "svy":  0.450,
+        "vx":   "-25.290",
+        "svx":   "0.560",
+        "vy":   "20.950",
+        "svy":   "0.450",
     },
     "geometry": {
          "type": "Point",
@@ -17162,10 +17162,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WLWY",
-        "vx":  1.430,
-        "svx":  0.440,
-        "vy":  -3.130,
-        "svy":  0.220,
+        "vx":   "1.430",
+        "svx":   "0.440",
+        "vy":   "-3.130",
+        "svy":   "0.220",
     },
     "geometry": {
          "type": "Point",
@@ -17175,10 +17175,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WMAP",
-        "vx":  -26.040,
-        "svx":  0.180,
-        "vy":  25.000,
-        "svy":  0.230,
+        "vx":   "-26.040",
+        "svx":   "0.180",
+        "vy":   "25.000",
+        "svy":   "0.230",
     },
     "geometry": {
          "type": "Point",
@@ -17188,10 +17188,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WMOK",
-        "vx":  -0.940,
-        "svx":  0.170,
-        "vy":  -0.530,
-        "svy":  0.150,
+        "vx":   "-0.940",
+        "svx":   "0.170",
+        "vy":   "-0.530",
+        "svy":   "0.150",
     },
     "geometry": {
          "type": "Point",
@@ -17201,10 +17201,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WNRA",
-        "vx":  -25.690,
-        "svx":  0.310,
-        "vy":  25.550,
-        "svy":  0.470,
+        "vx":   "-25.690",
+        "svx":   "0.310",
+        "vy":   "25.550",
+        "svy":   "0.470",
     },
     "geometry": {
          "type": "Point",
@@ -17214,10 +17214,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WOMT",
-        "vx":  -11.630,
-        "svx":  0.100,
-        "vy":  10.730,
-        "svy":  0.090,
+        "vx":   "-11.630",
+        "svx":   "0.100",
+        "vy":   "10.730",
+        "svy":   "0.090",
     },
     "geometry": {
          "type": "Point",
@@ -17227,10 +17227,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WRHS",
-        "vx":  -28.440,
-        "svx":  0.210,
-        "vy":  28.620,
-        "svy":  0.170,
+        "vx":   "-28.440",
+        "svx":   "0.210",
+        "vy":   "28.620",
+        "svy":   "0.170",
     },
     "geometry": {
          "type": "Point",
@@ -17240,10 +17240,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "WWMT",
-        "vx":  -15.180,
-        "svx":  0.490,
-        "vy":  16.810,
-        "svy":  0.570,
+        "vx":   "-15.180",
+        "svx":   "0.490",
+        "vy":   "16.810",
+        "svy":   "0.570",
     },
     "geometry": {
          "type": "Point",
@@ -17253,10 +17253,10 @@ var myData = [{
     "type": "Feature",
     "properties": {
         "name": "YELL",
-        "vx":  -1.220,
-        "svx":  0.140,
-        "vy":  -0.610,
-        "svy":  0.130,
+        "vx":   "-1.220",
+        "svx":   "0.140",
+        "vy":   "-0.610",
+        "svy":   "0.130",
     },
     "geometry": {
          "type": "Point",

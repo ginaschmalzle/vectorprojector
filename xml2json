@@ -1,13 +1,13 @@
 #!/bin/bash
 
 #in=panga_snarf_comb_hvel.xml
-out=panga_snarf_comb_hvel.js
+out=panga_snarf_comb_hvel.json
 
 more  panga_snarf_comb_hvel.xml  | egrep -v '\*' > temp.dat 
 in=temp.dat 
 awk '{print($2)}' $in | awk 'NF' | cut -c7-10 > sites.dat 
 
-echo "var myData = [{" > $out
+echo "[{" > $out
 
 
 while read site
@@ -16,10 +16,10 @@ do
  echo '    "properties": {' >> $out
 
  echo $site | awk '{print ("        \"name\": \""$1"\",")}' >> $out
- more $in | egrep $site | awk '{print $7}' | cut -c4-8 | awk '{print ("        \"vx\": ", $1",")}' >> $out
- more $in | egrep $site | awk '{print $8}' | cut -c8-12 | awk '{print ("        \"svx\": ", $1",")}' >> $out
- more $in | egrep $site | awk '{print $9}' | cut -c4-8 | awk '{print ("        \"vy\": ", $1",")}' >> $out
- more $in | egrep $site | awk '{print $10}' | cut -c8-12 | awk '{print ("        \"svy\": ", $1",")}' >> $out
+ more $in | egrep $site | awk '{print $7}' | cut -c4-8 | awk '{print ("        \"vx\":   \""$1"\",")}' >> $out
+ more $in | egrep $site | awk '{print $8}' | cut -c8-12 | awk '{print ("        \"svx\":   \""$1"\",")}' >> $out
+ more $in | egrep $site | awk '{print $9}' | cut -c4-8 | awk '{print ("        \"vy\":   \""$1"\",")}' >> $out
+ more $in | egrep $site | awk '{print $10}' | cut -c8-12 | awk '{print ("        \"svy\":   \""$1"\"")}' >> $out
 # echo '        "marker-color": "#00ff00"' >> $out
  echo '    },' >> $out
  echo '    "geometry": {' >> $out
@@ -35,4 +35,5 @@ source ll.dat
 head -$ll $out > temp.dat
 mv temp.dat $out
 
-echo '}];' >> $out
+echo '}]' >> $out
+cp $out data/$out

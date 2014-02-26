@@ -1,31 +1,68 @@
 var dots = null,
-	arrows = null;
-$("#submit").on("click", mapme);
+    arrows = null,
+    mydots = null,
+    myarrow = null;
+$("#submit").on("click", newdata);
+//$("#submit").on("click", mapme);
 
-console.log (document.getElementById("json_select").value);
-
-
-//Load in Selected JSON file
-if (document.getElementById('json_select').value === "panga_snarf_comb_hvel.js")
-{
-  $.getScript("panga_snarf_comb_hvel.js", function(){
-//	alert("PANGA data uploaded");
-  });
-}
-else
-{
-  $.getScript("pbo_velocity_snarf.js", function(){
-//	alert("PBO data uploaded");
-  });
-} 
-
-function mapme(){
-	var myFilteredData = null;
-
-	if (map.hasLayer(dots) && map.hasLayer(arrows)) {
+/*function newdata(n) {
+	//If map has dots and arrows, remove them
+	if (map.hasLayer(mydots) && map.hasLayer(myarrow)) {
+	map.on('submit', function (){
+		console.log ("In clear Function");
 		map.removeLayer(dots);
 		map.removeLayer(arrows);
+                $(mapsubmit.alldots).each(function () {
+                    map.removeLayer(this);
+                });
+                $(mapsubmit.allarrows).each(function () {
+                    map.removeLayer(this);
+                });
+	});
 	}
+        if (document.getElementById('json_select').value === "panga_snarf_comb_hvel.js")
+         { */
+//               $.getScript("panga_snarf_comb_hvel.js", function(){
+                //      alert("PANGA data uploaded");
+//                });
+       /*  }
+        else
+         {
+                $.getScript("pbo_velocity_snarf.js", function(){
+                //      alert("PBO data uploaded");
+                        console.log("got it!");
+                });
+         }
+};*/
+function newdata() {
+	if (document.getElementById('json_select').value === "panga_snarf_comb_hvel.js")
+	 {
+           var url = '/vectorprojector/data/panga_snarf_comb_hvel.json';
+	 }
+	else
+	 {	
+           var url = '/vectorprojector/data/pbo_velocity_snarf.json';
+	 }
+	
+	$.getJSON(url, function (data) { 
+		console.log("Hi");
+		mapme(data);
+	});
+
+};
+
+function mapme(myData){
+//Load in Selected JSON file
+//console.log(document.getElementById('json_select').value, 'Gina');
+
+
+	var myFilteredData = null;
+
+	var mapsubmit = {
+		alldots: [],
+		allarrows: [],
+	};
+
 
 	myFilteredData = $(myData).filter(function() {
 
@@ -37,16 +74,19 @@ function mapme(){
 	dots = L.geoJson(myFilteredData, {
 		pointToLayer: function (feature, latlng) {
 			//console.log(feature, latlng);
-			return L.circleMarker(latlng, {
+			var mydots = L.circleMarker(latlng, {
 					radius: 3,
 					fillColor: "#ff7800",
 					color: "#000",
 					weight: 1,
 					opacity: 1,
 					fillOpacity: 0.8
-				});
+				})
+				mapsubmit.alldots.push(mydots);
+				mydots.addTo(map);
+				return mydots;
 		}
-        }).addTo(map);
+		});
 	arrows = L.geoJson(myFilteredData, {
                 pointToLayer: function (feature, latlng) {
 				var vectorXstart = latlng.lat,  
@@ -72,27 +112,29 @@ function mapme(){
 				var y2 = RR2 * (Math.cos(phi2*(3.14159/180)));
 				if ((feature.properties.vx >=0 ) && (feature.properties.vy>=0))
 				{
-				var lines = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2-y,vectorYend2-x],[vectorXend2, vectorYend2],[vectorXend2-y2, vectorYend2-x2]], {
+				var myarrow = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2-y,vectorYend2-x],[vectorXend2, vectorYend2],[vectorXend2-y2, vectorYend2-x2]], {
                                         color: 'red',
                                         weight: 2,
                                 });
 				}
 				else if ((feature.properties.vx <=0 ) && (feature.properties.vy>=0))
 				{
-				var lines = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2+y,vectorYend2+x],[vectorXend2, vectorYend2],[vectorXend2+y2, vectorYend2+x2]], {
+				var myarrow = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2+y,vectorYend2+x],[vectorXend2, vectorYend2],[vectorXend2+y2, vectorYend2+x2]], {
                                         color: 'red',
                                         weight: 2,
                                 });
 				}
 				else 
                                 {
-                                var lines = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2-y,vectorYend2-x],[vectorXend2,
+                                var myarrow = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2-y,vectorYend2-x],[vectorXend2,
  vectorYend2],[vectorXend2-y2, vectorYend2-x2]], {
                                         color: 'red',
                                         weight: 2,
                                 });
                                 }	
-				return lines 
+                                mapsubmit.allarrows.push(myarrow);
+                                myarrow.addTo(map);
+				return myarrow 
         }}).addTo(map);
 
 
