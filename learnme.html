@@ -17,13 +17,15 @@ document.getElementById("sigmax").value = 20;
   <body>
        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
        <script src="leaflet/leaflet.js"></script>
-       <script src="pbo_velocity_snarf.js"></script>
+<!--       <script src="pbo_velocity_snarf.js"></script>
+       <script src="panga_snarf_comb_hvel.js"></script>  -->
        <script src="http://code.highcharts.com/highcharts.js"></script>
        <script src="http://code.highcharts.com/highcharts-more.js"></script>
 <!-- Make Form to be submitted -->
 	<h1><strong><em> Welcome to the Vector Projector</em></strong></h1>
 
-        <select id="json_select" onchange="javascript:load_elements(this.value)">
+        <select id="json_select" onsubmit="javascript:load_elements(this.value)">
+            <option value="panga_snarf_comb_hvel.js"> PANGA Horizontal
             <option selected value="pbo_velocity_snarf.js"> PBO Horizontal
         </select>
 	Width (km): <input type="text" name="projwidth" value=15 id="projwidth" ><br>
@@ -33,6 +35,8 @@ document.getElementById("sigmax").value = 20;
 <!-- Make Map -->
 	<div id="map_canvas"></div>
 	<div id="container" style="height: 400px" "float: left"></div>	
+	<div id="container2" style="height: 400px" "float: left"></div>	
+	<div id="container3" style="height: 400px" "float: left"></div>	
 <!-- <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script> -->
            <script src="basemap.js"></script>
 	   <script src="mapme.js"></script>

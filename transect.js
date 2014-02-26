@@ -57,8 +57,15 @@ function transect() {
                 }).addTo(map);
 
                 var myFilteredData = null;
+		/// define some arrays for graphing
                 var plotdata = [];
                 var plotuncerts = [];
+                var plotpardata = [];
+                var plotparuncerts = [];
+                var plotperpdata = [];
+                var plotperpuncerts = [];
+		/// Figure out which sites to use, and what their velocities are
+
                 myFilteredData = $(myData).each(function () {
                     //console.log(this.geometry.coordinates);
                     var x = (mapclick.startLatlng.lng - mapclick.endLatlng.lng) * 111;
@@ -87,15 +94,33 @@ function transect() {
                     var k = i * Math.cos(theta * (3.14159 / 180));
                     var p1 = rx + k;
                     var p2 = ry - h + j;
+
+		    /// Calculate the distance of the GPS point on the profile
                     var magDist = Math.sqrt((p1 * p1) + (p2 * p2));
+
+		    /// Calculate the velocities
+		    /// Magnitude
                     var velMag = Math.sqrt((this.properties.vx * this.properties.vx) + (this.properties.vy * this.properties.vy));
-		    var uncert =  Math.sqrt((this.properties.svx * this.properties.svx) + (this.properties.svy * this.properties.svy));
-		    var velMagHigh = velMag + uncert;
-		    var velMagLow = velMag - uncert;
+		    var velPerp = velMag * Math.cos(fork * (3.14159 / 180)); 
+		    var velPar = velMag * Math.sin(fork * (3.14159 / 180)); 
+		    var Runcert =  Math.sqrt((this.properties.svx * this.properties.svx) + (this.properties.svy * this.properties.svy));
+		    var SigPerp = Runcert * (Math.cos(fork * (3.14159 / 180)));  	
+		    var SigPar = Runcert * (Math. sin(fork * (3.14159 / 180)));  	
+		   // var SigPar = 
+		    var velMagHigh = velMag + Runcert;
+		    var velMagLow = velMag - Runcert;
+		    var velParHigh = velPar + SigPar;
+		    var velParLow = velPar - SigPar;
+		    var velPerpHigh = velPerp + SigPerp;
+		    var velPerpLow = velPerp - SigPerp;
                     if (mapclick.startLatlng.lat <= mapclick.endLatlng.lat && mapclick.startLatlng.lng <= mapclick.endLatlng.lng) {
                         if (dabs <= document.getElementById('projwidth').value && R <= Rmax && this.geometry.coordinates[0] >= mapclick.startLatlng.lng && this.properties.svx <= document.getElementById('sigmax').value && this.properties.svy <= document.getElementById('sigmax').value) {
                             plotdata.push([magDist, velMag, velMagLow, velMagHigh, this.properties.name]);
 			    plotuncerts.push({x:magDist,low:velMagLow, high:velMagHigh});
+                            plotpardata.push([magDist, velPar]);
+			    plotparuncerts.push({x:magDist,low:velParLow, high:velParHigh});
+                            plotperpdata.push([magDist, velPerp]);
+			    plotperpuncerts.push({x:magDist,low:velPerpLow, high:velPerpHigh});
                             //window.plotdata = plotdata
                             //console.log(d, theta, phi, fork);
                             var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
@@ -118,6 +143,10 @@ function transect() {
                             plotdata.push([magDist, velMag]);
 			    plotuncerts.push([magDist, velMagLow, velMagHigh]);
 			    plotuncerts.push({x:magDist,low:velMagLow, high:velMagHigh});
+                            plotpardata.push([magDist, velPar]);
+			    plotparuncerts.push({x:magDist,low:velParLow, high:velParHigh});
+                            plotperpdata.push([magDist, velPerp]);
+			    plotperpuncerts.push({x:magDist,low:velPerpLow, high:velPerpHigh});
                             var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
                                 radius: 3,
                                 fillColor: "black",
@@ -136,6 +165,10 @@ function transect() {
                             plotdata.push([magDist, velMag, this.properties.name]);
 			    plotuncerts.push([magDist,velMagLow, velMagHigh]);
 			    plotuncerts.push({x:magDist,low:velMagLow, high:velMagHigh});
+                            plotpardata.push([magDist, velPar]);
+			    plotparuncerts.push({x:magDist,low:velParLow, high:velParHigh});
+                            plotperpdata.push([magDist, velPerp]);
+			    plotperpuncerts.push({x:magDist,low:velPerpLow, high:velPerpHigh});
                             var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
                                 radius: 3,
                                 fillColor: "black",
@@ -154,6 +187,10 @@ function transect() {
                             plotdata.push([magDist, velMag, this.properties.name]);
 			    plotuncerts.push([magDist,velMagLow, velMagHigh]);
 			    plotuncerts.push({x:magDist,low:velMagLow, high:velMagHigh});
+                            plotpardata.push([magDist, velPar]);
+			    plotparuncerts.push({x:magDist,low:velParLow, high:velParHigh});
+                            plotperpdata.push([magDist, velPerp]);
+			    plotperpuncerts.push({x:magDist,low:velPerpLow, high:velPerpHigh});
                             var tranDots = L.circleMarker([this.geometry.coordinates[1], this.geometry.coordinates[0]], {
                                 radius: 3,
                                 fillColor: "black",
@@ -173,6 +210,10 @@ function transect() {
 
 		var mydataplot= plotdata.sort(function(a,b) {return b-a});
 		var myuncertsplot =plotuncerts.sort(function(a,b) {return b-a});
+		var myparplot= plotpardata.sort(function(a,b) {return b-a});
+		var myparuncertsplot =plotparuncerts.sort(function(a,b) {return b-a});
+		var myperpplot= plotperpdata.sort(function(a,b) {return b-a});
+		var myperpuncertsplot =plotperpuncerts.sort(function(a,b) {return b-a});
                 $(function () {
 
                     //plotdata = [].slice.call(plotdata);
@@ -182,14 +223,15 @@ function transect() {
                             zoomType: 'xy'
                         },
                         title: {
-                            text: 'GPS velocity as a function of Distance along a Profile'
+                            //text: 'GPS velocity as a function of Distance along a Profile'
+                            text: ''
                         },
-                        subtitle: {
-                            text: 'GPS Magnitude'
-                        },
+                       // subtitle: {
+                       //     text: 'GPS Magnitude'
+                       // },
                         xAxis: {
                             title: {
-                                enabled: true,
+                                enabled: false,
                                 text: 'Distance (km)'
                             },
                             startOnTick: true,
@@ -198,13 +240,13 @@ function transect() {
                         },
                         yAxis: {
                             title: {
-                                text: 'Velocity Magnitude (mm/yr)'
+                                text: 'V Magnitude (mm/yr)'
                             }
                         },
                         legend: {
                             layout: 'vertical',
-                            align: 'center',
-                            verticalAlign: 'top',
+                            align: 'left',
+                            verticalAlign: 'bottom',
                             x: 100,
                             y: 70,
                             floating: true,
@@ -236,7 +278,7 @@ function transect() {
                             }
                         },
                         series: [{
-                            name: 'GPS Velocities',
+                            name: 'Magnitude',
                             type: 'scatter',
                             color: 'rgba(223, 83, 83, .7)',
                             data: mydataplot
@@ -248,6 +290,158 @@ function transect() {
 
 			],
                     });
+
+
+
+                    $('#container2').highcharts({
+                        chart: {
+                            zoomType: 'xy'
+                        },
+                        title: {
+                            text: ''
+                        },
+                     //   subtitle: {
+                     //       text: 'GPS Magnitude'
+                     //   },
+                        xAxis: {
+                            title: {
+                                enabled: false,
+                                text: 'Distance (km)'
+                            },
+                            startOnTick: true,
+                            endOnTick: true,
+                            showLastLabel: true
+                        },
+                        yAxis: {
+                            title: {
+                                text: 'Profile Parallel V(mm/yr)'
+                            }
+                        },
+                        legend: {
+                            layout: 'vertical',
+                            align: 'left',
+                            verticalAlign: 'bottom',
+                            x: 100,
+                            y: 70,
+                            floating: true,
+                            backgroundColor: '#FFFFFF',
+                            borderWidth: 1
+                        },
+                        plotOptions: {
+                            scatter: {
+                                marker: {
+                                    radius: 5,
+                                    states: {
+                                        hover: {
+                                            enabled: true,
+                                            lineColor: 'rgb(100,100,100)'
+                                        }
+                                    }
+                                },
+                                states: {
+                                    hover: {
+                                        marker: {
+                                            enabled: false
+                                        }
+                                    }
+                                },
+                                tooltip: {
+                                    headerFormat: '<b>{series.name}</b><br>',
+                                    pointFormat: '{point.x} km, {point.y} mm/yr'
+                                }
+                            }
+                        },
+                        series: [{
+                            name: 'Parallel V',
+                            type: 'scatter',
+                            color: 'rgba(223, 83, 83, .7)',
+                            data: myparplot
+                        } , {
+                            name: 'GPS error',
+                            type: 'errorbar',
+                            data: myparuncertsplot
+                        }
+
+                        ],
+                    });
+
+
+                    $('#container3').highcharts({
+                        chart: {
+                            zoomType: 'xy'
+                        },
+                        title: {
+                            text: ''
+                        },
+                       // subtitle: {
+                       //     text: 'GPS Magnitude'
+                       // },
+                        xAxis: {
+                            title: {
+                                enabled: true,
+                                text: 'Distance (km)'
+                            },
+                            startOnTick: true,
+                            endOnTick: true,
+                            showLastLabel: true
+                        },
+                        yAxis: {
+                            title: {
+                                text: 'Profile Perpendicular V(mm/yr)'
+                            }
+                        },
+                        legend: {
+                            layout: 'vertical',
+                            align: 'left',
+                            verticalAlign: 'bottom',
+                            x: 100,
+                            y: 70,
+                            floating: true,
+                            backgroundColor: '#FFFFFF',
+                            borderWidth: 1
+                        },
+                        plotOptions: {
+                            scatter: {
+                                marker: {
+                                    radius: 5,
+                                    states: {
+                                        hover: {
+                                            enabled: true,
+                                            lineColor: 'rgb(100,100,100)'
+                                        }
+                                    }
+                                },
+                                states: {
+                                    hover: {
+                                        marker: {
+                                            enabled: false
+                                        }
+                                    }
+                                },
+                                tooltip: {
+                                    headerFormat: '<b>{series.name}</b><br>',
+                                    pointFormat: '{point.x} km, {point.y} mm/yr'
+                                }
+                            }
+                        },
+                        series: [{
+                            name: 'Perpendicular V',
+                            type: 'scatter',
+                            color: 'rgba(223, 83, 83, .7)',
+                            data: myperpplot
+                        } , {
+                            name: 'GPS error',
+                            type: 'errorbar',
+                            data: myperpuncertsplot
+                        }
+
+                        ],
+                    });
+
+
+
+
+
                 });
             }
     });

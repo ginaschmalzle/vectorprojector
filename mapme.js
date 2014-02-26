@@ -2,6 +2,23 @@ var dots = null,
 	arrows = null;
 $("#submit").on("click", mapme);
 
+console.log (document.getElementById("json_select").value);
+
+
+//Load in Selected JSON file
+if (document.getElementById('json_select').value === "panga_snarf_comb_hvel.js")
+{
+  $.getScript("panga_snarf_comb_hvel.js", function(){
+//	alert("PANGA data uploaded");
+  });
+}
+else
+{
+  $.getScript("pbo_velocity_snarf.js", function(){
+//	alert("PBO data uploaded");
+  });
+} 
+
 function mapme(){
 	var myFilteredData = null;
 
