@@ -1,10 +1,12 @@
 //var dots = null,
 //	arrows = null;
 $("#submit").on("click", transect);
+transect(data);
 ///  Put array for transect
 // Array method called push  -- > push item into array 
 
-function transect() {
+
+function transect(myData) {
     var mapclick = {
         startLatlng: null,
         endLatlng: null,
