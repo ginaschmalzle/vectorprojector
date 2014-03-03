@@ -7,7 +7,7 @@ if [ $deploy = 'yes' ]
 then 
 #  sudo apachectl start
   mkdir ${dir}/${projname} 
-  cp -r  * ${dir}/${projname}/
+  cp -R  * ${dir}/${projname}/
   chmod -R +x ${dir}/${projname}/leaflet
   chmod -R +x ${dir}/${projname}/data
 else
