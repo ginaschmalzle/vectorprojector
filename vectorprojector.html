@@ -1,0 +1,38 @@
+<DOCTYPE html>
+<html>
+  <head>
+<!-- Import Styles -->
+       <link rel="stylesheet" href="leaflet/leaflet.css" />
+       <link rel="stylesheet" href="css/mystyle.css" />
+  </head>
+
+  <body>
+<!-- Import frameworks and libraries -->
+       <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+       <script src="leaflet/leaflet.js"></script>
+       <script src="http://code.highcharts.com/highcharts.js"></script>
+       <script src="http://code.highcharts.com/highcharts-more.js"></script>
+
+<!-- Make Form to be submitted -->
+	<h1><strong><em> Welcome to the Vector Projector, Beta 1.0 </em></strong></h1>
+	<a href="readme.html">README</a> 
+
+        <select id="json_select" onsubmit="javascript:load_elements(this.value)">
+            <option value="PANGA"> PANGA Horizontal SNARF
+            <option selected value="PBO"> PBO Horizontal SNARF
+        </select>
+	Width (km): <input type="text" name="projwidth" value=15 id="projwidth" ><br>
+	Max Uncertainties (mm/yr): <input type="text" name="sigmax" value=2 id="sigmax" ><br>
+	<input id="submit" type="submit" name="Submit" ><br>
+
+<!-- Make Map -->
+	<div id="map_canvas"></div>
+
+<!-- Make Graph Canvases -->
+	<div id="container" style="height: 400px" "float: left"></div>	
+	<div id="container2" style="height: 400px" "float: left"></div>	
+	<div id="container3" style="height: 400px" "float: left"></div>	
+           <script src="js/basemap.js"></script>
+	   <script src="js/mapme.js"></script>
+  </body>
+</html>

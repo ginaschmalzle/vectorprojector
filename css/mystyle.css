@@ -1,0 +1,27 @@
+h1
+           {
+           font-size:250%;
+           font-family:"Arial Black", Gadget, sans-serif;
+           font-style:italic;
+           }
+#map_canvas
+          {
+           width: 500px;
+           height: 600px;
+	   float: left;
+          }
+#container
+	{
+	  max-height: 25%; 
+	  float: left;
+	}
+#container2
+	{
+	  max-height: 25%; 
+	  float: left;
+	}
+#container3
+	{
+	  max-height: 25%; 
+	  float: left;
+	}
