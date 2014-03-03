@@ -148,7 +148,7 @@ function mapme(myData){
 			}
                         else if ((feature.properties.vx <=0 ) && (feature.properties.vy<=0))
                         {
-                        var makeArrow  = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2-y,vectorYend2-x],[vectorXend2, vectorYend2],[vectorXend2-y2, vectorYend2-x2]], {
+                        var makeArrow  = L.polyline([[vectorXstart, vectorYstart],[vectorXend2, vectorYend2],[vectorXend2+y,vectorYend2+x],[vectorXend2, vectorYend2],[vectorXend2+y2, vectorYend2+x2]], {
                                     color: 'red',
                                     weight: 2,
                             });
