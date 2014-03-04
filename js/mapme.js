@@ -258,8 +258,8 @@ function transect(e, myData) {
         /// Calculate the velocities
         /// Magnitude
         var velMag = Math.sqrt((this.properties.vx * this.properties.vx) + (this.properties.vy * this.properties.vy));
-        var velPerp = -velMag * Math.sin(epsilon * (3.14159 / 180)); 
-        var velPar = velMag * Math.cos(epsilon * (3.14159 / 180)); 
+        var velPerp = velMag * Math.sin(-epsilon * (3.14159 / 180)); 
+        var velPar = velMag * Math.cos(-epsilon * (3.14159 / 180)); 
         var Runcert =  Math.sqrt((this.properties.svx * this.properties.svx) + (this.properties.svy * this.properties.svy));
         var SigPar = Math.sqrt ((Runcert * Runcert) * ((Math.cos(epsilon * (3.14159 / 180))*(Math.cos(epsilon * (3.14159 / 180))))));  	
         var SigPerp = Math.sqrt ((Runcert * Runcert) * ((Math.sin(epsilon * (3.14159 / 180))*(Math.sin(epsilon * (3.14159 / 180))))));  	
