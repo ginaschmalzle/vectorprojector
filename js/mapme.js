@@ -241,7 +241,7 @@ function transect(e, myData) {
         var phi = Math.atan(ry / rx) * (180 / 3.14159);
         var fork = phi - theta;
         var zeta = Math.atan(this.properties.vy / this.properties.vx) * (180/3.14159);
-        var epsilon = zeta - theta;
+        var epsilon = theta - zeta;
         var d = (R * Math.sin(fork * (3.14159 / 180)));
         var dabs = Math.abs(d);
         var gamma = 90 - theta;
@@ -258,8 +258,16 @@ function transect(e, myData) {
         /// Calculate the velocities
         /// Magnitude
         var velMag = Math.sqrt((this.properties.vx * this.properties.vx) + (this.properties.vy * this.properties.vy));
-        var velPerp = velMag * Math.sin(-epsilon * (3.14159 / 180)); 
-        var velPar = velMag * Math.cos(-epsilon * (3.14159 / 180)); 
+	if (this.properties.vx > 0 ) {
+	console.log(zeta, theta);
+          var velPerp = velMag * Math.sin(epsilon * (3.14159 / 180)); 
+          var velPar = velMag * Math.cos(epsilon * (3.14159 / 180)); 
+	}
+	else {
+          var velPerp = velMag * Math.sin(epsilon * (3.14159 / 180));
+          var velPar = -velMag * Math.cos(epsilon * (3.14159 / 180)); 
+        }
+	
         var Runcert =  Math.sqrt((this.properties.svx * this.properties.svx) + (this.properties.svy * this.properties.svy));
         var SigPar = Math.sqrt ((Runcert * Runcert) * ((Math.cos(epsilon * (3.14159 / 180))*(Math.cos(epsilon * (3.14159 / 180))))));  	
         var SigPerp = Math.sqrt ((Runcert * Runcert) * ((Math.sin(epsilon * (3.14159 / 180))*(Math.sin(epsilon * (3.14159 / 180))))));  	
