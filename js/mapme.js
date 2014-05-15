@@ -58,16 +58,19 @@ function newdata() {
 	var value = document.getElementById('json_select').value;
 	
     if (value === "PANGA") {
-        url = '/vectorprojector/data/panga_snarf_comb_hvel.json';
+        url = '/data/panga_snarf_comb_hvel.json';
 	}
     else if (value === "NGS") {
-        url = '/vectorprojector/data/ngs_velocity.json';
+        url = '/data/ngs_velocity.json';
     }
     else if (value === "Landers") {
-        url = '/vectorprojector/data/landers_agnew_2002.json';
+        url = '/data/landers_agnew_2002.json';
+    }
+    else if (value === "McCaffrey") {
+        url = '/data/mccaffrey_etal_2013.json';
     }
     else {	
-        url = '/vectorprojector/data/pbo_velocity_snarf.json';
+        url = '/data/pbo_velocity_snarf.json';
     }
 	
 	$.getJSON(url, function (data) {
@@ -113,16 +116,16 @@ function mapme(myData){
         pointToLayer: function (feature, latlng) {
 			var vectorXstart = latlng.lat,  
 				vectorYstart = latlng.lng,
-				size = .02,
+				size = .025,
 				size2 = .015,
 				arrowAngle = 30 
 				theta = (Math.atan(feature.properties.vy/feature.properties.vx))*(180/3.14159),
 				phi = 90 - arrowAngle - theta;
 				phi2 = 90 + arrowAngle - theta;
 			var vectorXend2 = vectorXstart + feature.properties.vy * size;
-                            var vectorYend2 = vectorYstart + feature.properties.vx * size;
+            var vectorYend2 = vectorYstart + feature.properties.vx * size;
 			var vectorXend1 = vectorXstart + feature.properties.vy * size2;
-                            var vectorYend1 = vectorYstart + feature.properties.vx * size2;
+            var vectorYend1 = vectorYstart + feature.properties.vx * size2;
 			var test1 = (vectorXend2-vectorXend1)*(vectorXend2-vectorXend1);
 			var test2 = (vectorXend2-vectorXend1)*(vectorYend2-vectorYend1);
 			var R = Math.sqrt(((vectorXend2-vectorXend1)*(vectorXend2-vectorXend1)) + ((vectorYend2-vectorYend1)*(vectorYend2-vectorYend1)));
